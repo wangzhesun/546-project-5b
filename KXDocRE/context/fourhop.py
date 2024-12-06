@@ -127,19 +127,7 @@ def find_fourhoprelations(entity1, entity2):
 
     return label1,entitylabelz, label2,entitylabele, label3,entitylabelf,label4,entitylabelg, label5
 
-   
-
-
-
-# Read JSON file
-#with open('all_entities.json', 'r') as f:
-#    data = json.load(f)
-#entities = data
-# Loop through the entities
-#for i in range(len(entities)):
-#    for j in range(i+1, len(entities)):
-#        entity1 = entities[i]
-#        entity2 = entities[j]
+i = 1
 
 with open("final_entity_pair.txt","r") as gh:
     for jhoom in gh:
@@ -149,6 +137,8 @@ with open("final_entity_pair.txt","r") as gh:
         try:
          relation_labels1,z,relation_labels2,e,relation_labels3,f,relation_labels4,g,relation_labels5=find_fourhoprelations(entity1,entity2)
          if(relation_labels1 and z and relation_labels2 and e and relation_labels3 and f and relation_labels4):
+          print(i)
+          i += 1
 
           with open("full_fivehop.txt","a+") as df:
             df.write(entity1.strip())
@@ -175,10 +165,3 @@ with open("final_entity_pair.txt","r") as gh:
             df.write("\n")
         except:
          pass
-
-
-
-          #with open("threehop.txt","a+") as g:
-          #               g.write(entity1+"\t"+str(relation_labels1)+"\t"+str(z)+"\n"+z+"\t"+str(relation_labels2)+"\t"+str(e)+"\n"+str(e)+"\t"+str(relation_labels3)+"\t"+str(f)+"\n"+str(f)+"\t"+str(relation_labels4)+"\t"+str(entity2)+"\n")
-          #               #print("The four hop relations between",en1,"and",en2,"is:",relation_labels1,relation_labels2,relation_labels3,relation_labels4)
-

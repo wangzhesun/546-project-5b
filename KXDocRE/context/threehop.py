@@ -1,172 +1,247 @@
-
-import json
-from SPARQLWrapper import SPARQLWrapper, JSON
-
-from SPARQLWrapper import SPARQLWrapper,JSON
-
-
 import requests
+import time
+import math
 
-import requests
-
-def get_property_label_with_sparql(property_id):
-    query = f"""
-    SELECT ?propertyLabel
-    WHERE {{
-      wd:{property_id} rdfs:label ?propertyLabel.
-      FILTER(LANG(?propertyLabel) = "en")
-    }}
+def find_property_labels_batch(property_ids):
     """
+    Fetch human-readable labels for a batch of property IDs from Wikidata API.
+    """
+    labels = {}
+    if not property_ids:
+        return labels
     
-    url = 'https://query.wikidata.org/sparql'
-    params = {'query': query, 'format': 'json'}
-    headers = {'User-Agent': 'YourBotName/0.1 (your@email.com)'}
-    
-    response = requests.get(url, params=params, headers=headers)
+    ids = "|".join(property_ids)
+    url = f"https://www.wikidata.org/w/api.php?action=wbgetentities&ids={ids}&format=json&props=labels"
+    response = requests.get(url)
     
     if response.status_code == 200:
+        if not response.text.strip():
+            print(f"Warning: Empty response for property IDs: {property_ids}")
+            return {property_id: property_id for property_id in property_ids}
+        # print(response)
         data = response.json()
-        bindings = data['results']['bindings']
-        if len(bindings) > 0:
-            label = bindings[0]['propertyLabel']['value']
-            return label
+        # print(data)
+        
+        # Check if the response contains 'entities'
+        if "entities" in data:
+            for property_id in property_ids:
+                if property_id in data["entities"]:
+                    entity = data["entities"][property_id]
+                    if "labels" in entity and "en" in entity["labels"]:
+                        labels[property_id] = entity["labels"]["en"]["value"]
+                    else:
+                        labels[property_id] = property_id  # Fallback to ID if no label is found
+                else:
+                    labels[property_id] = property_id  # Fallback to ID if property is not found
         else:
-            return None
+            # If 'entities' key is missing, we log a warning and return the IDs as fallback
+            print(f"Warning: 'entities' key missing in response for IDs: {property_ids}")
+            for property_id in property_ids:
+                labels[property_id] = property_id  # Fallback to ID
+        
     else:
-        return None
+        # Handle non-200 status codes (API failure)
+        print(f"Error: Received status code {response.status_code} for property IDs: {property_ids}")
+        for property_id in property_ids:
+            labels[property_id] = property_id  # Fallback to ID if there's an API error
+
+    return labels
 
 
-def get_entity_label_with_sparql(entity_id):
-    query = f"""
-    SELECT ?entityLabel
-    WHERE {{
-      wd:{entity_id} rdfs:label ?entityLabel.
-      FILTER(LANG(?entityLabel) = "en")
-    }}
+def batch_sparql_query(entity_pairs):
     """
-    
-    url = 'https://query.wikidata.org/sparql'
-    params = {'query': query, 'format': 'json'}
-    headers = {'User-Agent': 'YourBotName/0.1 (your@email.com)'}
-    
-    response = requests.get(url, params=params, headers=headers)
-    
-    if response.status_code == 200:
-        data = response.json()
-        bindings = data['results']['bindings']
-        if len(bindings) > 0:
-            label = bindings[0]['entityLabel']['value']
-            return label
-        else:
-            return None
-    else:
-        return None
-
-
-def find_threehoprelations(entity1, entity2):
-    # Set up the SPARQL endpoint
+    Queries relationships for a batch of entity pairs using SPARQL.
+    """
     endpoint_url = "https://query.wikidata.org/sparql"
-    sparql = SPARQLWrapper(endpoint_url)
-    sparql.setReturnFormat(JSON)
-
-    query = """
-    SELECT DISTINCT ?relation1 ?z ?relation2 ?e ?relation3 ?f ?relation4
+    headers = {'User-Agent': 'YourBotName/0.1 (your@email.com)'}
+    
+    # Construct the VALUES clause with the batch of pairs
+    values_clause = " ".join(f"(wd:{e1.strip()} wd:{e2.strip()})" for e1, e2 in entity_pairs)
+    # print(values_clause)
+    # query = f"""
+    # SELECT ?entity1 ?relation1 ?x ?relation2 ?y ?relation3 ?z ?relation4 ?entity2
+    # WHERE {{
+    # VALUES (?entity1 ?entity2) {{
+    #     {values_clause}
+    # }}
+    # ?entity1 ?relation1 ?x.
+    # ?x ?relation2 ?y.
+    # ?y ?relation3 ?z.
+    # ?z ?relation4 ?entity2.
+    # GROUP BY ?entity1 ?entity2
+    # LIMIT 1
+    # }}
+    # """
+    query = f"""
+    SELECT ?entity1 ?entity2 
+        (SAMPLE(?relation1) AS ?relation1) (SAMPLE(?x) AS ?x)
+        (SAMPLE(?relation2) AS ?relation2) (SAMPLE(?y) AS ?y)
+        (SAMPLE(?relation3) AS ?relation3) (SAMPLE(?z) AS ?z)
+        (SAMPLE(?relation4) AS ?relation4)
     WHERE {{
-    wd:{entity1_id} ?relation1   ?z.
-    ?z  ?relation2   ?e.
-    ?e   ?relation3   ?f.
-    ?f   ?relation4 wd:{entity2_id}.
-    }} LIMIT 1
-    """.format(entity1_id=entity1, entity2_id=entity2)
+        VALUES (?entity1 ?entity2) {{
+            {values_clause}
+        }}
+        ?entity1 ?relation1 ?x.
+        ?x ?relation2 ?y.
+        ?y ?relation3 ?z.
+        ?z ?relation4 ?entity2.
+    }}
+    GROUP BY ?entity1 ?entity2
+    """
 
-    #print(query)
-    sparql.setQuery(query)
+    # print(query)
+    
+    # Perform the SPARQL query
+    response = requests.get(endpoint_url, params={"query": query, "format": "json"}, headers=headers)
+    if response.status_code == 200:
+        return response.json()
+    else:
+        print(f"Error: {response.status_code}, retrying after 5 seconds...")
+        time.sleep(5)
+        return None
 
-    # Send the SPARQL query and retrieve the results
-    results = sparql.query().convert()
+def process_entity_pairs(input_file, output_file, batch_size=120, label_batch_size=40):
+    """
+    Reads entity pairs from a file, processes them in batches, and writes results to an output file.
+    """
+    # Read all entity pairs
+    with open(input_file, "r") as f:
+        entity_pairs = [line.strip().split("\t") for line in f.readlines()]
 
-    # Extract the relation labels from the query results
-    relation_labels1 = [result["relation1"]["value"].rsplit('/', 1)[-1] for result in results["results"]["bindings"]]
-    relation_labels2 = [result["relation2"]["value"].rsplit('/', 1)[-1] for result in results["results"]["bindings"]]
-    relation_labels3 = [result["relation3"]["value"].rsplit('/', 1)[-1] for result in results["results"]["bindings"]]
-    relation_labels4 = [result["relation3"]["value"].rsplit('/', 1)[-1] for result in results["results"]["bindings"]]
+    # Divide into batches for entity pairs
+    total_batches = math.ceil(len(entity_pairs) / batch_size)
+    for batch_idx in range(total_batches):
+        batch_start = batch_idx * batch_size
+        batch_end = batch_start + batch_size
+        batch = entity_pairs[batch_start:batch_end]
+        
+        print(f"Processing batch {batch_idx + 1}/{total_batches} for entity pairs...")
+        
+        # Query relationships for the batch (entity pairs in batch of 120)
+        result = batch_sparql_query(batch)
+        if result:
+            # Use a dictionary to store relations for each entity pair
+            entity_relations = {}
+            
+            for binding in result["results"]["bindings"]:
+                # print(binding)
+                # Parse the SPARQL binding results
+                entity1 = binding.get("entity1", {}).get("value", "").split("/")[-1]
+                entity2 = binding.get("entity2", {}).get("value", "").split("/")[-1]
+                relation1 = binding.get("relation1", {}).get("value", "").split("/")[-1]
+                relation2 = binding.get("relation2", {}).get("value", "").split("/")[-1]
+                relation3 = binding.get("relation3", {}).get("value", "").split("/")[-1]
+                relation4 = binding.get("relation4", {}).get("value", "").split("/")[-1]
+                intermediate_x = binding.get("x", {}).get("value", "").split("/")[-1].split("-")[0].upper()
+                intermediate_y = binding.get("y", {}).get("value", "").split("/")[-1].split("-")[0].upper()
+                intermediate_z = binding.get("z", {}).get("value", "").split("/")[-1].split("-")[0].upper()
 
-    z = [result["z"]["value"].rsplit('/', 1)[-1] for result in results["results"]["bindings"]]
-    e = [result["e"]["value"].rsplit('/', 1)[-1] for result in results["results"]["bindings"]]
-    f = [result["f"]["value"].rsplit('/', 1)[-1] for result in results["results"]["bindings"]]
+                # Store the relationship data
+                if (entity1, entity2) not in entity_relations:
+                    entity_relations[(entity1, entity2)] = []
+                entity_relations[(entity1, entity2)].append({
+                    "relation1": relation1,
+                    "intermediate_x": intermediate_x,
+                    "relation2": relation2,
+                    "intermediate_y": intermediate_y,
+                    "relation3": relation3,
+                    "intermediate_z": intermediate_z,
+                    "relation4": relation4,
+                })
+            
+            # Now, fetch the relation labels in batches of 40 (max 50 per request)
+            all_relations = [
+                relation["relation1"] for relations in entity_relations.values() for relation in relations
+            ] + [
+                relation["relation2"] for relations in entity_relations.values() for relation in relations
+            ] + [
+                relation["relation3"] for relations in entity_relations.values() for relation in relations
+            ] + [
+                relation["relation4"] for relations in entity_relations.values() for relation in relations
+            ]
 
-    if relation_labels1 is not None and z is not None and relation_labels2 is not None and e is not None and relation_labels3 is not None and f is not None:
-     relation_labels1=str(relation_labels1).strip("[]''")
-     relation_labels2=str(relation_labels2).strip("[]''")
-     relation_labels3=str(relation_labels3).strip("[]''")
-     relation_labels4=str(relation_labels4).strip("[]''")
+            all_intermediate_entities = [
+                relation["intermediate_x"]
+                for relations in entity_relations.values() for relation in relations
+            ] + [
+                relation["intermediate_y"]
+                for relations in entity_relations.values() for relation in relations
+            ] + [
+                relation["intermediate_z"]
+                for relations in entity_relations.values() for relation in relations
+            ]
 
-     z=str(z).strip("[]''")
-     e=str(e).strip("[]''")
-     f=str(f).strip("[]''")
+            # print([
+            #     relation["intermediate_x"]
+            #     for relations in entity_relations.values() for relation in relations
+            # ])
+            
+            # Calculate the exact number of batches required
+            unique_relations = list(set(all_relations))  # Remove duplicates
+            num_batches_relation = math.ceil(len(unique_relations) / label_batch_size)
 
-     label1 = get_property_label_with_sparql(relation_labels1)
-     label2 = get_property_label_with_sparql(relation_labels2)
-     label3 = get_property_label_with_sparql(relation_labels3)
-     label4 = get_property_label_with_sparql(relation_labels4)
+            unique_entities = list(set(all_intermediate_entities))  # Remove duplicates
+            num_batches_entity = math.ceil(len(unique_entities) / label_batch_size)
+            
+            # Fetch labels for each batch of property IDs
+            property_labels = {}
+            for i in range(num_batches_relation):
+                print(f"Fetching relation labels batch {i + 1}/{num_batches_relation}...")
+                label_batch_start = i * label_batch_size
+                label_batch_end = label_batch_start + label_batch_size
+                label_batch = unique_relations[label_batch_start:label_batch_end]
+                
+                labels_result = find_property_labels_batch(label_batch)
+                property_labels.update(labels_result)
 
-     entitylabelz= get_entity_label_with_sparql(z)
-     entitylabele= get_entity_label_with_sparql(e)
-     entitylabelf= get_entity_label_with_sparql(f)
+                time.sleep(1.5)
+            
+            entity_labels = {}
+            # print(unique_entities)
+            for i in range(num_batches_entity):
+                print(f"Fetching entity labels batch {i + 1}/{num_batches_entity}...")
+                label_batch_start = i * label_batch_size
+                label_batch_end = label_batch_start + label_batch_size
+                label_batch = unique_entities[label_batch_start:label_batch_end]
+                
+                # print(label_batch)
+                labels_result = find_property_labels_batch(label_batch)
+                entity_labels.update(labels_result)
 
+                time.sleep(1.5)
+            
+            # print(entity_labels)
 
-
-     #print(relation_labels1,z,relation_labels2,e,relation_labels3,f,relation_labels4)
-
-    return label1,entitylabelz, label2,entitylabele, label3,entitylabelf,label4
-
-   
-
-
-
-# Read JSON file
-#with open('all_entities.json', 'r') as f:
-#    data = json.load(f)
-#entities = data
-# Loop through the entities
-#for i in range(len(entities)):
-#    for j in range(i+1, len(entities)):
-#        entity1 = entities[i]
-#        entity2 = entities[j]
-
-with open("final_entity_pair.txt","r") as gh:
-    for jhoom in gh:
-        entity1,entity2=jhoom.split("\t")
-        entity1=entity1.strip()
-        entity2=entity2.strip()
-        try:
-         relation_labels1,z,relation_labels2,e,relation_labels3,f,relation_labels4=find_threehoprelations(entity1,entity2)
-         if(relation_labels1 and z and relation_labels2 and e and relation_labels3 and f and relation_labels4):
-
-          with open("full_fourhop.txt","a+") as df:
-            df.write(entity1.strip())
-            df.write("#")
-            df.write(entity2.strip())
-            df.write("\t")
-            df.write(relation_labels1.strip())
-            df.write("#")
-            df.write(z.strip())
-            df.write('#')
-            df.write(relation_labels2.strip())
-            df.write('#')
-            df.write(e.strip())
-            df.write('#')
-            df.write(relation_labels3.strip())
-            df.write('#')
-            df.write(f.strip())
-            df.write(relation_labels4.strip())
-            df.write("\n")
-        except:
-         pass
+            with open(output_file, "a") as out_f:
+                for (entity1, entity2), relations in entity_relations.items():
+                    for relation in relations:
+                        # Fetch labels for relations
+                        relation1_label = property_labels.get(relation["relation1"], relation["relation1"])
+                        relation2_label = property_labels.get(relation["relation2"], relation["relation2"])
+                        relation3_label = property_labels.get(relation["relation3"], relation["relation3"])
+                        relation4_label = property_labels.get(relation["relation4"], relation["relation4"])
+                        
+                        # Fetch labels for intermediate entities
+                        intermediate_x_label = entity_labels.get(relation["intermediate_x"], relation["intermediate_x"])
+                        intermediate_y_label = entity_labels.get(relation["intermediate_y"], relation["intermediate_y"])
+                        intermediate_z_label = entity_labels.get(relation["intermediate_z"], relation["intermediate_z"])
+                        
+                        # Write the correctly labeled output
+                        out_f.write(
+                            f"{entity1}#{entity2}\t"
+                            f"{relation1_label}#{intermediate_x_label}#"
+                            f"{relation2_label}#{intermediate_y_label}#"
+                            f"{relation3_label}#{intermediate_z_label}#"
+                            f"{relation4_label}\n"
+                        )
+        
+        time.sleep(1.5)
 
 
+# Input and output file paths
+input_file = "final_entity_pair.txt"  # Replace with your input file
+output_file = "full_fourhop.txt"       # Replace with your output file
 
-          #with open("threehop.txt","a+") as g:
-          #               g.write(entity1+"\t"+str(relation_labels1)+"\t"+str(z)+"\n"+z+"\t"+str(relation_labels2)+"\t"+str(e)+"\n"+str(e)+"\t"+str(relation_labels3)+"\t"+str(f)+"\n"+str(f)+"\t"+str(relation_labels4)+"\t"+str(entity2)+"\n")
-          #               #print("The four hop relations between",en1,"and",en2,"is:",relation_labels1,relation_labels2,relation_labels3,relation_labels4)
-
+# Process pairs in batches of 100
+process_entity_pairs(input_file, output_file, batch_size=10, label_batch_size=10)
