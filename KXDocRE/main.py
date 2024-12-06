@@ -619,7 +619,7 @@ def collate_fn(batch, args, relation2id, tokenizer, redisd, encoder, sbert_wk):
             #        t_tokens.insert(i, l)
             #        #print(t_tokens)
             #   break  # Stop after the first occurrence (if there are multiple)
-            #
+
 
             # selected_ret = process(tokenizer, " ".join(doc[h_start:h_end]), " ".join(doc[t_start:t_end]),h_tokens,t_tokens,ke)
             for selected_ret in selected_ret_list:
