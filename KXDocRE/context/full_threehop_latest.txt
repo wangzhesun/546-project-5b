@@ -1,0 +1,475 @@
+Q353#Q343969	child#Blanche of Castile#child#Charles I of Naples#sibling
+Q2027#Q305892	based on#Linux Mint#based on#Ubuntu#package management system
+Q7204#Q6723	continent#Middle East#continent#Africa#located in time zone
+Q16635#Q24288456	country#United States of America#contains the administrative territorial entity#Guam#electrical plug type
+Q46130#Q273748	capital#Lyon#shares border with#Lyon#shares border with
+Q76749#Q5891	occupation#San Edith Stein#occupation#philosopher#field of this occupation
+Q81294#Q166074	writable file format#Mathematica#writable file format#XML#used by
+Q112747#Q1428	country of origin#United States of America#diplomatic relation#Georgia#different from
+Q155961#Q170174	position held#Clement IX#replaces#Alexander VII#country of citizenship
+Q140012#Q48	country#Zima#country#Soviet Union#continent
+Q155577#Q183387	performer#Céline Dion#influenced by#Barbra Streisand#record label
+Q163016#Q413	occupation#Lewis Fry Richardson#occupation#physicist#field of this occupation
+Q158043#Q481666	father#Merneptah#father#Ramesses II#child
+Q208269#Q1384	cast member#Jim Carrey#country of citizenship#United States of America#contains the administrative territorial entity
+Q159329#Q131272	genre#rhythm and blues#topic's main Wikimedia portal#Portal:R&B and Soul Music#Wikimedia portal's main topic
+Q316442#Q16	basin country#Berg Lake#basin country#Canada#country
+Q502396#Q1697	place of death#Andrey Kapitsa#place of death#Moscow#shares border with
+Q173500#Q6574	country#Ireland#shares border with#Northern Ireland#located in time zone
+Q318334#Q47887	place of death#Nijmegen#has works in the collection#Regional Archives Nijmegen#located in the administrative territorial entity
+Q231032#Q7318	country#4th Panzer Division#country#Nazi Germany#country
+Q267911#Q46	country#Ilz#country#Germany#continent
+Q191782#Q217570	readable file format#Waveform Audio File Format#based on#Resource Interchange File Format#has part(s)
+Q338041#Q37073	record label#We Are Born#record label#RCA Records#genre
+Q272157#Q511482	position held#Æthelbald#replaced by#Æthelberht#family
+Q704495#Q46	different from#Upper Silesia Province#different from#Upper Silesia#continent
+Q707310#Q1384	country of citizenship#Billy Name#country of citizenship#United States of America#contains the administrative territorial entity
+Q1057015#Q43	cast member#Taken 2#cast member#Aclan Bates#country of citizenship
+Q300976#Q37073	lyricist#You Rock My World#lyricist#Michael Jackson#genre
+Q505123#Q4775035	educated at#Antioch College#part of#Antioch College#part of
+Q348571#Q202440	record label#Atlantic Records#owned by#Warner Music Group#owner of
+Q715148#Q48	part of#Zolotoy Rog#part of#Peter the Great Gulf#continent
+Q430799#Q46	country#Mukhavets River#country#Belarus#continent
+Q1128745#Q1428	country of origin#Hall Pass#country of origin#United States of America#contains the administrative territorial entity
+Q597154#Q5	followed by#Mercury Seven#followed by#NASA Astronaut Group 2#is a list of
+Q1140152#Q25224	replaces#Irish Republic#replaces#United Kingdom of Great Britain and Ireland#currency
+Q909794#Q164621	performer#Hitmixes#performer#Lady Gaga#notable work
+Q1073447#Q1406	platform#Microsoft Windows#developer#Microsoft#product, material, or service produced or provided
+Q1145306#Q2088496	located in the administrative territorial entity#University of Calcutta#located in the administrative territorial entity#Kolkata#located in the administrative territorial entity
+Q846922#Q189709	airline alliance#Star Alliance#founded by#United Airlines#airline alliance
+Q635214#Q1050395	child#Yodo-dono#spouse#Toyotomi Hideyoshi#relative
+Q918194#Q48493	instance of#video game#model item#Pac-Man#operating system
+Q479064#Q13371	educated at#David Rutley#educated at#Harvard Business School#founded by
+Q1081894#Q1406	operating system#Android#programmed in#C#operating system
+Q1232116#Q302556	country#Luxeuil Abbey#country#France#described by source
+Q684886#Q121254	member of#Labour Party#member of#Party of European Socialists#political ideology
+Q1435107#Q1076638	main subject#Revolution OS#main subject#GNU#movement
+Q938239#Q44414	director#Trey Parker#related category#Category:Films directed by Trey Parker#category combines topics
+Q1369680#Q16	outflows#Lillooet Lake#outflows#Lillooet River#country
+Q1421396#Q3333484	country#Valaam Monastery#country#Russian Empire#official religion
+Q1545129#Q1384	filming location#Weekend at Bernie's#filming location#New York City#located in the administrative territorial entity
+Q1587234#Q48	country#Shyok River#country#India#continent
+Q1053371#Q30	country#Pennsylvania Route 88#country#United States of America#country
+Q1042505#Q221419	based on#KJ-2000#based on#Ilyushin Il-76#manufacturer
+Q1589584#Q15180	country#Europa Plus#country#Russia#separated from
+Q2333557#Q739552	part of the series#Final Fantasy Adventure#part of the series#Mana#developer
+Q2352995#Q44414	follows#Sarcastaball#follows#Cartman Finds Love#director
+Q1444046#Q1323594	production company#Touchstone Pictures#owned by#Walt Disney Studios#has subsidiary
+Q2824374#Q49108	educated at#Adi Godrej#educated at#MIT Sloan School of Management#parent organization
+Q2665964#Q259934	sibling#Bruno Mussolini#sibling#Romano Mussolini#sibling
+Q1471545#Q388	platform#Linux#influenced by#Unix#derivative work
+Q2506221#Q2506783	transport network#Utah State Route 60#transport network#Utah State Routes#maintained by
+Q2506187#Q2506783	transport network#Utah State Route 45#transport network#Utah State Routes#maintained by
+Q3487426#Q1077	cast member#Friday's Child#character role#James T. Kirk#present in work
+Q2928381#Q60	headquarters location#Headquarters of the United Nations#owned by#United Nations#headquarters location
+Q1687804#Q1145814	educated at#Jerry Colangelo#educated at#University of Illinois Urbana–Champaign#parent organization
+Q2962282#Q183412	follows#Chemical World#follows#For Tomorrow#record label
+Q2506331#Q2506783	connects with#Utah State Route 111#connects with#Utah State Route 171#maintained by
+Q2506553#Q2506783	transport network#Utah State Route 196#transport network#Utah State Routes#maintained by
+Q3025443#Q1428	cast member#Mireille Enos#country of citizenship#United States of America#contains the administrative territorial entity
+Q1473159#Q11399	performer#Past Masters#performer#The Beatles#genre
+Q1749114#Q30	country of origin#One Droopy Knight#country of origin#United States of America#country
+Q3488828#Q1136071	follows#Mirror, Mirror#season#Star Trek: The Original Series, season 2#has part(s)
+Q2506820#Q408192	part of#U.S. Route 6#transport network#U.S. Route 6#transport network
+Q3180345#Q183412	followed by#The Universal#followed by#Stereotypes#record label
+Q1945121#Q48	country#Palakollu#country#India#continent
+Q3186996#Q30	country#Journey into Imagination with Figment#country#United States of America#country
+Q2578684#Q2578626	part of the series#The Simpsons#has part(s)#The Simpsons, season 5#has part(s)
+Q2200855#Q5410773	sport#Quidditch Cup#sport#Quidditch#from narrative universe
+Q2015702#Q48	country#Manas River#country#India#continent
+Q3272694#Q16296	cast member#The Survivors#character role#Jean-Luc Picard#performer
+Q2654409#Q362	operator#Japanese destroyer Yūgumo#operator#Imperial Japanese Navy#conflict
+Q3499602#Q97	located in the administrative territorial entity#Stockinish#located in the administrative territorial entity#Outer Hebrides#located in or next to body of water
+Q4658168#Q312570	characters#A Matter of Time#characters#Geordi La Forge#performer
+Q5374391#Q258612	part of the series#Empok Nor#part of the series#Star Trek: Deep Space Nine#cast member
+Q3649419#Q208909	performer#C'Mon People#performer#Paul McCartney#record label
+Q2292328#Q30	basin country#Skilak Lake#basin country#United States of America#country
+Q2235088#Q48	country#Sangkae River#country#Cambodia#continent
+Q3595610#Q6828	country#India#diplomatic relation#Sri Lanka#located in time zone
+Q7027867#Q217346	employer#Nick Salvatore#employer#Cornell University#located in the administrative territorial entity
+Q3898458#Q30	country of origin#Peace Frog#country of origin#United States of America#country
+Q4105171#Q30	genre#Been Down So Long#genre#blues#country of origin
+Q7180525#Q316955	part of the series#Star Trek: The Next Generation#followed by#Star Trek: Deep Space Nine#cast member
+Q19631660#Q14116	distributed by#Outer Wilds#distributed by#Steam#operating system
+Q6036887#Q348445	follows#Inquisition#follows#Wrongs Darker Than Death or Night#cast member
+Q6036887#Q546404	follows#Inquisition#follows#Wrongs Darker Than Death or Night#characters
+Q25496325#Q35277	author#First Meditation#author#René Descartes#field of work
+Q52217688#Q11401	genre#Beerbongs & Bentleys#genre#alternative hip hop#subclass of
+Q10361338#Q7443179	characters#Jean-Luc Picard#from narrative universe#Star Trek universe#fictional universe described in
+Q4486161#Q7857147	part of the series#Star Trek: Voyager#has part(s)#Star Trek: Voyager, season 2#has part(s)
+Q7431504#Q826155	followed by#Schisms#followed by#True Q#characters
+Q12041709#Q353101	follows#In the Hands of the Prophets#characters#Quark#performer
+Q54864611#Q38903	producer#Kanye West#record label#Def Jam Recordings#parent organization
+Q4546965#Q60	stock exchange#MongoDB Inc.#stock exchange#Nasdaq#located in the administrative territorial entity
+Q56405721#Q56405258	contains the administrative territorial entity#Vestfold og Telemark#contains the administrative territorial entity#Kviteseid Municipality#shares border with
+Q6181718#Q5092	employer#Jeremy Nathans#employer#Johns Hopkins University#located in the administrative territorial entity
+Q7460758#Q1960052	characters#Shadowplay#characters#Odo#significant person
+Q6270441#Q311453	part of the series#Ship in a Bottle#part of the series#Star Trek: The Next Generation#cast member
+Q60140221#Q30	country#United States of America#shares border with#Canada#shares border with
+Q60429878#Q11399	performer#Love Me Do#performer#The Beatles#genre
+Q15530319#Q9212	place of burial#Arlington National Cemetery#maintained by#United States Department of the Army#has subsidiary
+Q60560185#Q37073	published in#If I Fell#followed by#And I Love Her#genre
+Q7549312#Q202440	performer#So Hott#performer#Kid Rock#record label
+Q16001589#Q1152150	headquarters location#Ace Chemicals#headquarters location#Gotham City#from narrative universe
+Q7732182#Q16276	instance of#Star Trek episode#properties for this type#startrek.com Database ID#Wikidata property example
+Q16930657#Q488659	location#Naval Support Activity Bethesda#location#Bethesda#located in the administrative territorial entity
+Q6315844#Q83440	part of#Just Because I'm a Woman#follows#Hello, I'm Dolly#genre
+Q6921073#Q30	country#United States of America#part of#North America#contains the administrative territorial entity
+Q7762876#Q5083	headquarters location#Seattle#twinned administrative body#Gdynia#twinned administrative body
+Q7764112#Q3342685	part of the series#The Siege#part of the series#Star Trek: Deep Space Nine#characters
+Q1449#Q6723	located in the administrative territorial entity#Genoa#located in the administrative territorial entity#Province of Genoa#located in time zone
+Q13917#Q6723	capital#Paris#shares border with#Hauts-de-Seine#located in time zone
+Q16641#Q24288454	different from#Samoa#shares border with#United States of America#electrical plug type
+Q22690#Q6655	capital of#Metz#capital of#Moselle#located in time zone
+Q28975#Q215030	place of death#Christopher Marlowe#place of death#Deptford#located in the administrative territorial entity
+Q42308#Q6723	twinned administrative body#Kharkiv#twinned administrative body#Maribor#located in time zone
+Q83978#Q1156334	original broadcaster#Nicktoons#parent organization#Nicktoons#parent organization
+Q103850#Q48	capital of#Arsenyev#capital of#Arsenyev Urban Okrug#continent
+Q106379#Q38903	record label#Universal Music Group#has subsidiary#Motown#parent organization
+Q54922#Q245207	home venue#Community of Madrid Sports Centre#occupant#Real Madrid Baloncesto#chairperson
+Q131517#Q14712	parent taxon#Prunus cerasus#parent taxon#Prunus#has fruit type
+Q58806#Q3806	educated at#Heinrich Anton de Bary#doctoral advisor#Hugo von Mohl#place of death
+Q156046#Q48	country#Kurilsk#country#Japan#continent
+Q157044#Q1384	screenwriter#Michael Cunningham#country of citizenship#United States of America#contains the administrative territorial entity
+Q194501#Q189464	developer#gedit#developer#The GNOME Project#product, material, or service produced or provided
+Q256662#Q217346	educated at#Harvard University#member of#arXiv#located in the administrative territorial entity
+Q92824#Q21198	child#Daniel Pearl#father#Judea Pearl#field of work
+Q429397#Q1188938	part of the series#Lethal Weapon 4#follows#Lethal Weapon 3#production company
+Q200804#Q1188938	cast member#Carl Weathers#notable work#Predator#production company
+Q259934#Q2895943	father#Edda Mussolini#father#Benito Mussolini#child
+Q826942#Q30	country#Mount Griggs#country#United States of America#country
+Q935101#Q30	country#U.S. Route 111#country#United States of America#country
+Q596110#Q48	country#Fuji River#country#Japan#continent
+Q1445837#Q11399	tracklist#Yesterday and Today#tracklist#We Can Work It Out#genre
+Q343969#Q165284	mother#Alphonse, Count of Poitiers#mother#Blanche of Castile#spouse
+Q1507895#Q434841	part of the series#Moaning Lisa#part of the series#The Simpsons#production company
+Q688619#Q1361045	owned by#Olympus Corporation#owned by#Sony Group#member of
+Q1050395#Q635214	father#Ohatsu#father#Azai Nagamasa#spouse
+Q160726#Q1145814	educated at#University of Illinois Urbana–Champaign#different from#University of Illinois at Chicago#part of
+Q423736#Q98	country#Akun Island#country#United States of America#located in or next to body of water
+Q1138089#Q2506783	terminus#Utah State Route 12#terminus#U.S. Route 89 in Utah#maintained by
+Q704317#Q82595	league or competition#Bastian Reinhardt#league or competition#2. Bundesliga#follows
+Q2298901#Q2632892	owned by#TNK-BP#owned by#Rosneft#stock exchange
+Q1623606#Q30	author#Blood Canticle#author#Anne Rice#country of citizenship
+Q1576279#Q11401	lyricist#I Need a Doctor#lyricist#Eminem#genre
+Q1147042#Q7598	instance of#GCompris#instance of#GNU package#named after
+Q3185629#Q340	employer#Joseph A. Schwarcz#employer#McGill University#located in the administrative territorial entity
+Q3129358#Q1406	GUI toolkit or framework#HeeksCAD#GUI toolkit or framework#wxWidgets#operating system
+Q2311323#Q30	country of origin#Smuggler's Run#country of origin#United States of America#country
+Q706081#Q7264	author#Materialism and Empirio-criticism#author#Vladimir Lenin#movement
+Q2354215#Q6574	located in the administrative territorial entity#Central London#located in the administrative territorial entity#London#located in time zone
+Q1701113#Q6828	located in the administrative territorial entity#Madhavaram#located in the administrative territorial entity#Chennai#located in time zone
+Q3656215#Q78485	father#Ernst L. Freud#father#Sigmund Freud#child
+Q1155356#Q756617	country#Denmark#head of government#Mette Frederiksen#country of citizenship
+Q3280032#Q794335	cast member#Patrick Stewart#notable work#Star Trek: The Next Generation#characters
+Q2493232#Q434841	part of the series#Brush with Greatness#part of the series#The Simpsons#production company
+Q1255759#Q5410773	present in work#Harry Potter#instance of#Harry Potter#of
+Q1393304#Q595448	architect#Imperial War Museum North#architect#Daniel Libeskind#movement
+Q1720889#Q82595	member of sports team#Eintracht Frankfurt#league or competition#Eintracht Frankfurt#league or competition
+Q3714946#Q784760	follows#2002 NFL Draft#follows#2001 NFL Draft#followed by
+Q4023597#Q18543	member of sports team#Zach Loyd#member of sports team#FC Dallas#league or competition
+Q5990769#Q83440	award received#If Tomorrow Never Comes#winner#Garth Brooks#genre
+Q2506126#Q2506783	maintained by#Utah Department of Transportation#parent organization#Government of Utah#has subsidiary
+Q2506255#Q2506783	terminus#Utah State Route 76#terminus#Interstate 70 in Utah#maintained by
+Q1772048#Q15180	country#Belozersky District#country#Russia#separated from
+Q6090638#Q313671	part of the series#It's Only a Paper Moon#part of the series#Star Trek: Deep Space Nine#cast member
+Q3438086#Q183387	performer#Abandoned Love#performer#Bob Dylan#record label
+Q4089774#Q30	country#Berkeley Divinity School#country#United States of America#country
+Q3441864#Q625731	part of the series#Time Squared#part of the series#Star Trek: The Next Generation#characters
+Q1809285#Q1325591	adjacent station#Church Avenue#towards#Coney Island-Stilwell Avenue#operator
+Q2506351#Q2506783	terminus#Utah State Route 119#terminus#Utah State Route 24#maintained by
+Q2590038#Q64350339	developer#Apple#product, material, or service produced or provided#iPad#operating system
+Q4655436#Q83440	record label#A Better Man#record label#RCA Records#genre
+Q5035884#Q30	country#Capitol Hill Arts Center#country#United States of America#country
+Q2287930#Q253414	sport#Panamanian Football Federation#sport#association football#authority
+Q2625341#Q7715973	based on#Ubuntu#based on#Ubuntu#based on
+Q7431504#Q253764	part of the series#Schisms#part of the series#Star Trek: The Next Generation#cast member
+Q7431504#Q312570	part of the series#Schisms#part of the series#Star Trek: The Next Generation#cast member
+Q5223330#Q826155	characters#Jean-Luc Picard#present in work#Star Trek: The Next Generation#characters
+Q6875693#Q9592	country#Mexico#replaces#First Mexican Empire#religion or worldview
+Q3487385#Q30	director#Vincent McEveety#country of citizenship#United States of America#country
+Q5380005#Q346595	cast member#Patrick Stewart#notable work#Star Trek: The Next Generation#cast member
+Q3041994#Q1384	country#Miss New York USA#country#United States of America#contains the administrative territorial entity
+Q7132240#Q13371	educated at#Harvard Business School#founded by#Harvard Business School#founded by
+Q7752695#Q2473641	characters#The Muse#characters#Odo#significant person
+Q7135031#Q311453	part of the series#Parallels#part of the series#Star Trek: The Next Generation#cast member
+Q7753998#Q346595	part of the series#The Next Phase#part of the series#Star Trek: The Next Generation#cast member
+Q3592956#Q3333484	part of#Russian Orthodox Diocese of Chersonesus#part of#Patriarchal Exarchate in Western Europe#religion or worldview
+Q5467482#Q316955	part of the series#Force of Nature#part of the series#Star Trek: The Next Generation#cast member
+Q7460803#Q348445	part of the series#Shadows and Symbols#part of the series#Star Trek: Deep Space Nine#cast member
+Q7239746#Q625731	part of the series#Preemptive Strike#part of the series#Star Trek: The Next Generation#characters
+Q7766854#Q546404	part of the series#The Storyteller#part of the series#Star Trek: Deep Space Nine#characters
+Q11863377#Q1960052	part of the series#The House of Quark#part of the series#Star Trek: Deep Space Nine#characters
+Q5532994#Q30	country#Geneva Country Day School#country#United States of America#country
+Q7804770#Q311453	part of the series#Time's Arrow#part of the series#Star Trek: The Next Generation#cast member
+Q7572719#Q30	country#Spaces with Iron#country#United States of America#country
+Q7571852#Q48	country#Sowcarpet#country#India#continent
+Q5554472#Q5554265	season#Doctor Who, season 17#has part(s)#Nightmare of Eden I#part of
+Q18678265#Q6655	shares border with#Spain#country#Spain#located in time zone
+Q7265274#Q2195486	part of the series#Star Trek: Deep Space Nine#cast member#Star Trek: Deep Space Nine#character role
+Q14580455#Q30	genre#Anthem Lights#genre#pop rock#country of origin
+Q7732182#Q794335	part of the series#Star Trek: The Next Generation#cast member#Star Trek: The Next Generation#character role
+Q14688369#Q30	country#Gene Stratton-Porter Cabin#country#United States of America#country
+Q14688782#Q30	country#Robert Dale Owen Memorial#country#United States of America#country
+Q7844651#Q30	language of work or name#Trivia Trap#language of work or name#English#country
+Q7947634#Q1384	country#WCBS-FM#country#United States of America#contains the administrative territorial entity
+Q7363266#Q30	country#Maverik Stadium#country#United States of America#country
+Q14961390#Q44414	part of the series#Let Go, Let Gov#part of the series#South Park#author
+Q7954240#Q30	country#WPEO#country#United States of America#country
+Q7951087#Q30	country#WVCW#country#United States of America#country
+Q19729999#Q16277237	said to be the same as#Jacky#said to be the same as#John#said to be the same as
+Q35160593#Q1473065	producer#Tim Bevan#spouse#Joely Richardson#spouse
+Q17028310#Q1384	country of origin#United States of America#country#United States of America#contains the administrative territorial entity
+Q7749576#Q3829419	part of the series#Star Trek: Deep Space Nine#characters#Nog#stepparent
+Q23683242#Q298532	father#Arzu Alieva#father#Ilham Aliev#child
+Q7977425#Q83440	genre#country music#based on#western music#subclass of
+Q7997573#Q30	country#Wholesale District#country#United States of America#country
+Q8056923#Q83440	performer#You Asked Me To#performer#Waylon Jennings#genre
+Q17029720#Q30	cast member#Road to Paloma#cast member#Sarah Shahi#country of citizenship
+Q53700514#Q6186	instance of#Nepal Communist Party#instance of#communist party#political ideology
+Q9126923#Q956	employer#Meng Hongwei#employer#Peking University#located in the administrative territorial entity
+Q54958420#Q30	cast member#The One and Only Ivan#cast member#Bryan Cranston#country of citizenship
+Q18355755#Q18543	member of sports team#Oalex Anderson#member of sports team#Seattle Sounders FC#league or competition
+Q10280029#Q14116	distributed by#Fantasy Grounds#distributed by#Steam#operating system
+Q60378768#Q11399	performer#The Beatles#copyright representative#Michael Jackson#genre
+Q60858062#Q11399	performer#Lady Madonna#performer#The Beatles#genre
+Q61363468#Q2506783	transport network#U.S. Route 89A in Utah#transport network#Utah State Routes#maintained by
+Q68816595#Q208279	shares border with#Strath#shares border with#Sleat#located in the administrative territorial entity
+Q64550917#Q1187721	part of the series#Redmi 7A#part of the series#Redmi#operating system
+Q238#Q302556	country#San Marino#country#San Marino#described by source
+Q3766#Q6723	twinned administrative body#Damascus#twinned administrative body#Budapest#located in time zone
+Q586#Q6723	twinned administrative body#Bonn#twinned administrative body#Tel Aviv#located in time zone
+Q11265#Q30	Onestop ID#Times Square–42nd Street/Port Authority Bus Terminal#connecting service#7#country
+Q14549#Q1346342	located in the administrative territorial entity#Scotland#official language#English#subclass of
+Q157395#Q48	located in the administrative territorial entity#Langepas#located in the administrative territorial entity#Khanty-Mansi Autonomous Okrug#continent
+Q159943#Q395	different from#abstract algebra#different from#algebra#part of
+Q19060#Q131272	instance of#album#model item#19#genre
+Q160318#Q15955153	country of citizenship#Cambodia#head of state#Norodom Sihamoni#family
+Q172671#Q48	country#Russia#shares border with#Japan#continent
+Q113846#Q1854869	follows#2001 NHL entry draft#followed by#2002 NHL entry draft#followed by
+Q201795#Q2666591	member of#Ben Bernanke#member of#Board of Governors of the Federal Reserve System#office held by head of the organization
+Q211094#Q11399	genre#Ronnie Wood#genre#rock and roll#subclass of
+Q128491#Q190585	performer#What the Water Gave Me#performer#Florence + the Machine#record label
+Q129158#Q37073	composer#We Belong Together#composer#Mariah Carey#genre
+Q174157#Q1227381	father#Jacques Reclus#child#Élisée Reclus#sibling
+Q219776#Q1384	country of origin#X2#country of origin#United States of America#contains the administrative territorial entity
+Q297657#Q269928	father#Antiochus IV Epiphanes#child#Alexandros Balas#sibling
+Q140680#Q30	composer#Henry Mancini#copyright representative#American Society of Composers, Authors and Publishers#country
+Q186888#Q1075404	country#Soviet Union#founded by#Russian Soviet Federative Socialist Republic#basic form of government
+Q219878#Q38903	record label#Universal Music Group#has subsidiary#Motown#parent organization
+Q319392#Q234388	mother#Marlon Jackson#mother#Katherine Jackson#child
+Q460160#Q233704	sibling#Iullus Antonius#sibling#Cleopatra Selene II#sibling
+Q521948#Q1428	country of origin#United States of America#country#United States of America#contains the administrative territorial entity
+Q248688#Q13419956	follows#84th Academy Awards#followed by#85th Academy Awards#followed by
+Q292282#Q35856	student of#Paul the Apostle#student#Lydia of Thyatira#significant event
+Q605778#Q38903	record label#Digital Underground#record label#Interscope Records#part of
+Q421707#Q1145814	educated at#Jerry Orbach#educated at#University of Illinois Urbana–Champaign#parent organization
+Q931093#Q19801202	said to be the same as#Juan#said to be the same as#Hans#said to be the same as
+Q680302#Q146055	sibling#Iaret#sibling#Nefertari#family
+Q589953#Q133730	instance of#film#properties for this type#Film w prasie polskiej press collection ID#Wikidata property example
+Q737944#Q30	publisher#Wolfenstein RPG#publisher#EA Mobile#country
+Q1332574#Q46	country#Jūra#country#Lithuania#continent
+Q1370280#Q23337	employer#Jan Harold Brunvand#employer#University of Utah#located in the administrative territorial entity
+Q844903#Q1071953	health specialty#medical genetics#topic's main category#Category:Medical genetics#category's main topic
+Q893453#Q7318	military branch#Unsinkable Sam#military branch#Kriegsmarine#country
+Q2150914#Q68740	country#United States of America#contains the administrative territorial entity#Hawaii#named after
+Q2613326#Q1325591	transport network#Woodhaven Boulevard#transport network#New York City Subway#operator
+Q2305341#Q2556555	father#Baidar#father#Chagatai Khan#child
+Q1493690#Q776656	followed by#1998 NHL entry draft#follows#1997 NHL entry draft#followed by
+Q1593309#Q38903	record label#Hedley#record label#Capitol Records#owned by
+Q604274#Q5891	author#Summa contra Gentiles#author#Thomas Aquinas#field of work
+Q2633010#Q1406	expansion of#Civilization III: Play the World#expansion of#Civilization III#platform
+Q2496237#Q434841	follows#The War of the Simpsons#follows#Lisa's Substitute#production company
+Q2945111#Q1428	country#United States of America#contains the administrative territorial entity#United States of America#contains the administrative territorial entity
+Q3444400#Q16290	cast member#We'll Always Have Paris#character role#Jean-Luc Picard#present in work
+Q947786#Q1406	operating system#Microsoft Windows#has edition or translation#Windows 8#subclass of
+Q966001#Q83440	genre#country music#based on#western music#subclass of
+Q1763219#Q37073	performer#Separate Ways#performer#Elvis Presley#genre
+Q1070155#Q6828	located in the administrative territorial entity#Chepauk#located in the administrative territorial entity#Chennai#located in time zone
+Q2506231#Q2506783	transport network#Utah State Route 62#transport network#Utah State Routes#maintained by
+Q2982737#Q245188	architect#Curutchet House#architect#Le Corbusier#movement
+Q3071627#Q30	country of origin#Fight Night 2004#country of origin#United States of America#country
+Q1765236#Q11399	performer#20 Greatest Hits#performer#The Beatles#genre
+Q2506237#Q2506783	terminus#Utah State Route 65#terminus#Interstate 80 in Utah#maintained by
+Q1072868#Q739552	publisher#Square#followed by#Square Enix#follows
+Q3496615#Q232945	cast member#Masks#character role#Deanna Troi#performer
+Q1090799#Q1428	country#Millennium Gate#country#United States of America#contains the administrative territorial entity
+Q3231770#Q752877	part of the series#Code of Honor#part of the series#Star Trek: The Next Generation#characters
+Q1782544#Q434841	part of the series#The Call of the Simpsons#part of the series#The Simpsons#production company
+Q2506349#Q2506783	maintained by#Utah Department of Transportation#parent organization#Government of Utah#has subsidiary
+Q2507041#Q2506783	connects with#Utah State Route 181#connects with#Utah State Route 171#maintained by
+Q2563786#Q273829	follows#A Thousand Plateaus#follows#Anti-Oedipus#publisher
+Q4921480#Q30	country of origin#The Tracy Morgan Show#country of origin#United States of America#country
+Q1141116#Q1323594	production company#Touchstone Pictures#parent organization#Touchstone Pictures#parent organization
+Q3521602#Q30	country#The Little Mermaid ~ Ariel's Undersea Adventure#country#United States of America#country
+Q2579232#Q568246	performer#Hell Breaks Loose#performer#Eminem#record label
+Q3280032#Q752877	part of the series#Conspiracy#part of the series#Star Trek: The Next Generation#characters
+Q3565653#Q30	country of origin#Walt Disney World Swan#country of origin#United States of America#country
+Q2601461#Q30	country of origin#Fight Night Round 3#country of origin#United States of America#country
+Q4925260#Q414	signatory#Buenos Aires Convention#signatory#United States of America#diplomatic relation
+Q6296387#Q634019	voice actor#Anne Hathaway#notable work#Rio#production company
+Q3567870#Q2477742	fictional universe described in#The Sarah Jane Adventures#takes place in fictional universe#Whoniverse#fictional universe described in
+Q7245729#Q14116	platform#Prison Architect#platform#iOS#based on
+Q7301329#Q232945	cast member#Realm of Fear#character role#Deanna Troi#performer
+Q3352033#Q41506	educated at#Omid Kordestani#educated at#Stanford Graduate School of Business#part of
+Q3622020#Q7233	subclass of#LC-130 Hercules#subclass of#Lockheed C-130 Hercules#developer
+Q6331262#Q30	country#United States of America#shares border with#Canada#shares border with
+Q6510639#Q83440	record label#Leave the Light On#record label#RCA Records#genre
+Q3686086#Q1474884	creator#Pastoral Concert#creator#Titian#movement
+Q6539456#Q625731	part of the series#Liaisons#part of the series#Star Trek: The Next Generation#characters
+Q11907319#Q30	country of origin#Austin Powers 4#country of origin#United States of America#country
+Q7997166#Q183387	performer#Who Can I Turn To#performer#Tony Bennett#record label
+Q7416955#Q30	country#Sandstone Peak#country#United States of America#country
+Q3861272#Q46	country#Monte Calisio#country#Italy#continent
+Q4179781#Q624232	country#United States of America#owner of#White House#heritage designation
+Q5098503#Q258612	part of the series#Children of Time#part of the series#Star Trek: Deep Space Nine#cast member
+Q7443548#Q348445	follows#Second Skin#follows#Equilibrium#cast member
+Q15809853#Q30	country#Florida State Road 9A#country#United States of America#country
+Q20899576#Q1156334	original broadcaster#Shimmer and Shine#original broadcaster#Nickelodeon#owned by
+Q6808033#Q30	country#Mega-Gem#country#United States of America#country
+Q18002970#Q80976	named after#Princess Charlotte of Wales#named after#Elizabeth II#spouse
+Q7581362#Q1384	country#Sprout Creek#country#United States of America#contains the administrative territorial entity
+Q6880131#Q83440	genre#country music#based on#western music#subclass of
+Q5125241#Q60	country of citizenship#United States of America#capital#United States of America#capital
+Q7060078#Q30	composer#Northwest Hounded Police#composer#Scott Bradley#country of citizenship
+Q21480342#Q30	country of origin#Late Night Joy#country of origin#United States of America#country
+Q7712702#Q2020365	part of the series#The Adversary#part of the series#Star Trek: Deep Space Nine#characters
+Q5147067#Q48	country#Villivakkam#country#India#continent
+Q21189892#Q17625893	followed by#2017 WNBA draft#follows#2016 WNBA draft#follows
+Q19864280#Q30	genre#A Thousand Horses#genre#southern rock#country of origin
+Q5422685#Q316955	described by source#Eye of the Beholder#followed by#Genesis#cast member
+Q7857532#Q30	country of origin#Tweeter and the Monkey Man#country of origin#United States of America#country
+Q7949843#Q1384	country#WGNA-FM#country#United States of America#contains the administrative territorial entity
+Q7913606#Q1384	country#Van Rensselaer Island#country#United States of America#contains the administrative territorial entity
+Q19880576#Q30	country of origin#Idiotsitter#country of origin#United States of America#country
+Q22662530#Q1406	platform#Microsoft Windows#developer#Microsoft#product, material, or service produced or provided
+Q27645779#Q30	country of origin#United States of America#shares border with#Canada#shares border with
+Q19896065#Q48	country of citizenship#Salim Rashid Suri#country of citizenship#Oman#continent
+Q5453909#Q2656047	followed by#First Time in New York#followed by#Columns#screenwriter
+Q7956218#Q123766	operator#WTJU#operator#University of Virginia#located in the administrative territorial entity
+Q61096057#Q1152150	enemy#Nuclear Man#enemy#Superman#from narrative universe
+Q65050923#Q30	instance of#film#properties for this type#IMDb ID#country
+Q28087902#Q30	cast member#Girlboss#cast member#Johnny Simmons#country of citizenship
+Q20031748#Q1428	cast member#Michael Keaton#country of citizenship#United States of America#contains the administrative territorial entity
+Q5570513#Q29231846	founded by#Global Network Initiative#founded by#Yahoo!#owned by
+Q28163046#Q5974436	follows#SQL-86#edition or translation of#SQL-86#edition or translation of
+Q56102498#Q30	headquarters location#Netlify#country#United States of America#country
+Q69852021#Q16296	characters#Children of Mars#characters#Jean-Luc Picard#performer
+Q9602#Q21198	field of work#Frances Allen#field of work#computational science#subclass of
+Q31057#Q40807	country#Australia#contains the administrative territorial entity#Norfolk Island#anthem
+Q74535#Q30	composer#The ABCs of Death#composer#Kevin Riepl#country of citizenship
+Q128499#Q6723	country#Russia#shares border with#Finland#located in time zone
+Q162829#Q14712	parent taxon#Prunus virginiana#parent taxon#Prunus#has fruit type
+Q178071#Q170174	place of birth#Rome#located in the administrative territorial entity#Rome#located in the administrative territorial entity
+Q42904#Q38903	participant in#Eurovision Song Contest 2008#winner#Dima Bilan#record label
+Q78485#Q3656215	mother#Anna Freud#mother#Martha Bernays#child
+Q29313#Q1428	country of origin#United States of America#contains the administrative territorial entity#United States of America#contains the administrative territorial entity
+Q181959#Q170174	father#John XI#father#Sergius III#country of citizenship
+Q129498#Q925968	part of the series#Treehouse of Horror XX#part of the series#The Simpsons#composer
+Q189506#Q5891	child#Aristippus#child#Arete of Cyrene#field of work
+Q71327#Q7318	place of birth#Jena#country#Jena#country
+Q80300#Q15180	country#Nemansky District#country#Russia#separated from
+Q207870#Q34636	architectural style#La Pedrera#architectural style#Catalan modernism#subclass of
+Q81313#Q353101	part of the series#Little Green Men#part of the series#Star Trek: Deep Space Nine#cast member
+Q328506#Q1032414	sports season of league or competition#2013 Canadian Championship#follows#2012 Canadian Championship#organizer
+Q156433#Q550343	has part(s)#House of Hanover#part of#House of Welf#founded by
+Q508722#Q310637	father#Gustaf Skarsgård#father#Stellan Skarsgård#child
+Q429788#Q155006	part of#Rated R#tracklist#Te Amo#followed by
+Q239749#Q305892	based on#Maemo#based on#Debian#package management system
+Q438164#Q1384	country of citizenship#Samuel R. Delany#country of citizenship#United States of America#contains the administrative territorial entity
+Q256039#Q30	country of origin#No Time for Nuts#country of origin#United States of America#country
+Q643018#Q94	distributed by#The Final Fantasy Legend#distributed by#Google Play#operating system
+Q647296#Q1156334	original broadcaster#The Angry Beavers#original broadcaster#Nickelodeon#owned by
+Q259584#Q1239	part of#Uzi Island#part of#Zanzibar Archipelago#located in or next to body of water
+Q876857#Q48	mouth of the watercourse#Yalong River#mouth of the watercourse#Yangtze#continent
+Q910293#Q2301005	mother#Ériu#child#Bres#part of
+Q694694#Q28127371	instance of#railway station#model item#Berlin Hauptbahnhof#connecting service
+Q934853#Q1361045	owned by#Motorola Mobility#owned by#Lenovo#member of
+Q545994#Q13439060	product certification#appellation d'origine contrôlée#subclass of#controlled designation of origin#partially coincident with
+Q573619#Q5043	depicts#Black Madonna of Częstochowa#depicts#Mary#religion or worldview
+Q322731#Q1361045	member of#Wi-Fi Alliance#interested in#Wi-Fi#developer
+Q940526#Q388	operating system#Lightweight Java Game Library#operating system#macOS#influenced by
+Q733995#Q1138789	part of the series#Piranha#has part(s)#Piranha 3D#production company
+Q985099#Q739552	publisher#Romancing SaGa#publisher#Square Enix#follows
+Q576906#Q30	country#Mount Mageik#country#United States of America#country
+Q821655#Q6199	occupation#Alexander Schapiro#occupation#anarchist#field of this occupation
+Q602612#Q222929	part of the series#Homefront#part of the series#Star Trek: Deep Space Nine#narrative location
+Q463984#Q1277343	mother#Plectrude#mother#Irmina of Oeren#spouse
+Q967478#Q1473065	part of the series#Johnny English Reborn#follows#Johnny English#producer
+Q1262739#Q127955	operator#JAT Flight 367#operator#Jat Airways#airline hub
+Q871387#Q513283	publisher#New Journal of Physics#publisher#IOP Publishing#parent organization
+Q1366576#Q925968	part of the series#Once Upon a Time in Springfield#part of the series#The Simpsons#composer
+Q1974273#Q5891	author#Negative Dialectics#author#Theodor W. Adorno#field of work
+Q470507#Q1375196	screenwriter#Luc Besson#notable work#Arthur and the Minimoys#production company
+Q2078836#Q208909	performer#Stuck Inside a Cloud#performer#George Harrison#record label
+Q2665964#Q446421	relative#Bruno Mussolini#relative#Galeazzo Ciano#relative
+Q3699475#Q5043	depicts#Last Supper#depicts#Jesus#worshipped by
+Q5370534#Q311453	characters#Emergence#characters#Data#performer
+Q5370534#Q316955	characters#Emergence#characters#Worf#performer
+Q1420953#Q97	country#Norway#contains the administrative territorial entity#Bouvet Island#located in or next to body of water
+Q5499211#Q30	country#Fredericksburg Line#country#United States of America#country
+Q2130840#Q30	country#Randy's Donuts#country#United States of America#country
+Q2719715#Q25245117	parent organization#Vodafone#has subsidiary#Vodacom#industry
+Q1486412#Q5891	author#Elements of the Philosophy of Right#author#Georg Wilhelm Friedrich Hegel#field of work
+Q2721208#Q30	genre#Dizzy Up the Girl#genre#alternative rock#country of origin
+Q3700226#Q3968108	father#Carnie Wilson#father#Brian Wilson#relative
+Q5579558#Q30	country#Golden Hill Historic District#country#United States of America#country
+Q5881753#Q312570	cast member#Hollow Pursuits#character role#Geordi La Forge#performer
+Q2193397#Q204493	commissioned by#Rexford Tugwell#employer#Resettlement Administration#replaced by
+Q2992455#Q48	country#Mambalam#country#India#continent
+Q2486904#Q1384	country#New York State Route 590#country#United States of America#contains the administrative territorial entity
+Q2496225#Q434841	part of the series#Lisa's Substitute#part of the series#The Simpsons#production company
+Q1507067#Q947844	follows#2011 NBA draft#follows#2010 NBA draft#followed by
+Q1672366#Q6186	instance of#Iraqi Communist Party#instance of#communist party#political ideology
+Q3135396#Q190585	producer#Moment of Surrender#producer#Brian Eno#record label
+Q3041572#Q347111	present in work#Durge#present in work#Star Wars: Clone Wars#director
+Q1902975#Q98	country#Alaska Current#country#Canada#located in or next to body of water
+Q3215156#Q16	outflows#Beothuk Lake#outflows#Exploits River#country
+Q7135031#Q312570	characters#Parallels#characters#Geordi La Forge#performer
+Q3714946#Q3246876	follows#2002 NFL Draft#followed by#2003 NFL Draft#followed by
+Q2506529#Q2506783	terminus#Utah State Route 172#terminus#Interstate 80 in Utah#maintained by
+Q3985651#Q30	country of origin#The Andy Warhol Story#country of origin#United States of America#country
+Q6056825#Q30	country#Pacific Science#country#United States of America#country
+Q3293262#Q30	country#Mount Timpanogos Utah Temple#country#United States of America#country
+Q2591728#Q434841	followed by#Bart Gets Hit by a Car#followed by#One Fish, Two Fish, Blowfish, Blue Fish#production company
+Q7180525#Q311453	part of the series#Phantasms#part of the series#Star Trek: The Next Generation#cast member
+Q4658168#Q16296	cast member#A Matter of Time#character role#Jean-Luc Picard#performer
+Q4658168#Q311453	part of the series#A Matter of Time#part of the series#Star Trek: The Next Generation#cast member
+Q6127792#Q3224	located in the administrative territorial entity#Jamberoo#located in the administrative territorial entity#Municipality of Kiama#located in the administrative territorial entity
+Q3246876#Q3714946	follows#2003 NFL Draft#follows#2002 NFL Draft#followed by
+Q3441896#Q16296	cast member#The Schizoid Man#character role#Jean-Luc Picard#performer
+Q2634717#Q145	country#Battle of Bazentin Ridge#country#France#diplomatic relation
+Q6155953#Q756617	languages spoken, written or signed#Danish#country#Danish#country
+Q7404488#Q48	country#Saligramam#country#India#continent
+Q6833571#Q128244	part of#Michael Polanyi Center#part of#Baylor University#located in the administrative territorial entity
+Q7115406#Q179351	located in the administrative territorial entity#City of Westminster#located in the administrative territorial entity#Greater London#contains the administrative territorial entity
+Q7443548#Q506958	cast member#Second Skin#character role#Elim Garak#performer
+Q3493553#Q756617	has part(s)#Folketing#country#Denmark#country
+Q7993981#Q2473641	part of the series#Whispers#part of the series#Star Trek: Deep Space Nine#characters
+Q3516286#Q13439060	product certification#appellation d'origine contrôlée#subclass of#controlled designation of origin#partially coincident with
+Q24046102#Q14171368	from narrative universe#Thor#from narrative universe#Marvel Cinematic Universe#fictional universe described in
+Q4819304#Q30	country#Auburn Sports Arena#country#United States of America#country
+Q3567870#Q773019	fictional universe described in#Doctor Who#has part(s)#Doctor Who, series 2#has part(s)
+Q34731065#Q30	country#Wickers Creek#country#United States of America#country
+Q29562142#Q991	narrative role#Varvara Dobroselova#applies to work#Poor Folk#author
+Q7558149#Q1851230	airline hub#Solinair#airline hub#Ljubljana Jože Pučnik Airport#located in the administrative territorial entity
+Q8023100#Q1239	located in the administrative territorial entity#Wilson Inlet#located in the administrative territorial entity#Western Australia#located in or next to body of water
+Q8056923#Q30	performer#You Asked Me To#performer#Waylon Jennings#country of citizenship
+Q7729572#Q311453	part of the series#The Defector#part of the series#Star Trek: The Next Generation#cast member
+Q59285479#Q83440	record label#Nothing Breaks Like a Heart#record label#RCA Records#genre
+Q60429349#Q11399	performer#From Me To You#performer#The Beatles#genre
+Q63845238#Q2506783	transport network#Utah State Route 184#transport network#Utah State Routes#maintained by
+Q10797402#Q1152150	employer#Lucy Lane#employer#Cat Grant#from narrative universe
+Q62608819#Q2506783	terminus#Utah State Route 194#terminus#Utah State Route 68#maintained by
+Q7743136#Q30	cast member#The Jeselnik Offensive#cast member#Anthony Jeselnik#country of citizenship
+Q7807780#Q826155	follows#Tin Man#follows#Captain's Holiday#characters
+Q67437311#Q5043	follows#Mocking of Christ#follows#Soldiers placing the crown of thorns on the head of Christ#religion or worldview
+Q16744121#Q346595	part of the series#Hero Worship#part of the series#Star Trek: The Next Generation#cast member
+Q80703872#Q11299	location#Furman Hall#location#Greenwich Village#located in the administrative territorial entity
+Q78246576#Q78223744	spouse#Steve Harvey#spouse#Marjorie Bridges#child
+Q7949700#Q30	country#WGCU-FM#country#United States of America#country
+Q7954582#Q1384	country#WPYX#country#United States of America#contains the administrative territorial entity
+Q16948924#Q2023	official name#Civic Holiday#applies to jurisdiction#Ontario#shares border with
+Q19602856#Q11401	producer#To Pimp a Butterfly#producer#Pharrell Williams#genre
+Q21527758#Q30	director#If Ever I See You Again#director#Joseph Brooks#country of citizenship
+Q21838044#Q5451	country#People's Republic of China#shares border with#Nepal#located in/on physical feature

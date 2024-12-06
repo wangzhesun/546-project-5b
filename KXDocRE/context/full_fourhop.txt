@@ -1,0 +1,50 @@
+Q155961#Q170174	sibling#Camillo Domenico Rospigliosi#sibling#Camillo Domenico Rospigliosi#sibling#Clement IX#work location
+Q173500#Q6574	country#Ireland#shares border with#Ireland#shares border with#Northern Ireland#located in time zone
+Q1473159#Q11399	performer#The Beatles#genre#The Beatles#genre#rock and roll#subclass of
+Q635214#Q1050395	sibling#Oichi#sibling#Oda Nobunaga#sibling#Oichi#child
+Q1589584#Q15180	country#Europa Plus#country#Russia#follows#Russian Soviet Federative Socialist Republic#country
+Q1232116#Q302556	country#Luxeuil Abbey#country#France#shares border with#Spain#described by source
+Q2235088#Q48	continent#Asia#shares border with#Asia#shares border with#Africa#shares border with
+Q2928381#Q60	headquarters location#United Nations Office for Disarmament Affairs#headquarters location#Headquarters of the United Nations#has part(s)#Dag Hammarskjöld Library#location
+Q3025443#Q1428	instance of#film#properties for this type#IMDb ID#country#United States of America#contains the administrative territorial entity
+Q3488828#Q1136071	cast member#William Shatner#notable work#Star Trek series#takes place in fictional universe#Star Trek universe#fictional universe described in
+Q2027#Q305892	based on#Linux Mint#based on#Ubuntu#based on#Debian#package management system
+Q272157#Q511482	sibling#Æthelbald#sibling#Æthelberht#father#Æthelwulf#family
+Q715148#Q48	continent#Zolotoy Rog#continent#Asia#part of#Earth#has part(s)
+Q1053371#Q30	country#Pennsylvania Route 88#country#United States of America#shares border with#Canada#shares border with
+Q846922#Q189709	airline alliance#Avianca Honduras#airline alliance#Star Alliance#founded by#United Airlines#airline alliance
+Q1145306#Q2088496	located in the administrative territorial entity#University of Calcutta#located in the administrative territorial entity#Kolkata#located in the administrative territorial entity#Kolkata#located in the administrative territorial entity
+Q1749114#Q30	instance of#short film#subclass of#film#properties for this type#TCM Movie Database film ID#country
+Q2200855#Q5410773	present in work#Quidditch Cup#present in work#Harry Potter#fandom#Harry Potter fandom#facet of
+Q4658168#Q312570	cast member#A Matter of Time#character role#Jean-Luc Picard#present in work#Star Trek: The Next Generation#cast member
+Q60429878#Q11399	performer#Love Me Do#performer#The Beatles#influenced by#Elvis Presley#genre
+Q7204#Q6723	different from#West Asia#has part(s)#West Asia#has part(s)#Israel#located in time zone
+Q505123#Q4775035	award received#Lawrence Block#award received#Cartier Diamond Dagger#winner#Lawrence Block#educated at
+Q938239#Q44414	director#Trey Parker#award received#Trey Parker#for work#Best Friends Forever#director
+Q1369680#Q16	basin country#Lillooet Lake#basin country#Canada#country#Canada#country
+Q1042505#Q221419	manufacturer#KJ-2000#manufacturer#Ilyushin#product, material, or service produced or provided#Il-86#manufacturer
+Q1435107#Q1076638	cast member#Revolution OS#cast member#Richard Stallman#field of work#free software#movement
+Q2506331#Q2506783	transport network#Utah State Route 111#transport network#Utah State Routes#owned by#Utah State Routes#owned by
+Q6270441#Q311453	cast member#Ship in a Bottle#character role#Jean-Luc Picard#present in work#Star Trek: The Next Generation#cast member
+Q6921073#Q30	country#United States of America#country#United States of America#shares border with#Canada#shares border with
+Q7762876#Q5083	headquarters location#The Seattle Times Company#headquarters location#Seattle#twinned administrative body#Gdynia#twinned administrative body
+Q140012#Q48	country#Zima#country#Russia#continent#Russia#continent
+Q1587234#Q48	continent#Shyok River#continent#Asia#part of#Earth#has part(s)
+Q338041#Q37073	lyricist#We Are Born#lyricist#Sia#notable work#We Are Born#genre
+Q2352995#Q44414	part of the series#Sarcastaball#part of the series#South Park#director#South Park#director
+Q2506553#Q2506783	terminus#Utah State Route 196#terminus#Interstate 80 in Utah#maintained by#Interstate 80 in Utah#maintained by
+Q2962282#Q183412	performer#Chemical World#performer#Blur#has part(s)#Damon Albarn#record label
+Q2654409#Q362	name in kana#Japanese destroyer Yūgumo#determination method or standard#historical kana orthography#country#Japan#significant event
+Q3180345#Q183412	record label#The Universal#record label#EMI#follows#Associated British Picture Corporation#followed by
+Q6036887#Q546404	part of the series#Inquisition#part of the series#Star Trek: Deep Space Nine#characters#Star Trek: Deep Space Nine#characters
+Q25496325#Q35277	author#René Descartes#influenced by#René Descartes#influenced by#William of Ockham#field of work
+Q1128745#Q1428	cast member#Hall Pass#cast member#Christina Applegate#country of citizenship#United States of America#contains the administrative territorial entity
+Q1073447#Q1406	instance of#Arsenal of Democracy#instance of#video game#model item#Pac-Man#platform
+Q158043#Q481666	sibling#Merneptah#sibling#Khaemweset#sibling#Khaemweset#sibling
+Q7732182#Q16276	season#The Enemy#season#Star Trek: The Next Generation, season 3#cast member#Star Trek: The Next Generation, season 3#character role
+Q52217688#Q11401	genre#Beerbongs & Bentleys#genre#hip-hop#has part(s)#rapping#subclass of
+Q1421396#Q3333484	country#Russia#ethnic group#Russia#ethnic group#Russians#religion or worldview
+Q2333557#Q739552	part of the series#Final Fantasy Adventure#part of the series#Mana#developer#Mana#developer
+Q2506187#Q2506783	owned by#Utah State Route 45#owned by#Utah Department of Transportation#parent organization#Government of Utah#has subsidiary
+Q6036887#Q348445	part of the series#Inquisition#part of the series#Star Trek: Deep Space Nine#cast member#Star Trek: Deep Space Nine#cast member
+Q6315844#Q83440	genre#Just Because I'm a Woman#genre#country music#topic's main category#Category:Country music#category's main topic
