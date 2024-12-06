@@ -35,9 +35,9 @@ import wandb
 import json
 import wandb
 
-wandb.login(key="db192c7f9ac2a8d3f209d3dd7d9f4afabb0b05c1")
+wandb.login(key="66132372e2247d37fe793c9209abf2d450f6aa15")
 
-wandb.init(project='opensettingn', entity='xxx',name='context_added_sentence')
+wandb.init(project='opensettingn', entity='yijie4-university-of-illinois-urbana-champaign',name='context_added_sentence')
 
 
 import json
@@ -45,10 +45,10 @@ import json
 explaindict=dict
 explaindata=list
 contextdata=dict()
-with open('/home/ecrim/ecrim/entitytype_with_context.json', 'r') as file1:
+with open('/root/autodl-tmp/546-project-5b/KXDocRE/entitytype_with_context.json', 'r') as file1:
     contextdata=json.load(file1)
 
-with open('/home/ecrim/ecrim/entity2id.json','r') as ent:
+with open('/root/autodl-tmp/546-project-5b/KXDocRE/entity2id.json','r') as ent:
     entity2id=json.load(ent)
 
 
@@ -1038,15 +1038,15 @@ class CodredCallback(TrainerCallback):
         parser.add_argument('--dsre_only', action='store_true')
         parser.add_argument('--raw_only', action='store_true')
         parser.add_argument('--load_model_path', type=str, default=None)
-        parser.add_argument('--train_file', type=str, default='../data/rawdata/train_dataset.json')
-        parser.add_argument('--dev_file', type=str, default='../data/rawdata/dev_dataset.json')
-        parser.add_argument('--test_file', type=str, default='../data/rawdata/test_dataset.json')
-        parser.add_argument('--dsre_file', type=str, default='../data/dsre_train_examples.json')
+        parser.add_argument('--train_file', type=str, default='/root/autodl-tmp/546-project-5b/KXDocRE/data/data/rawdata/train_dataset.json')
+        parser.add_argument('--dev_file', type=str, default='/root/autodl-tmp/546-project-5b/KXDocRE/data/data/rawdata/dev_dataset.json')
+        parser.add_argument('--test_file', type=str, default='/root/autodl-tmp/546-project-5b/KXDocRE/data/data/rawdata/test_dataset.json')
+        parser.add_argument('--dsre_file', type=str, default='/root/autodl-tmp/546-project-5b/KXDocRE/data/data/dsre_train_examples.json')
         parser.add_argument('--model_name', type=str, default='bert')
 
 
     def load_model(self):
-        relations = json.load(open('/home/ecrim/data/rawdata/relations.json'))
+        relations = json.load(open('/root/autodl-tmp/546-project-5b/KXDocRE/data/data/rawdata/relations.json'))
         relations.sort()
         self.relations = ['n/a'] + relations
         self.relation2id = dict()
