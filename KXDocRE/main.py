@@ -45,7 +45,7 @@ import json
 explaindict=dict
 explaindata=list
 contextdata=dict()
-with open('/root/autodl-tmp/546-project-5b/KXDocRE/entitytype_with_context.json', 'r') as file1:
+with open('/root/autodl-tmp/546-project-5b/KXDocRE/context_aware_entitytype_with_context.json', 'r') as file1:
     contextdata=json.load(file1)
 
 with open('/root/autodl-tmp/546-project-5b/KXDocRE/entity2id.json','r') as ent:
@@ -389,26 +389,43 @@ def process_example_simp_context(h, t, doc1, doc2, tokenizer, max_len, redisd, n
     #unused_numbers1 = [int(u.strip('[unused]').strip(']')) for u in k1 if 'unused' in u and u.strip('[unused]').strip('')]
     #unused_numbers2 = [int(u.strip('[unused]').strip(']')) for u in k2 if 'unused' in u and u.strip('[unused]').strip('')]
 
+    k1_list = []
+    k2_list = []
     if ke in contextdata:
-     listcontext = contextdata[ke].split("#")
+        for context_item in contextdata[ke]:
+            listcontext = context_item.split("#")
 
-     for i, tokens in enumerate(k1):
-              if '[unused1]]' in tokens:
-                  for l in listcontext:
-                    k1.insert(i, l)
-              break  # Stop after the first occurrence (if there are multiple)
+            k1_updated = False
+            k2_updated = False
+            for i, tokens in enumerate(k1):
+                if '[unused1]' in tokens:
+                    k1_new = k1[:i] + listcontext + k1[i:]
+                    k1_list.append(k1_new)
+                    k1_updated = True
+                    break  # Stop after the first occurrence (if there are multiple)
 
-     for i, tokens in enumerate(k2):
-              if '[unused3]' in tokens:
-                  for l in listcontext:
-                    k2.insert(i, l)
-              break  # Stop after the first occurrence (if there are multiple)
+            for i, tokens in enumerate(k2):
+                if '[unused3]' in tokens:
+                    k2_new = k2[:i] + listcontext + k2[i:]
+                    k2_list.append(k2_new)
+                    k2_updated = True
+                    break  # Stop after the first occurrence (if there are multiple)
 
+            if not k1_updated:
+                k1_list.append(k1)
+            if not k2_updated:
+                k2_list.append(k2)
 
+    selected_rets_list = []
+    for i in range(len(k1_list)):
+        curr_k1 = k1_list[i]
+        curr_k2 = k2_list[i]
+        selected_rets = process(tokenizer, v_h['name'], v_t['name'], curr_k1, curr_k2, ke)
+        selected_rets_list.append(selected_rets)
 
-
-    selected_rets = process(tokenizer, v_h['name'], v_t['name'], k1,k2,ke)
-    return selected_rets
+    # selected_rets = process(tokenizer, v_h['name'], v_t['name'], k1,k2,ke)
+    # return selected_rets
+    return selected_rets_list
 
 
 def process_example_simp(h, t, doc1, doc2, tokenizer, max_len, redisd, no_additional_marker, mask_entity):
@@ -535,37 +552,77 @@ def collate_fn(batch, args, relation2id, tokenizer, redisd, encoder, sbert_wk):
                 tid=entity2id[str(t_name)]
             ke=hid+tid
             target_token = "[unused1]"
-           
+
+            h_tokens_list = []
+            t_tokens_list = []
             if ke in contextdata:
-             listcontext = contextdata[ke].split("#")
+                for context_item in contextdata[ke]:
+                    listcontext = context_item.split("#")
 
-             for i, tokens in enumerate(h_tokens):
-              if target_token in tokens:
-                  for l in listcontext:
-                   h_tokens.insert(i, l)
-              break  # Stop after the first occurrence (if there are multiple)
+                    h_tokens_updated = False
+                    t_tokens_updated = False
+                    for i, tokens in enumerate(h_tokens):
+                        if '[unused1]' in tokens:
+                            h_tokens_new = h_tokens[:i] + listcontext + h_tokens[i:]
+                            h_tokens_list.append(h_tokens_new)
+                            h_tokens_updated = True
+                            break  # Stop after the first occurrence (if there are multiple)
 
-             for i, tokens in enumerate(t_tokens):
-              if '[unused3]' in tokens:
-                  for l in listcontext:
-                   t_tokens.insert(i, l)
-                   #print(t_tokens)
-              break  # Stop after the first occurrence (if there are multiple)
+                    for i, tokens in enumerate(t_tokens):
+                        if '[unused3]' in tokens:
+                            t_tokens_new = t_tokens[:i] + listcontext + t_tokens[i:]
+                            t_tokens_list.append(t_tokens_new)
+                            t_tokens_updated = True
+                            break  # Stop after the first occurrence (if there are multiple)
 
+                    if not h_tokens_updated:
+                        h_tokens_list.append(h_tokens)
+                    if not t_tokens_updated:
+                        t_tokens_list.append(t_tokens)
 
-            selected_ret = process(tokenizer, " ".join(doc[h_start:h_end]), " ".join(doc[t_start:t_end]),h_tokens,t_tokens,ke)
+            selected_ret_list = []
+            for i in range(len(h_tokens_list)):
+                curr_h_tokens = h_tokens_list[i]
+                curr_t_tokens = t_tokens_list[i]
+                selected_ret = process(tokenizer, " ".join(doc[h_start:h_end]), " ".join(doc[t_start:t_end]),
+                                       curr_h_tokens,
+                                       curr_t_tokens, ke)
+                selected_ret_list.append(selected_ret)
 
-            for s_blk in selected_ret:
-                while(tokenizer.convert_tokens_to_ids("|") in s_blk.ids):
-                    s_blk.ids[s_blk.ids.index(tokenizer.convert_tokens_to_ids("|"))] = tokenizer.convert_tokens_to_ids(".")
-            input_ids = tokenizer.build_inputs_with_special_tokens(h_token_ids, t_token_ids)
-            token_type_ids = tokenizer.create_token_type_ids_from_sequences(h_token_ids, t_token_ids)
-            obj = tokenizer._pad({'input_ids': input_ids, 'token_type_ids': token_type_ids}, max_length=args.seq_len, padding_strategy='max_length')
-            _input_ids.append(obj['input_ids'])
-            _token_type_ids.append(obj['token_type_ids'])
-            _attention_mask.append(obj['attention_mask'])
-            _rs.append(r)
-            selected_rets.append(selected_ret)
+            # return selected_rets_list
+
+            # if ke in contextdata:
+            #  listcontext = contextdata[ke].split("#")
+            #
+            #  for i, tokens in enumerate(h_tokens):
+            #   if target_token in tokens:
+            #       for l in listcontext:
+            #        h_tokens.insert(i, l)
+            #   break  # Stop after the first occurrence (if there are multiple)
+            #
+            #  for i, tokens in enumerate(t_tokens):
+            #   if '[unused3]' in tokens:
+            #       for l in listcontext:
+            #        t_tokens.insert(i, l)
+            #        #print(t_tokens)
+            #   break  # Stop after the first occurrence (if there are multiple)
+
+            # selected_ret = process(tokenizer, " ".join(doc[h_start:h_end]), " ".join(doc[t_start:t_end]),h_tokens,t_tokens,ke)
+            for selected_ret in selected_ret_list:
+                for s_blk in selected_ret:
+                    while (tokenizer.convert_tokens_to_ids("|") in s_blk.ids):
+                        s_blk.ids[
+                            s_blk.ids.index(tokenizer.convert_tokens_to_ids("|"))] = tokenizer.convert_tokens_to_ids(
+                            ".")
+                input_ids = tokenizer.build_inputs_with_special_tokens(h_token_ids, t_token_ids)
+                token_type_ids = tokenizer.create_token_type_ids_from_sequences(h_token_ids, t_token_ids)
+                obj = tokenizer._pad({'input_ids': input_ids, 'token_type_ids': token_type_ids},
+                                     max_length=args.seq_len, padding_strategy='max_length')
+                _input_ids.append(obj['input_ids'])
+                _token_type_ids.append(obj['token_type_ids'])
+                _attention_mask.append(obj['attention_mask'])
+                _rs.append(r)
+                selected_rets.append(selected_ret)
         dplabel_t = torch.tensor(_rs, dtype=torch.long)
         rs_t = None
         r = None
@@ -589,11 +646,14 @@ def collate_fn_infer(batch, args, relation2id, tokenizer, redisd, encoder, sbert
     selected_rets = list()
     for doc1, doc2, l in dps:
         #print("Label:",l)
-        selected_ret = process_example_simp_context(h, t, doc1, doc2, tokenizer, args.seq_len, redisd, args.no_additional_marker, args.mask_entity)
-        for s_blk in selected_ret:
-            while(tokenizer.convert_tokens_to_ids("|") in s_blk.ids):
-                s_blk.ids[s_blk.ids.index(tokenizer.convert_tokens_to_ids("|"))] = tokenizer.convert_tokens_to_ids(".")
-        selected_rets.append(selected_ret)
+        selected_rets_list = process_example_simp_context(h, t, doc1, doc2, tokenizer, args.seq_len, redisd,
+                                                          args.no_additional_marker, args.mask_entity)
+        for selected_ret in selected_rets_list:
+            for s_blk in selected_ret:
+                while tokenizer.convert_tokens_to_ids("|") in s_blk.ids:
+                    s_blk.ids[s_blk.ids.index(tokenizer.convert_tokens_to_ids("|"))] = tokenizer.convert_tokens_to_ids(
+                        ".")
+            selected_rets.append(selected_ret)
 
     selected_inputs = torch.zeros(4, len(dps), CAPACITY, dtype=torch.int64)
     for dp, buf in enumerate(selected_rets):
