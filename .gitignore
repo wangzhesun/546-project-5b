@@ -1,3 +1,7 @@
+KXDocRE/r/
+KXDocRE/data/
+KXDocRE/wandb/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -1,0 +1,4287 @@
+Q597154#Q5	is a list of
+Q316442#Q16	country$basin country
+Q1369680#Q16	country$basin country
+Q1053371#Q30	country
+Q1749114#Q30	country of origin
+Q2292328#Q30	country$basin country
+Q3186996#Q30	country
+Q3898458#Q30	country of origin
+Q4105171#Q30	country of origin
+Q6921073#Q30	country
+Q60140221#Q30	country
+Q1057015#Q43	filming location
+Q430799#Q46	continent
+Q715148#Q48	continent
+Q1587234#Q48	continent
+Q2015702#Q48	continent
+Q2235088#Q48	continent
+Q4546965#Q60	headquarters location
+Q3499602#Q97	located in or next to body of water
+Q2654409#Q362	conflict
+Q1471545#Q388	platform
+Q163016#Q413	field of work
+Q3487426#Q1077	part of the series
+Q208269#Q1384	narrative location
+Q707310#Q1384	place of death
+Q1545129#Q1384	narrative location
+Q1073447#Q1406	platform
+Q1081894#Q1406	platform
+Q112747#Q1428	filming location
+Q1128745#Q1428	filming location
+Q3025443#Q1428	filming location
+Q502396#Q1697	place of burial
+Q7762876#Q5083	headquarters location
+Q6181718#Q5092	residence
+Q76749#Q5891	field of work
+Q173500#Q6574	located in time zone
+Q7204#Q6723	located in time zone
+Q3595610#Q6828	located in time zone
+Q231032#Q7318	country$allegiance
+Q15530319#Q9212	military branch
+Q1473159#Q11399	genre
+Q60429878#Q11399	genre
+Q52217688#Q11401	genre
+Q479064#Q13371	educated at
+Q19631660#Q14116	platform
+Q1589584#Q15180	operating area
+Q7732182#Q16276	characters
+Q3272694#Q16296	cast member
+Q1140152#Q25224	currency
+Q25496325#Q35277	main subject
+Q338041#Q37073	genre
+Q60560185#Q37073	genre
+Q938239#Q44414	director$screenwriter
+Q2352995#Q44414	director$screenwriter
+Q318334#Q47887	place of death$residence
+Q918194#Q48493	operating system$platform
+Q2824374#Q49108	educated at
+Q6315844#Q83440	genre
+Q684886#Q121254	political ideology
+Q159329#Q131272	genre
+Q909794#Q164621	followed by
+Q81294#Q166074	readable file format$writable file format
+Q155961#Q170174	work location
+Q155577#Q183387	record label
+Q2962282#Q183412	record label
+Q3180345#Q183412	record label
+Q846922#Q189709	airline alliance
+Q348571#Q202440	record label
+Q7549312#Q202440	record label
+Q3649419#Q208909	record label
+Q7027867#Q217346	residence
+Q191782#Q217570	readable file format$writable file format
+Q1042505#Q221419	manufacturer
+Q5374391#Q258612	cast member
+Q2665964#Q259934	sibling
+Q46130#Q273748	contains the administrative territorial entity
+Q1232116#Q302556	described by source
+Q2027#Q305892	package management system
+Q6270441#Q311453	cast member
+Q4658168#Q312570	cast member
+Q7180525#Q316955	cast member
+Q353#Q343969	child
+Q6036887#Q348445	cast member
+Q12041709#Q353101	cast member
+Q2506820#Q408192	transport network
+Q158043#Q481666	sibling
+Q16930657#Q488659	located in the administrative territorial entity
+Q272157#Q511482	family
+Q6036887#Q546404	characters
+Q2333557#Q739552	developer
+Q7431504#Q826155	characters
+Q635214#Q1050395	child
+Q1435107#Q1076638	main subject
+Q3488828#Q1136071	followed by
+Q16001589#Q1152150	from narrative universe
+Q1444046#Q1323594	distributed by
+Q7460758#Q1960052	characters
+Q2506187#Q2506783	maintained by$owned by
+Q2506221#Q2506783	maintained by$owned by
+Q2506331#Q2506783	maintained by$owned by
+Q2506553#Q2506783	maintained by$owned by
+Q2578684#Q2578626	followed by
+Q1421396#Q3333484	religion or worldview
+Q7764112#Q3342685	characters
+Q505123#Q4775035	educated at
+Q2200855#Q5410773	from narrative universe
+Q10361338#Q7443179	followed by
+Q4486161#Q7857147	followed by
+Q16635#Q24288456	electrical plug type
+Q56405721#Q56405258	contains the administrative territorial entity
+Q826942#Q30	country
+Q935101#Q30	country
+Q1623606#Q30	country of origin
+Q2311323#Q30	country of origin
+Q3487385#Q30	country of origin
+Q4089774#Q30	country
+Q5035884#Q30	country
+Q5532994#Q30	country
+Q7363266#Q30	country
+Q7572719#Q30	country
+Q7844651#Q30	country of origin
+Q7951087#Q30	country
+Q7954240#Q30	country
+Q7997573#Q30	country
+Q14580455#Q30	country of origin
+Q14688369#Q30	country
+Q14688782#Q30	country
+Q17029720#Q30	country of origin
+Q54958420#Q30	country of origin
+Q596110#Q48	continent
+Q7571852#Q48	continent
+Q423736#Q98	located in or next to body of water
+Q3185629#Q340	residence
+Q9126923#Q956	residence$work location
+Q157044#Q1384	narrative location
+Q3041994#Q1384	located in the administrative territorial entity$operating area
+Q7947634#Q1384	located in the administrative territorial entity
+Q17028310#Q1384	narrative location
+Q3129358#Q1406	operating system
+Q58806#Q3806	work location
+Q53700514#Q6186	political ideology
+Q2354215#Q6574	located in time zone
+Q22690#Q6655	located in time zone
+Q18678265#Q6655	located in time zone
+Q1449#Q6723	located in time zone
+Q13917#Q6723	located in time zone
+Q42308#Q6723	located in time zone
+Q1701113#Q6828	located in time zone
+Q706081#Q7264	main subject
+Q1147042#Q7598	part of
+Q6875693#Q9592	maintained by$religion or worldview
+Q1445837#Q11399	genre
+Q60378768#Q11399	genre
+Q60858062#Q11399	genre
+Q1576279#Q11401	genre
+Q10280029#Q14116	platform
+Q131517#Q14712	has fruit type
+Q4023597#Q18543	league or competition
+Q18355755#Q18543	league or competition
+Q92824#Q21198	field of work
+Q106379#Q38903	record label
+Q14961390#Q44414	director$screenwriter
+Q3656215#Q78485	sibling
+Q704317#Q82595	league or competition
+Q1720889#Q82595	league or competition
+Q4655436#Q83440	genre
+Q5990769#Q83440	genre
+Q7977425#Q83440	genre
+Q8056923#Q83440	genre
+Q343969#Q165284	father
+Q3438086#Q183387	record label
+Q194501#Q189464	GUI toolkit or framework
+Q68816595#Q208279	located in the administrative territorial entity
+Q256662#Q217346	place of death$residence$work location
+Q54922#Q245207	chairperson
+Q2287930#Q253414	member of
+Q7431504#Q253764	cast member
+Q23683242#Q298532	sibling
+Q7135031#Q311453	cast member
+Q7804770#Q311453	cast member
+Q7431504#Q312570	cast member
+Q6090638#Q313671	cast member
+Q5467482#Q316955	cast member
+Q5380005#Q346595	cast member
+Q7753998#Q346595	cast member
+Q7460803#Q348445	cast member
+Q1507895#Q434841	production company
+Q2493232#Q434841	production company
+Q7766854#Q546404	characters
+Q1393304#Q595448	movement
+Q3441864#Q625731	characters
+Q7239746#Q625731	characters
+Q1050395#Q635214	mother
+Q1155356#Q756617	operating area
+Q3714946#Q784760	follows
+Q3280032#Q794335	characters
+Q7732182#Q794335	characters
+Q5223330#Q826155	characters
+Q83978#Q1156334	distributed by
+Q64550917#Q1187721	operating system
+Q200804#Q1188938	production company
+Q429397#Q1188938	production company
+Q1809285#Q1325591	operator
+Q688619#Q1361045	member of
+Q35160593#Q1473065	producer
+Q11863377#Q1960052	characters
+Q7265274#Q2195486	characters
+Q7752695#Q2473641	characters
+Q1138089#Q2506783	maintained by$owned by
+Q2506126#Q2506783	maintained by$owned by
+Q2506255#Q2506783	maintained by$owned by
+Q2506351#Q2506783	maintained by$owned by
+Q61363468#Q2506783	maintained by$owned by
+Q2298901#Q2632892	stock exchange
+Q259934#Q2895943	sibling
+Q3592956#Q3333484	religion or worldview
+Q7749576#Q3829419	characters
+Q1255759#Q5410773	from narrative universe
+Q5554472#Q5554265	follows
+Q19729999#Q16277237	said to be the same as
+Q16641#Q24288454	electrical plug type
+Q2590038#Q64350339	used by
+Q11265#Q30	country
+Q140680#Q30	country of origin
+Q737944#Q30	country of origin
+Q2601461#Q30	country of origin
+Q3071627#Q30	country of origin
+Q3521602#Q30	country
+Q3565653#Q30	country$country of origin
+Q4921480#Q30	country of origin
+Q6331262#Q30	country
+Q6808033#Q30	country
+Q7060078#Q30	country of origin
+Q7416955#Q30	country
+Q7857532#Q30	country of origin
+Q11907319#Q30	country of origin
+Q15809853#Q30	country
+Q19864280#Q30	country of origin
+Q19880576#Q30	country of origin
+Q21480342#Q30	country of origin
+Q27645779#Q30	country of origin
+Q28087902#Q30	country of origin
+Q56102498#Q30	country
+Q65050923#Q30	country of origin
+Q1332574#Q46	continent
+Q3861272#Q46	continent
+Q5147067#Q48	continent
+Q19896065#Q48	place of death
+Q5125241#Q60	place of death$residence
+Q159943#Q395	part of
+Q4925260#Q414	signatory
+Q219776#Q1384	narrative location
+Q7949843#Q1384	located in the administrative territorial entity
+Q947786#Q1406	operating system
+Q2633010#Q1406	platform
+Q22662530#Q1406	platform
+Q521948#Q1428	filming location
+Q20031748#Q1428	filming location
+Q604274#Q5891	main subject
+Q586#Q6723	located in time zone
+Q1070155#Q6828	located in time zone
+Q3622020#Q7233	manufacturer
+Q893453#Q7318	allegiance
+Q211094#Q11399	genre
+Q1765236#Q11399	genre
+Q7245729#Q14116	platform
+Q3444400#Q16290	part of the series
+Q69852021#Q16296	cast member
+Q1370280#Q23337	residence
+Q292282#Q35856	significant event
+Q1763219#Q37073	genre
+Q219878#Q38903	record label
+Q605778#Q38903	record label
+Q1593309#Q38903	record label
+Q3352033#Q41506	educated at
+Q2150914#Q68740	located in/on physical feature
+Q18002970#Q80976	relative
+Q966001#Q83440	genre
+Q6510639#Q83440	genre
+Q6880131#Q83440	genre
+Q7956218#Q123766	located in the administrative territorial entity$licensed to broadcast to
+Q19060#Q131272	genre
+Q589953#Q133730	executive producer
+Q680302#Q146055	family
+Q7997166#Q183387	record label
+Q128491#Q190585	record label
+Q3496615#Q232945	cast member
+Q7301329#Q232945	cast member
+Q460160#Q233704	sibling
+Q319392#Q234388	sibling
+Q2982737#Q245188	architectural style
+Q5098503#Q258612	cast member
+Q297657#Q269928	sibling
+Q2563786#Q273829	publisher
+Q238#Q302556	described by source
+Q5422685#Q316955	cast member
+Q7443548#Q348445	cast member
+Q1782544#Q434841	production company
+Q2496237#Q434841	production company
+Q2579232#Q568246	record label
+Q4179781#Q624232	heritage designation
+Q6539456#Q625731	characters
+Q6296387#Q634019	production company
+Q1072868#Q739552	publisher$developer
+Q3231770#Q752877	characters
+Q3280032#Q752877	characters
+Q1493690#Q776656	followed by
+Q844903#Q1071953	health specialty
+Q186888#Q1075404	basic form of government
+Q61096057#Q1152150	from narrative universe
+Q20899576#Q1156334	distributed by
+Q174157#Q1227381	sibling
+Q1141116#Q1323594	distributed by
+Q2613326#Q1325591	operator
+Q14549#Q1346342	subclass of
+Q3686086#Q1474884	movement$time period
+Q113846#Q1854869	followed by
+Q7712702#Q2020365	characters
+Q3567870#Q2477742	fictional universe described in
+Q2506231#Q2506783	maintained by$owned by
+Q2506237#Q2506783	maintained by$owned by
+Q2506349#Q2506783	maintained by$owned by
+Q2507041#Q2506783	maintained by$owned by
+Q2305341#Q2556555	sibling
+Q5453909#Q2656047	screenwriter
+Q201795#Q2666591	position held
+Q28163046#Q5974436	edition or translation of
+Q248688#Q13419956	followed by
+Q160318#Q15955153	family
+Q21189892#Q17625893	follows
+Q931093#Q19801202	said to be the same as
+Q5570513#Q29231846	has part(s)
+Q3215156#Q16	country$basin country
+Q74535#Q30	country of origin
+Q256039#Q30	country of origin
+Q576906#Q30	country
+Q2130840#Q30	country
+Q2721208#Q30	place of publication
+Q3293262#Q30	country
+Q3985651#Q30	country of origin
+Q4819304#Q30	country
+Q5499211#Q30	country
+Q5579558#Q30	country
+Q6056825#Q30	country$country of origin
+Q7743136#Q30	country of origin
+Q7949700#Q30	country
+Q8056923#Q30	country of origin
+Q21527758#Q30	country of origin
+Q34731065#Q30	country
+Q876857#Q48	continent
+Q2992455#Q48	continent
+Q7404488#Q48	continent
+Q643018#Q94	operating system$platform
+Q1420953#Q97	located in or next to body of water
+Q1902975#Q98	located in or next to body of water
+Q940526#Q388	operating system
+Q29562142#Q991	creator
+Q259584#Q1239	located in or next to body of water
+Q8023100#Q1239	located in or next to body of water
+Q438164#Q1384	residence
+Q7954582#Q1384	located in the administrative territorial entity
+Q29313#Q1428	filming location
+Q16948924#Q2023	applies to jurisdiction
+Q6127792#Q3224	located in the administrative territorial entity
+Q573619#Q5043	religion or worldview
+Q3699475#Q5043	religion or worldview
+Q67437311#Q5043	religion or worldview
+Q21838044#Q5451	mountain range
+Q189506#Q5891	field of work
+Q1486412#Q5891	main subject
+Q1974273#Q5891	main subject
+Q1672366#Q6186	political ideology
+Q821655#Q6199	political ideology
+Q128499#Q6723	located in time zone
+Q71327#Q7318	allegiance
+Q80703872#Q11299	located in the administrative territorial entity
+Q60429349#Q11399	genre
+Q162829#Q14712	has fruit type
+Q3441896#Q16296	cast member
+Q4658168#Q16296	cast member
+Q9602#Q21198	field of work$interested in
+Q42904#Q38903	record label
+Q31057#Q40807	anthem
+Q59285479#Q83440	genre
+Q1262739#Q127955	destination point
+Q6833571#Q128244	headquarters location
+Q429788#Q155006	followed by
+Q178071#Q170174	work location
+Q181959#Q170174	work location
+Q7115406#Q179351	located in the administrative territorial entity
+Q3135396#Q190585	record label
+Q2193397#Q204493	part of
+Q2078836#Q208909	record label
+Q602612#Q222929	narrative location
+Q239749#Q305892	package management system
+Q508722#Q310637	sibling
+Q4658168#Q311453	cast member
+Q5370534#Q311453	cast member
+Q7180525#Q311453	cast member
+Q7729572#Q311453	cast member
+Q5881753#Q312570	cast member
+Q7135031#Q312570	cast member
+Q5370534#Q316955	cast member
+Q16744121#Q346595	cast member
+Q3041572#Q347111	creator
+Q81313#Q353101	cast member
+Q2496225#Q434841	production company
+Q2591728#Q434841	production company
+Q2665964#Q446421	sibling
+Q7443548#Q506958	cast member
+Q871387#Q513283	publisher
+Q156433#Q550343	founded by
+Q985099#Q739552	developer
+Q3493553#Q756617	country$applies to jurisdiction
+Q6155953#Q756617	place of birth$country of citizenship
+Q3567870#Q773019	fictional universe described in
+Q7807780#Q826155	characters
+Q129498#Q925968	composer
+Q1366576#Q925968	composer
+Q1507067#Q947844	follows
+Q328506#Q1032414	organizer
+Q733995#Q1138789	production company
+Q10797402#Q1152150	from narrative universe
+Q647296#Q1156334	distributed by
+Q463984#Q1277343	father
+Q322731#Q1361045	member of
+Q934853#Q1361045	member of
+Q470507#Q1375196	production company
+Q967478#Q1473065	producer
+Q7558149#Q1851230	headquarters location
+Q910293#Q2301005	part of
+Q7993981#Q2473641	characters
+Q2506529#Q2506783	maintained by$owned by
+Q62608819#Q2506783	maintained by$owned by
+Q3714946#Q3246876	followed by
+Q78485#Q3656215	sibling
+Q3246876#Q3714946	follows
+Q3700226#Q3968108	relative
+Q545994#Q13439060	product certification
+Q3516286#Q13439060	product certification
+Q24046102#Q14171368	present in work
+Q694694#Q28127371	connecting service
+Q78246576#Q78223744	child
+Q156123#Q20	territory claimed by
+Q1008549#Q30	country of origin
+Q3140792#Q30	country
+Q3467925#Q30	country
+Q5571506#Q30	country
+Q7549438#Q30	country of origin
+Q7951749#Q30	country
+Q7981703#Q30	country
+Q14688341#Q30	country
+Q16163647#Q30	country of origin
+Q768#Q46	continent
+Q1772906#Q46	continent
+Q618668#Q48	continent
+Q997048#Q48	continent
+Q1816542#Q48	continent
+Q4115817#Q48	continent
+Q16466024#Q48	continent
+Q520001#Q64	residence
+Q1434255#Q97	located in or next to body of water
+Q1814673#Q98	located in or next to body of water
+Q1816727#Q98	located in or next to body of water
+Q4636988#Q362	conflict
+Q12830#Q586	work location
+Q4648#Q1239	located in or next to body of water
+Q4076534#Q1239	located in or next to body of water
+Q2547113#Q1297	place of death$residence
+Q5140864#Q1384	located in the administrative territorial entity
+Q7799342#Q1384	located in the administrative territorial entity
+Q4039780#Q1406	platform
+Q378656#Q2277	time period
+Q3852#Q6723	located in time zone
+Q18678265#Q6723	located in time zone
+Q380144#Q6828	located in time zone
+Q1887288#Q8826	headquarters location$location of formation
+Q204751#Q11399	genre
+Q861706#Q11399	genre
+Q3272955#Q11399	genre
+Q60583479#Q11399	genre
+Q60860674#Q11399	genre
+Q2397570#Q11401	genre
+Q119931#Q14656	operating system
+Q4317360#Q15180	country of origin
+Q511593#Q16276	characters
+Q3444400#Q16276	characters
+Q399485#Q34266	country of citizenship$allegiance
+Q760143#Q34266	country of origin$narrative location
+Q16736266#Q37073	genre
+Q708620#Q38903	record label
+Q6187288#Q41506	educated at
+Q732397#Q49210	educated at
+Q47275#Q49217	father
+Q63226#Q62621	manufacturer
+Q6089820#Q83440	genre
+Q229875#Q112581	family
+Q1529758#Q183387	record label
+Q4968299#Q183387	record label
+Q67216719#Q183387	record label
+Q533528#Q183412	record label
+Q1348026#Q231694	record label
+Q2836506#Q232945	cast member
+Q7753998#Q232945	cast member
+Q783373#Q249306	currency symbol description
+Q4658162#Q311453	cast member
+Q5477914#Q311453	cast member
+Q7739598#Q311453	cast member
+Q5881753#Q316955	cast member
+Q7268179#Q316955	cast member
+Q5098503#Q348445	cast member
+Q5428534#Q348445	cast member
+Q5374391#Q353101	cast member
+Q932480#Q402437	followed by
+Q1574177#Q434841	production company
+Q2986552#Q434841	production company
+Q272177#Q511482	family
+Q3272955#Q523149	followed by
+Q1816737#Q575689	child
+Q511593#Q625731	characters
+Q3441896#Q625731	characters
+Q3444400#Q625731	characters
+Q5467482#Q625731	characters
+Q7729572#Q625731	characters
+Q7741062#Q625731	characters
+Q33557#Q651641	linguistic typology
+Q3717991#Q657405	league level below
+Q1409043#Q739552	developer
+Q7301329#Q752877	characters
+Q7755633#Q752877	characters
+Q3444400#Q794335	characters
+Q7807780#Q794335	characters
+Q834560#Q798768	production company
+Q6746424#Q826155	characters
+Q4577956#Q910379	owned by$parent organization
+Q2381337#Q1075404	basic form of government$subclass of
+Q3809776#Q1152150	from narrative universe
+Q331778#Q1236833	launch contractor
+Q815550#Q1375196	production company
+Q1960907#Q1493690	followed by
+Q113849#Q1694655	follows
+Q49103#Q1718017	participant
+Q7247600#Q2195486	characters
+Q2506333#Q2506783	maintained by$owned by
+Q2506449#Q2506783	maintained by$owned by
+Q60769424#Q2506783	maintained by$owned by
+Q63546825#Q2506783	maintained by$owned by
+Q1461799#Q2632892	stock exchange
+Q7062256#Q2656047	screenwriter
+Q784760#Q3714946	followed by
+Q310637#Q6179550	sibling
+Q3850197#Q15817276	mother
+Q4747498#Q18043309	narrative location$takes place in fictional universe
+Q286153#Q30	country
+Q402100#Q30	country of origin
+Q421716#Q30	country of origin
+Q1146308#Q30	country of origin
+Q1352101#Q30	country
+Q1753751#Q30	country of origin
+Q1753863#Q30	country of origin
+Q2287566#Q30	country of origin
+Q2371583#Q30	country
+Q2419762#Q30	country of origin
+Q2579232#Q30	country of origin
+Q2604711#Q30	place of publication
+Q2908824#Q30	country
+Q3283510#Q30	place of publication
+Q3824667#Q30	country of origin
+Q4840668#Q30	country of origin
+Q4880282#Q30	country of origin
+Q6966757#Q30	country
+Q7062763#Q30	country of origin
+Q7148153#Q30	country
+Q7653005#Q30	country$applies to jurisdiction
+Q8520470#Q30	country
+Q13581020#Q30	country
+Q22078020#Q30	country of origin
+Q28831270#Q30	country
+Q165264#Q48	continent
+Q587464#Q48	continent
+Q934052#Q83	software engine
+Q11565690#Q98	located in or next to body of water
+Q2892939#Q172	place of death
+Q1968331#Q388	platform
+Q27773357#Q388	platform
+Q1550453#Q413	field of work
+Q47472719#Q807	headquarters location
+Q7947274#Q1384	located in the administrative territorial entity
+Q15397253#Q1406	operating system
+Q129822#Q1428	filming location
+Q4940746#Q3224	located in the administrative territorial entity
+Q47134#Q6574	located in time zone
+Q11974#Q6655	located in time zone
+Q1646915#Q6828	located in time zone
+Q5043782#Q6828	located in time zone
+Q2573675#Q7233	manufacturer
+Q994701#Q9396	sponsor
+Q60663456#Q11399	genre
+Q741532#Q11401	genre
+Q29349514#Q11401	genre
+Q940526#Q14116	operating system
+Q3444444#Q16296	cast member
+Q16743287#Q37073	genre
+Q682030#Q38903	record label
+Q704742#Q38903	record label
+Q129433#Q42934	movement
+Q45041157#Q83276	organizer
+Q542956#Q83440	genre
+Q7560220#Q83440	genre
+Q17032354#Q83440	genre
+Q507343#Q121254	political ideology
+Q1213917#Q166713	movement
+Q544228#Q169346	sibling
+Q14644403#Q169889	original broadcaster
+Q238947#Q170174	work location
+Q2896743#Q179351	located in the administrative territorial entity
+Q12347561#Q184216	mother
+Q591584#Q190795	operator
+Q796537#Q190795	operator
+Q1254245#Q190795	operator
+Q5434517#Q222929	narrative location
+Q5380005#Q232945	cast member
+Q3441896#Q311453	cast member
+Q7431504#Q311453	cast member
+Q7772167#Q311453	cast member
+Q7370028#Q311562	majority opinion by
+Q7754466#Q312570	cast member
+Q7755633#Q316955	cast member
+Q7772167#Q316955	cast member
+Q16744121#Q316955	cast member
+Q7730148#Q348445	cast member
+Q5429531#Q379946	sibling
+Q2459783#Q434841	production company
+Q7075#Q477675	model item
+Q1474410#Q545664	named after
+Q81313#Q546404	characters
+Q5370534#Q625731	characters
+Q7772167#Q625731	characters
+Q511593#Q752877	characters
+Q5223330#Q752877	characters
+Q16744121#Q794335	characters
+Q1057130#Q828386	airline hub
+Q156868#Q1043096	political ideology
+Q20204906#Q1076638	movement
+Q685414#Q1138524	described by source
+Q116845#Q1138789	production company$distributed by
+Q1768470#Q1138789	production company$distributed by
+Q49417819#Q1152150	from narrative universe
+Q55951320#Q1152150	from narrative universe
+Q20647318#Q1156334	distributed by
+Q1516852#Q1375196	production company
+Q261179#Q1520213	location
+Q7752695#Q1960052	characters
+Q19801202#Q2117521	said to be the same as
+Q2891237#Q2195486	characters
+Q2308964#Q2449206	sibling
+Q2506252#Q2506783	maintained by$owned by
+Q2506353#Q2506783	maintained by$owned by
+Q6939712#Q2656047	screenwriter
+Q140738#Q3333484	religion or worldview
+Q15868042#Q19688634	said to be the same as
+Q5877874#Q23753831	spouse
+Q16641#Q24288456	electrical plug type
+Q473588#Q30	country of origin
+Q3567722#Q30	country of origin
+Q3869372#Q30	country of origin
+Q4657210#Q30	country of origin
+Q4968882#Q30	country
+Q5493635#Q30	country
+Q6841259#Q30	country
+Q7750266#Q30	country of origin
+Q7950230#Q30	country
+Q7954456#Q30	country
+Q17116394#Q30	country of origin
+Q18747888#Q30	country of origin
+Q20942819#Q30	country of origin
+Q49117245#Q30	country of origin
+Q53415#Q46	continent
+Q269407#Q46	continent
+Q953432#Q46	continent
+Q26358#Q48	continent
+Q2095415#Q48	continent
+Q6432749#Q48	continent
+Q21298740#Q48	continent
+Q56274437#Q65	narrative location
+Q3951786#Q90	location of formation
+Q1972087#Q172	headquarters location
+Q343969#Q353	mother
+Q6134881#Q362	conflict
+Q21850283#Q388	platform
+Q28451903#Q388	platform
+Q316607#Q905	influenced by
+Q550202#Q1384	place of burial
+Q5462911#Q1384	located in the administrative territorial entity
+Q7231112#Q1384	located in the administrative territorial entity
+Q66604892#Q1406	platform
+Q16781911#Q1428	filming location
+Q18155457#Q1428	filming location
+Q847465#Q2192	readable file format$writable file format
+Q62096#Q3806	work location
+Q409647#Q5891	field of work
+Q913567#Q6186	political ideology
+Q48038#Q6574	located in time zone
+Q3104#Q6655	located in time zone
+Q16987#Q6655	located in time zone
+Q1071320#Q9500	organizer
+Q60385351#Q11399	genre
+Q7807093#Q13371	educated at
+Q16267891#Q14116	platform
+Q2427359#Q15180	country for sport
+Q4658162#Q16276	characters
+Q1301901#Q25224	currency
+Q152549#Q34464	relative
+Q15990452#Q37073	genre
+Q498407#Q39129	member of
+Q15109668#Q49108	educated at
+Q7577261#Q121254	political ideology
+Q18633732#Q122100	main subject$set in period
+Q461265#Q146055	family
+Q1060323#Q170420	developer
+Q3634390#Q183387	record label
+Q3721257#Q183387	record label
+Q28151312#Q183387	record label
+Q2329256#Q183412	record label
+Q1321143#Q189709	airline alliance
+Q7405762#Q210826	animal breed
+Q212993#Q217346	work location
+Q2711490#Q231694	record label
+Q40058#Q233704	sibling
+Q1469434#Q253414	member of
+Q148247#Q259196	ammunition
+Q3441864#Q311453	cast member
+Q3496615#Q311453	cast member
+Q7301329#Q316955	cast member
+Q7739598#Q316955	cast member
+Q319392#Q361297	father
+Q4658162#Q384569	characters
+Q935413#Q434841	production company
+Q5423698#Q483915	kit supplier
+Q3272694#Q625731	characters
+Q4917094#Q625731	characters
+Q5227090#Q625731	characters
+Q10339727#Q625731	characters
+Q3401368#Q675493	father
+Q2070515#Q739914	location
+Q5428381#Q752877	characters
+Q4658168#Q794335	characters
+Q10361338#Q794335	characters
+Q3496615#Q826155	characters
+Q83276#Q849362	has subsidiary
+Q22169#Q1076638	movement
+Q239107#Q1138524	described by source
+Q654075#Q1138789	distributed by
+Q5418478#Q1152150	from narrative universe
+Q54805340#Q1152150	from narrative universe
+Q212324#Q1238229	readable file format
+Q1119662#Q1361045	member of
+Q1155668#Q1361045	member of
+Q554091#Q1375057	sibling
+Q727875#Q1474884	movement
+Q776656#Q1493690	follows
+Q7766854#Q1960052	characters
+Q11863377#Q2020365	characters
+Q1762022#Q2262123	said to be the same as
+Q7443548#Q2473641	characters
+Q7712702#Q2473641	characters
+Q2506337#Q2506783	maintained by$owned by
+Q2506502#Q2506783	maintained by$owned by
+Q1158181#Q12788459	said to be the same as
+Q12652#Q14565199	railway traffic side
+Q4923558#Q15955153	family
+Q292982#Q15978631	found in taxon
+Q2117521#Q19801202	said to be the same as
+Q123076#Q24288454	electrical plug type
+Q1183#Q24288456	electrical plug type
+Q3599665#Q15	narrative location
+Q491607#Q16	country$basin country
+Q1688579#Q30	country of origin
+Q2908806#Q30	country
+Q3752618#Q30	country of origin
+Q4003978#Q30	country of origin
+Q5046561#Q30	country
+Q5049968#Q30	country
+Q5737368#Q30	country of origin
+Q6747017#Q30	country
+Q7102831#Q30	country
+Q7738320#Q30	country of origin
+Q7863953#Q30	country
+Q7956261#Q30	country
+Q14692712#Q30	country
+Q1752113#Q46	continent
+Q207132#Q48	continent
+Q217372#Q48	continent
+Q650720#Q48	continent
+Q715361#Q48	continent
+Q1785031#Q48	continent
+Q1424587#Q97	located in/on physical feature
+Q2406295#Q362	conflict
+Q7245729#Q388	platform
+Q1145275#Q538	narrative location
+Q93356#Q1398	influenced by
+Q1968331#Q1406	platform
+Q4050256#Q1406	platform
+Q42005828#Q1406	platform
+Q878512#Q1428	place of burial
+Q6807833#Q1428	filming location
+Q52526264#Q1428	located in the administrative territorial entity
+Q212884#Q3142	color
+Q4229909#Q6186	political ideology
+Q206137#Q6574	located in time zone
+Q3820#Q6723	located in time zone
+Q211060#Q7318	country$allegiance
+Q1493633#Q7397	product, material, or service produced or provided
+Q567822#Q9592	maintained by$religion or worldview
+Q60429463#Q11399	genre
+Q155339#Q11401	genre
+Q1111641#Q14656	operating system
+Q1592448#Q14656	operating system
+Q124739#Q16520	twinned administrative body
+Q219720#Q19652	copyright status
+Q220331#Q19652	copyright status
+Q3875739#Q20716	manufacturer
+Q51072203#Q20716	manufacturer$developer
+Q1698906#Q23077	location
+Q676098#Q37073	genre
+Q731601#Q37073	genre
+Q3626966#Q37073	genre
+Q7091181#Q38903	record label
+Q5112961#Q49210	educated at
+Q52162299#Q183387	record label
+Q6143721#Q183412	record label
+Q118551#Q186470	medical condition treated
+Q7736505#Q202440	record label
+Q4993471#Q210278	manufacturer
+Q3273327#Q216364	record label
+Q4936845#Q222929	narrative location
+Q5428534#Q222929	narrative location
+Q12041709#Q231576	cast member
+Q541599#Q231694	record label
+Q4121307#Q231694	record label
+Q16744121#Q232945	cast member
+Q2946099#Q234964	participant
+Q2885898#Q280779	followed by
+Q7982829#Q297221	relative
+Q3231770#Q311453	cast member
+Q16744121#Q312570	cast member
+Q5428381#Q316955	cast member
+Q5477914#Q316955	cast member
+Q6539456#Q316955	cast member
+Q62428534#Q484427	performer
+Q594033#Q541569	production company$distributed by
+Q1375057#Q554091	sibling
+Q4658162#Q625731	characters
+Q5477914#Q625731	characters
+Q13501137#Q632842	said to be the same as
+Q1037409#Q693036	connects with
+Q643018#Q739552	developer
+Q15614436#Q752119	title of chess person
+Q2435968#Q787652	member of sports team
+Q806259#Q806252	has subsidiary$owner of
+Q6819352#Q824359	docking port
+Q111693#Q925968	composer
+Q189248#Q1076638	movement
+Q2657599#Q1152150	from narrative universe
+Q63197020#Q1152150	from narrative universe
+Q636495#Q1156334	distributed by
+Q128582#Q1323594	distributed by
+Q376692#Q1361045	member of
+Q15868042#Q1476141	said to be the same as
+Q7712702#Q1960052	characters
+Q2506343#Q2506783	maintained by$owned by
+Q2506347#Q2506783	maintained by$owned by
+Q220105#Q2665964	relative
+Q18338211#Q3314851	title of chess person
+Q297221#Q3700226	relative
+Q1991026#Q4775035	educated at
+Q2712069#Q4828056	present in work
+Q12169191#Q5410773	from narrative universe
+Q169346#Q6932430	sibling
+Q222929#Q7764112	present in work
+Q625731#Q10339727	present in work
+Q749378#Q13439060	product certification
+Q11122389#Q13501137	said to be the same as
+Q1023114#Q14565199	railway traffic side
+Q20909#Q18043309	takes place in fictional universe
+Q5251725#Q18043309	narrative location$takes place in fictional universe
+Q3320047#Q21087985	sibling
+Q1183#Q24288454	electrical plug type
+Q123076#Q24288456	electrical plug type
+Q1485003#Q30	country
+Q3392117#Q30	country of origin
+Q5491349#Q30	country
+Q7038578#Q30	country
+Q7337508#Q30	country$basin country
+Q7627875#Q30	place of publication
+Q7722096#Q30	country of origin
+Q7742392#Q30	country of origin
+Q7781349#Q30	country of origin
+Q56850065#Q30	country of origin
+Q65768589#Q30	country of origin
+Q70209134#Q30	country of origin
+Q1478747#Q46	continent
+Q1524307#Q46	continent
+Q6646817#Q46	continent
+Q540520#Q48	continent
+Q433918#Q97	located in or next to body of water
+Q490358#Q97	mouth of the watercourse
+Q765283#Q97	located in or next to body of water
+Q7660110#Q97	mouth of the watercourse
+Q1289337#Q98	located in or next to body of water
+Q3110372#Q98	located in or next to body of water
+Q44631188#Q340	headquarters location
+Q19933345#Q362	conflict
+Q1367163#Q538	narrative location
+Q1189631#Q1384	narrative location
+Q60756#Q3806	place of death$work location
+Q6144664#Q5294	distribution format
+Q465763#Q5891	field of work
+Q1367610#Q6368	instance of$has use
+Q586#Q6655	located in time zone
+Q5147067#Q6828	located in time zone
+Q5616433#Q6828	located in time zone
+Q4048045#Q7598	developer
+Q31190031#Q8793	manufacturer
+Q33187#Q8860	named after
+Q1061257#Q8880	approved by
+Q7792542#Q9592	religion or worldview
+Q155006#Q11401	genre
+Q448930#Q11401	genre
+Q1079019#Q11401	genre
+Q6937659#Q11401	genre
+Q15968880#Q14656	operating system
+Q7180525#Q16276	characters
+Q34182458#Q20716	developer
+Q29999#Q23076	owner of
+Q560352#Q35277	main subject
+Q847199#Q38903	record label
+Q59242506#Q38903	record label
+Q2563786#Q59104	main subject
+Q60002#Q59644	unmarried partner
+Q3816639#Q79872	programming paradigm
+Q1670298#Q82595	league or competition
+Q60321861#Q169889	original broadcaster
+Q28406539#Q179351	located in the administrative territorial entity
+Q7784391#Q183387	record label
+Q4781185#Q188740	has works in the collection
+Q1078102#Q190585	record label
+Q965236#Q190795	operator
+Q7172#Q193098	currency
+Q582628#Q206685	creator
+Q507962#Q219413	participant in
+Q12041492#Q231576	cast member
+Q10361338#Q311453	cast member
+Q5374391#Q313671	cast member
+Q6950089#Q316955	cast member
+Q165284#Q343969	child
+Q61236013#Q408192	transport network
+Q424940#Q410011	significant drug interaction
+Q28752858#Q443540	contributor to the creative work or subject
+Q169346#Q544228	sibling
+Q654062#Q654779	designed by
+Q1239#Q711143	inflows
+Q21233711#Q713912	creator
+Q1249187#Q739552	developer
+Q2147678#Q739552	publisher
+Q16193300#Q762266	employer
+Q9384411#Q770263	part of the series
+Q7239746#Q794335	characters
+Q7633644#Q794335	characters
+Q501400#Q925968	composer
+Q790830#Q925968	composer
+Q1033309#Q925968	composer
+Q1197791#Q925968	composer
+Q1827874#Q925968	composer
+Q913179#Q1043096	political ideology
+Q222#Q1061257	emergency phone number
+Q1334586#Q1076638	movement
+Q27504636#Q1187721	operating system
+Q462447#Q1188938	production company
+Q83789#Q1323594	distributed by
+Q14679#Q1348204	used by
+Q18594#Q1361045	member of
+Q1230306#Q1368474	child
+Q12820#Q1418760	contains the administrative territorial entity
+Q1316417#Q1474668	present in work
+Q38685547#Q1840340	producer
+Q20080327#Q1928222	influenced by
+Q7993981#Q1960052	characters
+Q2088808#Q2189134	followed by
+Q782245#Q2228393	location
+Q60291301#Q2737435	distributed by
+Q6622533#Q3087181	publisher
+Q2609101#Q3139680	followed by
+Q3231770#Q3231807	follows
+Q3305947#Q3289957	followed by
+Q901541#Q3436301	relative
+Q191715#Q4131576	owner of
+Q5056525#Q6621583	follows
+Q381817#Q7053178	sibling
+Q32112#Q11338576	practiced by
+Q831035#Q16743287	followed by
+Q460379#Q17305144	production company
+Q426144#Q54806999	present in work
+Q57972349#Q60522721	CPU
+Q613059#Q30	country of origin
+Q641592#Q30	country
+Q1423930#Q30	country of origin
+Q2317367#Q30	country of origin
+Q2507426#Q30	country
+Q6364278#Q30	country$basin country
+Q6691575#Q30	country of origin
+Q7361593#Q30	country$basin country
+Q7532058#Q30	country of origin
+Q7559674#Q30	country of origin
+Q7859163#Q30	country of origin
+Q14629004#Q30	country
+Q16253784#Q30	country of origin
+Q49481283#Q30	country
+Q52151283#Q30	country of origin
+Q705871#Q43	country of origin$filming location
+Q516818#Q48	continent
+Q1088257#Q48	continent
+Q1389472#Q48	continent
+Q717485#Q97	location
+Q195124#Q98	located in or next to body of water
+Q944690#Q98	located in or next to body of water
+Q327457#Q362	conflict
+Q21890325#Q1239	located in or next to body of water
+Q1372081#Q1384	narrative location
+Q3869490#Q1384	location of formation
+Q5315668#Q1384	located in the administrative territorial entity
+Q2096434#Q1420	product, material, or service produced or provided
+Q653871#Q5891	main subject
+Q3306546#Q5891	main subject
+Q123377#Q6574	located in time zone
+Q180209#Q6574	located in time zone
+Q38981#Q6723	located in time zone
+Q193819#Q6723	located in time zone
+Q584845#Q6828	located in time zone
+Q2716680#Q6828	located in time zone
+Q60550265#Q8684	location of formation
+Q1881065#Q8842	constellation
+Q1369889#Q9592	religion or worldview
+Q7741062#Q16276	characters
+Q1141238#Q37073	genre
+Q5456025#Q83440	genre
+Q1223#Q111540	contains the administrative territorial entity
+Q113849#Q113846	followed by
+Q113846#Q113849	follows
+Q538284#Q131272	genre
+Q442247#Q146055	family
+Q2580011#Q166419	original broadcaster
+Q932329#Q181642	manufacturer$brand
+Q63204#Q183387	record label
+Q80001#Q183412	record label
+Q3509662#Q183412	record label
+Q1002798#Q190585	record label
+Q1283159#Q208909	record label
+Q6143721#Q208909	record label
+Q7829411#Q210826	animal breed
+Q7265274#Q222929	narrative location
+Q20020535#Q223718	headquarters location
+Q21073017#Q305892	package management system
+Q5224065#Q311453	cast member
+Q3444400#Q316955	cast member
+Q3444444#Q316955	cast member
+Q34464#Q331575	relative
+Q6059765#Q348445	cast member
+Q7460758#Q348445	cast member
+Q2579232#Q389284	record label
+Q646437#Q408192	transport network
+Q5977967#Q492941	temporal range start
+Q861706#Q523149	followed by
+Q7749576#Q546404	characters
+Q1803017#Q624232	heritage designation
+Q7180525#Q625731	characters
+Q165795#Q651641	linguistic typology
+Q4658162#Q752877	characters
+Q5380005#Q794335	characters
+Q1066094#Q839717	follows$followed by
+Q468154#Q898198	follows
+Q649144#Q1075404	basic form of government
+Q1956723#Q1138524	described by source
+Q60776480#Q1187721	operating system
+Q2612964#Q1325591	operator
+Q1886096#Q1328962	followed by
+Q3241626#Q1361045	member of
+Q632328#Q1473065	producer
+Q158143#Q1753846	family
+Q1239#Q1946840	inflows
+Q81313#Q1960052	characters
+Q12036362#Q1960052	characters
+Q1493690#Q1960907	follows
+Q191715#Q2107938	owner of
+Q815160#Q2429397	country$participant$destroyed
+Q2139300#Q2465692	followed by
+Q7766854#Q2473641	characters
+Q2506197#Q2506783	maintained by$owned by
+Q2506355#Q2506783	maintained by$owned by
+Q2263502#Q2525768	follows
+Q2895943#Q2665964	sibling
+Q280779#Q2885898	follows
+Q602612#Q3160645	characters
+Q6012254#Q3160645	characters
+Q63204#Q3233924	record label
+Q3289957#Q3305947	follows
+Q18388576#Q3314851	title of chess person
+Q21087985#Q3320047	sibling
+Q5428534#Q3342685	characters
+Q901541#Q4773467	relative
+Q5106979#Q5106989	follows
+Q5429820#Q7144754	follows
+Q4475316#Q11818421	child
+Q477865#Q17305144	production company
+Q852014#Q66082243	tracklist
+Q19865453#Q15	narrative location
+Q385888#Q30	country$basin country
+Q2460316#Q30	country
+Q2578173#Q30	country of origin
+Q6090873#Q30	country of origin
+Q7949099#Q30	country
+Q8022583#Q30	country of origin
+Q20923748#Q30	country of origin
+Q28044030#Q30	country of origin
+Q214768#Q48	continent
+Q815464#Q48	continent
+Q1364168#Q48	continent
+Q1432225#Q48	continent
+Q17094638#Q48	continent
+Q549319#Q97	located in or next to body of water
+Q1789795#Q97	located in or next to body of water
+Q7207043#Q362	conflict
+Q7286#Q413	field of work
+Q2001697#Q1239	located in or next to body of water
+Q3593535#Q1239	located in or next to body of water
+Q7607037#Q1384	located in the administrative territorial entity
+Q219810#Q1428	filming location
+Q1233341#Q2277	time period
+Q6058928#Q5891	field of work
+Q50809266#Q6199	political ideology
+Q1950119#Q6368	instance of$has use
+Q2079#Q6723	located in time zone
+Q43070#Q6723	located in time zone
+Q1191#Q6828	located in time zone
+Q2992455#Q6828	located in time zone
+Q30499112#Q11103	manifestation of
+Q372617#Q11399	genre
+Q21095#Q11401	genre
+Q622876#Q15180	country
+Q259138#Q15777	influenced by
+Q7431504#Q16296	cast member
+Q913421#Q17517	subclass of
+Q870851#Q19652	copyright status
+Q3191735#Q34266	country of origin$narrative location
+Q1261974#Q35618	sibling
+Q6352465#Q59626	location
+Q59644#Q60002	unmarried partner
+Q698281#Q70972	participant
+Q1267#Q81066	position held
+Q375811#Q82595	league or competition
+Q2356299#Q111693	followed by
+Q2983914#Q111786	follows
+Q152785#Q112581	family
+Q338430#Q126680	enemy
+Q432688#Q146055	family
+Q2900179#Q159846	distributed by
+Q59191075#Q166400	organizer
+Q540440#Q183387	record label
+Q3273327#Q183387	record label
+Q7748324#Q183387	record label
+Q3999155#Q190585	record label
+Q14288150#Q190795	operator
+Q523140#Q207953	mother
+Q1765236#Q208909	record label
+Q2663421#Q208909	record label
+Q7764112#Q222929	narrative location
+Q625707#Q253414	member of
+Q2598685#Q264418	voice actor
+Q16665897#Q273748	contains the administrative territorial entity
+Q6179550#Q310637	sibling
+Q7294741#Q311453	cast member
+Q5227090#Q316955	cast member
+Q233704#Q351538	sibling
+Q435965#Q373087	copyright representative
+Q400522#Q408192	transport network
+Q165399#Q424238	significant drug interaction
+Q1099474#Q568246	record label
+Q1141531#Q624232	heritage designation
+Q785059#Q625731	characters
+Q3280032#Q625731	characters
+Q10361338#Q625731	characters
+Q516435#Q632254	sibling
+Q56416#Q651641	linguistic typology
+Q15627786#Q651778	manufacturer$developer
+Q4925622#Q691928	family
+Q3272694#Q794335	characters
+Q796799#Q796364	brand
+Q10706#Q925968	composer
+Q1214017#Q925968	composer
+Q2081831#Q1156334	distributed by
+Q4928697#Q1156334	distributed by
+Q17501992#Q1156334	distributed by
+Q671631#Q1166160	production company
+Q63859786#Q1187721	operating system
+Q2982354#Q1325591	operator
+Q1827853#Q2361433	followed by
+Q2348977#Q2567367	follows
+Q11696021#Q2656047	screenwriter
+Q259934#Q2665964	sibling
+Q7737284#Q3160645	characters
+Q1225920#Q3333484	religion or worldview
+Q1147689#Q3476213	production company
+Q7730545#Q3829419	characters
+Q5138616#Q4775035	educated at
+Q2455773#Q5410773	from narrative universe
+Q5554265#Q5554472	followed by
+Q5038249#Q6059765	follows
+Q379946#Q6892571	sibling
+Q1960052#Q7111082	present in work
+Q7729572#Q7741062	followed by
+Q7045118#Q7757425	follows
+Q7062763#Q7785215	followed by
+Q7737284#Q7887768	characters
+Q1239#Q12988844	inflows
+Q965#Q14565199	driving side
+Q381817#Q15955153	family
+Q7053178#Q15955153	family
+Q14947290#Q17172850	instrument
+Q317376#Q16	country$basin country
+Q327590#Q30	country$basin country
+Q3209445#Q30	country of origin
+Q7049114#Q30	country of origin
+Q7285002#Q30	country of origin
+Q18708818#Q30	country of origin
+Q146880#Q48	continent
+Q3006619#Q48	continent
+Q3156927#Q65	headquarters location
+Q16962493#Q94	operating system$platform
+Q733338#Q97	located in or next to body of water
+Q2746323#Q97	located in or next to body of water
+Q1632721#Q98	located in or next to body of water
+Q5119#Q515	subclass of
+Q1946840#Q1239	mouth of the watercourse
+Q515277#Q1384	narrative location
+Q4881547#Q1406	platform
+Q61046582#Q1406	platform
+Q1888930#Q2115	based on
+Q16970489#Q5849	sports discipline competed in
+Q263681#Q5891	field of work
+Q2563786#Q5891	main subject
+Q3852#Q6655	located in time zone
+Q1720#Q6723	located in time zone
+Q947786#Q14116	operating system
+Q306004#Q14656	part of the series
+Q1070529#Q25224	currency
+Q38685547#Q35332	executive producer
+Q22965873#Q37073	genre
+Q233704#Q40058	sibling
+Q316064#Q49210	educated at
+Q15731778#Q82595	league or competition
+Q27814272#Q83440	genre
+Q631406#Q103975	mother
+Q7443548#Q108774	part of the series
+Q706081#Q155059	main subject
+Q424238#Q165399	significant drug interaction
+Q2365558#Q183387	record label
+Q185935#Q188638	subclass of
+Q5696218#Q190585	record label
+Q68815035#Q208279	located in the administrative territorial entity
+Q1317750#Q212699	record label
+Q4927657#Q222929	narrative location
+Q6012254#Q222929	narrative location
+Q7248298#Q222929	narrative location
+Q7431504#Q232945	cast member
+Q2895943#Q259934	sibling
+Q1192#Q302556	described by source
+Q5422685#Q311453	cast member
+Q5467482#Q311453	cast member
+Q7525019#Q311453	cast member
+Q16744121#Q311453	cast member
+Q7301329#Q312570	cast member
+Q217427#Q319392	sibling
+Q833299#Q320025	producer
+Q5595453#Q346565	performer
+Q5655423#Q353101	cast member
+Q425295#Q424238	significant drug interaction
+Q1216648#Q434841	distributed by
+Q6036887#Q452288	cast member
+Q5059833#Q486633	located in the administrative territorial entity
+Q5583798#Q486860	headquarters location
+Q775#Q524808	contains the administrative territorial entity
+Q21821246#Q587764	participant$general classification of race participants
+Q3312712#Q595448	movement
+Q290254#Q624232	heritage designation
+Q6508797#Q624232	heritage designation
+Q7739598#Q625731	characters
+Q898198#Q628392	follows
+Q3490581#Q662550	part of
+Q182196#Q676899	participating team
+Q495713#Q752119	title of chess person
+Q5422685#Q752877	characters
+Q6746424#Q752877	characters
+Q930466#Q796364	brand
+Q1428380#Q854218	part of
+Q775#Q932155	contains the administrative territorial entity
+Q128350#Q932289	drainage basin
+Q411478#Q977090	medical condition treated
+Q306101#Q1076638	movement
+Q11768#Q1138524	described by source
+Q126680#Q1152150	from narrative universe
+Q20650042#Q1156334	distributed by
+Q7720598#Q1173200	director
+Q64361981#Q1187721	operating system
+Q841114#Q1375196	production company
+Q7765426#Q2020365	characters
+Q2308964#Q2287423	sibling
+Q2386167#Q2491629	follows
+Q2578626#Q2578684	follows
+Q263725#Q2666591	position held
+Q1171651#Q2737435	distributed by
+Q310197#Q2950131	child
+Q3305947#Q3303820	follows
+Q5554265#Q5554120	follows
+Q3160645#Q6012254	present in work
+Q7699307#Q7045118	follows
+Q7757425#Q7045118	followed by
+Q5305068#Q7093205	followed by
+Q7887768#Q7737284	present in work
+Q4802871#Q7746548	followed by
+Q830038#Q7764112	present in work
+Q13597012#Q14704210	followed by
+Q14704210#Q14824272	followed by
+Q603696#Q17305144	production company
+Q1140085#Q17305144	production company
+Q1149609#Q16	country$basin country
+Q1992636#Q16	country$basin country
+Q715041#Q25	country for sport
+Q1144399#Q30	country of origin
+Q5298101#Q30	country
+Q6339090#Q30	country
+Q7912208#Q30	country
+Q14554857#Q30	country of origin
+Q14683433#Q30	country
+Q20054484#Q30	country
+Q866875#Q48	continent
+Q1107564#Q48	continent
+Q7785365#Q48	continent
+Q13114605#Q48	continent
+Q434019#Q97	located in or next to body of water
+Q1512796#Q97	located in or next to body of water
+Q2305643#Q97	located in or next to body of water
+Q891471#Q98	located in or next to body of water
+Q26496#Q145	participant
+Q1632707#Q538	narrative location
+Q684885#Q807	location
+Q820753#Q1384	narrative location$filming location
+Q7764599#Q1384	narrative location
+Q814778#Q1428	filming location
+Q313666#Q5891	field of work
+Q355903#Q5891	field of work
+Q1208415#Q5891	main subject
+Q2414934#Q5891	field of work
+Q365#Q6723	located in time zone
+Q1017#Q6723	located in time zone
+Q16987#Q6723	located in time zone
+Q121378#Q6723	located in time zone
+Q408864#Q8787	airline alliance
+Q15088429#Q8842	constellation
+Q641874#Q9592	religion or worldview
+Q572541#Q11399	genre
+Q13415292#Q14116	platform
+Q6270441#Q16290	part of the series
+Q136940#Q18543	league or competition
+Q368618#Q18543	league or competition
+Q14512114#Q36184	after a work by
+Q231880#Q38903	record label
+Q56282586#Q42042	official religion
+Q421716#Q42934	movement
+Q703802#Q45722	position held
+Q29066527#Q59626	location
+Q229520#Q79854	member of political party
+Q332635#Q81867	medical condition$has characteristic
+Q7460758#Q108774	part of the series
+Q7766854#Q108774	part of the series
+Q961862#Q111786	followed by
+Q153356#Q118551	drug or therapy used for treatment
+Q163514#Q127385	named after
+Q481666#Q158043	sibling
+Q2279015#Q159846	production company$distributed by
+Q3400430#Q166419	original broadcaster
+Q968429#Q190795	operator
+Q167477#Q192499	honorific prefix
+Q26742205#Q193559	organizer
+Q7691171#Q202440	record label
+Q1130645#Q218616	opposite of
+Q351538#Q233704	sibling
+Q2598685#Q237530	voice actor
+Q2598685#Q264603	voice actor
+Q18613224#Q285048	author
+Q7806584#Q311453	cast member
+Q1704342#Q311562	majority opinion by
+Q6270441#Q312570	cast member
+Q5224065#Q316955	cast member
+Q81313#Q348445	cast member
+Q3210543#Q443540	animator
+Q233704#Q460160	sibling
+Q838502#Q467224	follows
+Q3577177#Q511482	family
+Q3276051#Q606060	competition class
+Q3077887#Q624232	heritage designation
+Q35951#Q634019	production company
+Q7394909#Q651778	manufacturer
+Q991#Q667661	movement
+Q1886116#Q739552	developer
+Q4519067#Q752119	title of chess person
+Q7431504#Q752877	characters
+Q784968#Q756153	this zoological name is coordinate with
+Q2893390#Q782386	home venue
+Q3496852#Q794335	characters
+Q16743287#Q831035	follows
+Q216754#Q933636	follows
+Q29999#Q1061257	emergency phone number
+Q16155320#Q1156334	distributed by
+Q2615189#Q1325591	operator
+Q1771558#Q1428793	founded by
+Q64687440#Q1550888	main building contractor
+Q2042914#Q1626047	followed by
+Q1960907#Q1960916	follows
+Q4390263#Q2207092	significant person
+Q111693#Q2355715	followed by
+Q4802871#Q2656047	screenwriter
+Q7084332#Q2656047	screenwriter
+Q2603430#Q2740476	follows
+Q2891237#Q3160645	characters
+Q7764112#Q3160645	characters
+Q2598685#Q3211498	follows
+Q453607#Q3314851	title of chess person
+Q1058477#Q3441905	followed by
+Q16351#Q5106989	present in work
+Q379946#Q5431091	sibling
+Q508722#Q6179550	sibling
+Q860266#Q7499937	present in work
+Q7045118#Q7699307	followed by
+Q7093205#Q7773130	followed by
+Q1960052#Q12036362	present in work
+Q13917#Q14657870	uses
+Q539269#Q17305144	production company
+Q7309585#Q30	country
+Q17024063#Q30	country of origin
+Q19865072#Q30	country of origin
+Q21858374#Q30	country of origin
+Q837208#Q46	continent
+Q956593#Q46	continent
+Q527521#Q48	continent
+Q586733#Q48	continent
+Q943099#Q48	continent
+Q1557417#Q48	continent
+Q2509866#Q48	continent
+Q5604796#Q48	continent
+Q339539#Q97	located in or next to body of water
+Q582389#Q98	located in or next to body of water
+Q4644583#Q362	conflict
+Q57227#Q586	place of death$work location
+Q695602#Q1239	mouth of the watercourse
+Q3315165#Q1239	located in or next to body of water
+Q28753362#Q1406	platform
+Q1140060#Q1471	crosses
+Q4133141#Q2141	located in the administrative territorial entity$significant place
+Q1075639#Q3224	located in the administrative territorial entity
+Q1637720#Q5891	main subject
+Q2454031#Q6828	located in time zone
+Q142417#Q7269	basic form of government
+Q13476185#Q11401	genre
+Q984089#Q13371	educated at
+Q7322775#Q13371	educated at
+Q3487395#Q20912	followed by
+Q769668#Q25224	currency
+Q1134252#Q34266	narrative location
+Q2379240#Q34266	narrative location
+Q4362603#Q34266	narrative location
+Q3718898#Q40362	territory claimed by
+Q738728#Q41630	studied in
+Q364769#Q42186	member of political party
+Q55619715#Q45875	present in work
+Q7138956#Q47002	place served by transport hub
+Q1780896#Q56898	input device
+Q6941313#Q56898	input device
+Q6539#Q70972	participant
+Q609141#Q82595	league or competition
+Q7993885#Q83440	genre
+Q153648#Q146055	family
+Q184535#Q152087	educated at
+Q234566#Q164782	stepparent
+Q172445#Q170174	country of citizenship$work location
+Q1045765#Q170420	developer
+Q1393288#Q183387	record label
+Q3045103#Q183387	record label
+Q15139453#Q206277	airline hub
+Q3322808#Q210826	animal breed
+Q1581239#Q212699	record label
+Q7730148#Q222929	narrative location
+Q2579232#Q231694	record label
+Q190960#Q251128	followed by
+Q285543#Q259934	relative
+Q207953#Q277577	sibling
+Q1154044#Q316013	producer
+Q5374391#Q316955	cast member
+Q6025158#Q316955	cast member
+Q3444400#Q346595	cast member
+Q16334358#Q368215	distributed by
+Q7053178#Q381817	sibling
+Q2506796#Q408192	transport network
+Q5431889#Q443540	contributor to the creative work or subject
+Q259934#Q446421	sibling
+Q62428516#Q484427	performer
+Q1428#Q492040	contains the administrative territorial entity
+Q7737284#Q546404	characters
+Q7755633#Q625731	characters
+Q19544611#Q642949	organizer
+Q170159#Q642970	reward program
+Q36748#Q651641	linguistic typology
+Q6404474#Q677330	sidekick of
+Q842306#Q703588	animator
+Q2668497#Q739552	publisher
+Q964923#Q752119	title of chess person
+Q3444454#Q752877	characters
+Q3496615#Q752877	characters
+Q7741062#Q752877	characters
+Q756153#Q784968	this zoological name is coordinate with
+Q7135031#Q794335	characters
+Q23077#Q894079	contains the administrative territorial entity
+Q1132214#Q925968	composer
+Q1210990#Q925968	composer
+Q231150#Q982472	sibling
+Q4157654#Q1043096	political ideology
+Q2600794#Q1075161	family
+Q1676802#Q1076638	movement
+Q26812640#Q1156334	distributed by
+Q381731#Q1473065	producer
+Q752313#Q1473065	producer
+Q27958298#Q1473065	producer
+Q28908158#Q1502887	subclass of
+Q65952032#Q1502887	subclass of
+Q208815#Q1667757	archives at
+Q174856#Q1967949	follows
+Q73257874#Q1979337	present in work
+Q1626047#Q2042914	follows
+Q7757425#Q2656047	screenwriter
+Q280779#Q2659927	followed by
+Q3303820#Q3305947	followed by
+Q2656880#Q3333484	religion or worldview
+Q3312529#Q3488828	followed by
+Q2005201#Q4745239	conferred by
+Q3567870#Q5349101	fictional universe described in
+Q2211604#Q5410773	from narrative universe
+Q3735046#Q5410773	from narrative universe
+Q3742737#Q7737284	present in work
+Q3023228#Q8069524	present in work
+Q29021224#Q17305144	production company
+Q1856518#Q25245117	industry
+Q54958795#Q48847707	follows
+Q3007751#Q30	country of origin
+Q3223782#Q30	country of origin
+Q3313370#Q30	country of origin
+Q4547312#Q30	country of origin
+Q5056577#Q30	country$basin country
+Q30638969#Q30	country of origin
+Q41796698#Q30	country of origin
+Q944214#Q46	continent
+Q3595479#Q48	continent
+Q6430668#Q48	continent
+Q79531#Q75	update method
+Q427715#Q83	software engine
+Q51621444#Q90	headquarters location
+Q1908095#Q97	mouth of the watercourse
+Q14220885#Q97	located in or next to body of water
+Q1637713#Q98	located in or next to body of water
+Q3742400#Q361	conflict
+Q702782#Q362	conflict
+Q4646542#Q362	conflict
+Q5197162#Q388	operating system
+Q21886233#Q1239	located in or next to body of water
+Q863740#Q1406	operating system
+Q1758851#Q1406	platform
+Q10280029#Q1406	platform
+Q310173#Q2277	time period
+Q314189#Q5891	field of work
+Q656036#Q5891	main subject
+Q1207671#Q5891	field of work
+Q100166#Q6574	located in time zone
+Q365#Q6655	located in time zone
+Q42497#Q6655	located in time zone
+Q1199#Q6723	located in time zone
+Q257622#Q6828	located in time zone
+Q565956#Q6828	located in time zone
+Q430526#Q7397	product, material, or service produced or provided
+Q2143512#Q7397	product, material, or service produced or provided
+Q4475316#Q8462	father
+Q280312#Q9592	religion or worldview
+Q223998#Q11764	part of
+Q54868300#Q35332	producer
+Q641465#Q35572	organizer
+Q173269#Q35935	manufacturer
+Q482421#Q37726	military branch
+Q101294#Q45722	position held
+Q23760175#Q45875	present in work
+Q15139453#Q46280	airline hub
+Q1750429#Q56898	input device
+Q976827#Q70972	participant
+Q1248605#Q70972	participant
+Q3990161#Q79576	distributed by
+Q2355715#Q111693	follows
+Q7726#Q112581	family
+Q1189111#Q131272	genre
+Q2248170#Q131479	religious order
+Q47050#Q132529	participant in
+Q6932564#Q169346	sibling
+Q7260140#Q183387	record label
+Q2328319#Q183412	record label
+Q518760#Q190795	operator
+Q9087958#Q192094	composer$lyricist
+Q57464#Q200678	spouse
+Q5430970#Q210826	animal breed
+Q7767762#Q222929	narrative location
+Q459216#Q228584	sibling
+Q3444400#Q232945	cast member
+Q5422685#Q232945	cast member
+Q1154059#Q316013	producer
+Q6773360#Q346685	majority opinion by
+Q410937#Q408192	transport network
+Q2296250#Q511482	family
+Q854576#Q541569	production company
+Q20202630#Q541569	production company
+Q1357111#Q606060	sport$competition class
+Q569047#Q624232	heritage designation
+Q2057143#Q691928	family
+Q506421#Q752119	title of chess person
+Q3374785#Q756508	connecting service
+Q12329969#Q756617	place of birth$country of citizenship
+Q5267117#Q794335	characters
+Q50122041#Q796364	brand
+Q3445450#Q826155	characters
+Q66082243#Q852014	published in
+Q156776#Q913114	item operated
+Q1073854#Q1133204	notable work
+Q671631#Q1188938	production company
+Q751767#Q1188938	production company
+Q2089166#Q1325591	operator
+Q1027904#Q1351100	conferred by
+Q330332#Q1473065	producer
+Q259138#Q1864529	influenced by
+Q2465692#Q2122661	followed by
+Q2287423#Q2308964	sibling
+Q1740906#Q2506783	maintained by$owned by
+Q2506583#Q2506783	maintained by$owned by
+Q2443590#Q2578602	follows
+Q2665424#Q2996105	follows
+Q265770#Q3314851	title of chess person
+Q17021920#Q3476213	production company
+Q3999155#Q4733960	followed by
+Q1314838#Q5280643	sponsor
+Q3567870#Q6083546	fictional universe described in
+Q18044386#Q6877183	victory
+Q7764112#Q7046149	characters
+Q4923558#Q7053178	sibling
+Q81313#Q7767762	followed by
+Q453611#Q7982829	relative
+Q4271023#Q15215794	space launch vehicle
+Q3808920#Q15817276	mother
+Q16351#Q54800783	present in work
+Q3507037#Q56255706	filming location
+Q3391179#Q30	country of origin
+Q12889#Q64	place of death$work location
+Q385306#Q97	located in or next to body of water
+Q965236#Q232	location of landing
+Q8009534#Q362	conflict
+Q39599#Q413	field of work
+Q5648758#Q1384	located in the administrative territorial entity
+Q27152#Q1420	product, material, or service produced or provided
+Q22237142#Q3761	place of birth$residence
+Q17041243#Q5849	sports discipline competed in
+Q214121#Q5891	field of work
+Q436634#Q5891	field of work
+Q719829#Q6199	political ideology
+Q3897#Q6655	located in time zone
+Q42308#Q6760	located in time zone
+Q1164696#Q7233	manufacturer
+Q214142#Q7397	product, material, or service produced or provided
+Q909169#Q7397	product, material, or service produced or provided
+Q4928776#Q7397	product, material, or service produced or provided
+Q2157746#Q9592	religion or worldview
+Q25329#Q13011	code of nomenclature
+Q4980843#Q14116	platform
+Q1190822#Q14656	operating system
+Q6270441#Q16276	characters
+Q69852021#Q16290	based on
+Q3068168#Q34266	allegiance
+Q4439538#Q34266	narrative location
+Q172529#Q35935	manufacturer
+Q204218#Q37073	genre
+Q6407#Q41964	part of
+Q16267891#Q48493	operating system$platform
+Q42844#Q76560	possible treatment$drug or therapy used for treatment
+Q1854869#Q113846	follows
+Q642882#Q121254	political ideology
+Q676098#Q131272	genre
+Q1160895#Q131964	signatory
+Q19361459#Q156859	field of this occupation
+Q516435#Q158003	sibling
+Q155200#Q183412	record label
+Q6320902#Q185498	named after$based on$given name
+Q4023076#Q190585	record label
+Q1628242#Q190795	operator
+Q364873#Q203263	residence
+Q679321#Q212699	record label
+Q44855#Q217427	sibling
+Q2665964#Q220105	relative
+Q2891237#Q222929	narrative location
+Q7091790#Q222929	narrative location
+Q1432536#Q224124	collection$location
+Q982472#Q231150	sibling
+Q5098503#Q231576	cast member
+Q2443344#Q237530	voice actor
+Q7330356#Q311562	majority opinion by
+Q7602415#Q313671	cast member
+Q3441896#Q316955	cast member
+Q5431091#Q379946	sibling
+Q23077#Q385669	contains the administrative territorial entity
+Q2034004#Q407972	physically interacts with
+Q1235739#Q434841	production company
+Q2421317#Q442244	part of
+Q310637#Q508722	sibling
+Q3499686#Q511482	family
+Q928662#Q624232	heritage designation
+Q4974842#Q624232	heritage designation
+Q7851310#Q624232	heritage designation
+Q3444444#Q625731	characters
+Q15519286#Q652649	exhibition history
+Q42831#Q667661	movement
+Q12186#Q679201	manufacturer
+Q448071#Q691928	family
+Q860266#Q744652	present in work
+Q16744047#Q752877	characters
+Q499497#Q796364	brand
+Q796803#Q796364	brand
+Q3567870#Q958270	fictional universe described in
+Q464685#Q1072415	position held
+Q123326#Q1076638	movement
+Q48886426#Q1152150	from narrative universe
+Q3109791#Q1261974	sibling
+Q1860#Q1346342	subclass of
+Q1542169#Q1351100	conferred by
+Q11800490#Q2257793	allegiance
+Q2578602#Q2443590	followed by
+Q2506368#Q2506783	maintained by$owned by
+Q942495#Q2578602	followed by
+Q2740476#Q2603430	followed by
+Q961862#Q2615578	follows
+Q251546#Q2632892	stock exchange
+Q7578829#Q2656047	screenwriter
+Q2443590#Q2701177	followed by
+Q2740476#Q2749142	follows
+Q3487187#Q3488424	followed by
+Q5106989#Q3488452	follows
+Q7333560#Q4802871	followed by
+Q7053178#Q4923558	sibling
+Q7144754#Q4992506	screenwriter
+Q4731367#Q5036491	followed by
+Q5267117#Q5136591	followed by
+Q1419768#Q5521121	drainage basin
+Q7712702#Q6066272	screenwriter
+Q7776238#Q6741449	characters
+Q7773130#Q7144754	followed by
+Q200431#Q7685193	producer
+Q1798105#Q7685193	producer
+Q23000#Q7737284	present in work
+Q2915551#Q7804770	followed by
+Q234556#Q12033548	mother
+Q26273#Q14565199	driving side
+Q84737#Q15817276	mother
+Q2664096#Q18043309	narrative location$takes place in fictional universe
+Q3562193#Q18043309	narrative location$takes place in fictional universe
+Q30303535#Q29982196	follows
+Q4986291#Q30	place of publication
+Q880254#Q48	continent
+Q1138427#Q48	continent
+Q3049402#Q97	located in or next to body of water
+Q28127273#Q340	headquarters location
+Q60838#Q362	conflict
+Q12062129#Q362	conflict
+Q901362#Q388	platform
+Q1077719#Q1406	platform
+Q5047412#Q1406	platform
+Q5319170#Q1406	platform
+Q368831#Q5891	field of work
+Q1214072#Q5891	genre$main subject
+Q2864351#Q5891	field of work
+Q4505450#Q5891	field of work
+Q1786349#Q6186	political ideology
+Q1788657#Q6574	located in time zone
+Q3138#Q6723	located in time zone
+Q22690#Q6723	located in time zone
+Q42497#Q6723	located in time zone
+Q1258654#Q7169	political ideology
+Q11983876#Q8201	writing system
+Q26265886#Q8684	location of formation
+Q3773423#Q9366	creator
+Q6875727#Q9592	maintained by$religion or worldview
+Q388#Q11368	named after$influenced by
+Q60649438#Q11399	genre
+Q742642#Q11401	genre
+Q1188938#Q11424	product, material, or service produced or provided
+Q208247#Q11764	part of
+Q668568#Q14116	platform
+Q3571662#Q21198	field of work
+Q473239#Q27656	position held
+Q969541#Q34266	allegiance
+Q2633327#Q34266	country of origin$narrative location
+Q60521874#Q37073	genre
+Q107067#Q38903	record label
+Q609967#Q48821	location of landing
+Q228584#Q163816	sibling
+Q155346#Q164089	participating team
+Q45585#Q166713	movement
+Q1227381#Q174157	sibling
+Q845432#Q183387	record label
+Q4912802#Q183387	record label
+Q15715347#Q202440	record label
+Q171477#Q217570	readable file format
+Q5447098#Q222929	narrative location
+Q7765426#Q222929	narrative location
+Q11863377#Q222929	narrative location
+Q161866#Q231150	sibling
+Q930990#Q237338	intended public
+Q898213#Q280244	follows
+Q3272694#Q311453	cast member
+Q25217716#Q346565	performer
+Q7807780#Q346595	cast member
+Q7764112#Q348445	cast member
+Q280244#Q389486	follows
+Q409664#Q408192	transport network
+Q310197#Q458610	child
+Q1370678#Q486860	headquarters location
+Q207953#Q523140	child
+Q5244166#Q624232	heritage designation
+Q7493517#Q624232	heritage designation
+Q756238#Q634019	production company
+Q46996535#Q642949	organizer
+Q71744#Q643834	military branch
+Q18744506#Q691928	family
+Q1239#Q695602	inflows
+Q838837#Q796364	brand
+Q64085785#Q796364	brand
+Q831035#Q839717	follows
+Q545675#Q854218	part of
+Q18526198#Q903054	approved by
+Q18526202#Q903054	approved by
+Q2615578#Q961862	followed by
+Q1142446#Q1050395	child
+Q314492#Q1075161	family
+Q35127#Q1076968	subclass of
+Q101583#Q1138524	described by source
+Q68444502#Q1139145	used by
+Q2925700#Q1369077	part of
+Q4969375#Q1369077	part of$facet of
+Q337881#Q1473065	producer
+Q73223416#Q1979337	present in work
+Q73225187#Q1979337	present in work
+Q2615303#Q2042914	followed by
+Q2701177#Q2443590	follows
+Q1469548#Q2495312	has part(s)
+Q3376216#Q2598685	follows
+Q3139680#Q2609101	follows
+Q5977616#Q2656047	screenwriter
+Q3139680#Q2885898	followed by
+Q2885898#Q3139680	follows
+Q523149#Q3304313	followed by
+Q27597952#Q3314851	title of chess person
+Q1636756#Q3333484	religion or worldview
+Q1136071#Q3488828	follows
+Q657405#Q3717991	league level above
+Q3320047#Q3773487	sibling
+Q1412447#Q4828056	present in work
+Q5106989#Q5106979	followed by
+Q4926755#Q5429820	follows
+Q7764112#Q6059765	followed by
+Q5655423#Q6741449	characters
+Q4917094#Q7602421	followed by
+Q1533275#Q7735575	developer
+Q25338347#Q7764112	present in work
+Q7731084#Q16744047	followed by
+Q30251976#Q16927616	affiliation
+Q252409#Q17305144	production company
+Q48413#Q20204906	website account on
+Q48847707#Q48860860	follows
+Q722470#Q56255706	filming location
+Q2215383#Q48	continent
+Q5520494#Q48	continent
+Q5073540#Q172	headquarters location
+Q1140657#Q1384	location of formation
+Q2485883#Q1384	located in the administrative territorial entity
+Q940526#Q1406	operating system
+Q10565664#Q1519	shipping port
+Q223381#Q5294	distribution format
+Q327594#Q5294	distribution format
+Q1339044#Q7397	product, material, or service produced or provided
+Q44571#Q11368	named after
+Q4914553#Q13708	indigenous to
+Q92628#Q21198	field of work
+Q2739680#Q21198	field of work
+Q16080922#Q21198	field of work
+Q22673676#Q27656	position held
+Q1756735#Q37073	genre
+Q231713#Q38903	record label
+Q261073#Q38903	record label
+Q7714491#Q38903	record label
+Q1435107#Q39162	main subject
+Q2132370#Q39193	historical region
+Q134202#Q42267	participating team
+Q217427#Q44855	sibling
+Q65967237#Q76074	named after$political alignment
+Q864338#Q82059	stock exchange
+Q118551#Q153356	medical condition treated
+Q4648#Q158470	highest point
+Q101751#Q164134	participating team
+Q132529#Q164134	participating team
+Q23077#Q168052	contains the administrative territorial entity
+Q7710757#Q170355	subclass of
+Q212324#Q176061	readable file format
+Q1063401#Q179885	member of political party
+Q5215038#Q190585	record label
+Q19263687#Q190585	record label
+Q678584#Q204481	political alignment
+Q250064#Q209651	recorded at studio or venue
+Q7712702#Q222929	narrative location
+Q6746424#Q232945	cast member
+Q7807780#Q253764	cast member
+Q446421#Q259934	sibling
+Q17620102#Q305892	package management system
+Q17484618#Q320018	subclass of
+Q8027380#Q346685	majority opinion by
+Q7786010#Q357515	performer
+Q5374391#Q366012	cast member
+Q382207#Q371942	doctoral advisor
+Q3374785#Q389948	connecting service
+Q400010#Q399996	terminus
+Q453164#Q408192	transport network
+Q28112320#Q443540	contributor to the creative work or subject
+Q24137#Q484779	winner
+Q2334526#Q497938	contains the administrative territorial entity
+Q1428#Q498327	contains the administrative territorial entity
+Q1986134#Q595171	has part(s)
+Q608195#Q608176	follows
+Q499185#Q615977	powered by
+Q6107749#Q624232	heritage designation
+Q6819327#Q624232	heritage designation
+Q7732182#Q625731	characters
+Q7033959#Q651641	linguistic typology
+Q1960919#Q776656	follows
+Q796431#Q796364	brand
+Q3444454#Q826155	characters
+Q698232#Q854218	part of
+Q1209761#Q858082	part of
+Q1209816#Q858082	part of
+Q523149#Q861706	follows
+Q1960916#Q1122726	follows
+Q2404067#Q1156334	distributed by
+Q785719#Q1188938	production company
+Q1936840#Q1224796	readable file format
+Q777776#Q1323594	distributed by
+Q298547#Q1413558	educated at
+Q3030333#Q1431781	parent organization
+Q2361433#Q1827853	follows
+Q17030810#Q1840340	producer
+Q1944546#Q1855666	has part(s)
+Q776656#Q1960919	followed by
+Q2189134#Q2089705	followed by
+Q2089705#Q2189134	follows
+Q1967949#Q2424967	follows
+Q1139054#Q2569085	reward program
+Q8074081#Q2656047	screenwriter
+Q285543#Q2665964	relative
+Q446421#Q2665964	sibling
+Q2600455#Q2701177	follows
+Q3773487#Q3320047	sibling
+Q2598685#Q3376216	followed by
+Q675493#Q3401368	child
+Q3488474#Q3487169	followed by
+Q3974193#Q3704079	followed by
+Q15240778#Q5097006	position held$commander of (DEPRECATED)
+Q3434192#Q5410773	from narrative universe
+Q81313#Q6066272	screenwriter
+Q7773130#Q7093205	follows
+Q1329701#Q7647180	followed by
+Q15968880#Q7735575	developer
+Q7301329#Q7804770	follows
+Q3511672#Q12033548	mother
+Q1689111#Q13218630	position held
+Q19816690#Q17306112	lyricist
+Q3487187#Q18043309	narrative location$takes place in fictional universe
+Q5106989#Q18043309	narrative location$takes place in fictional universe
+Q24046102#Q23780914	present in work
+Q29982196#Q30303535	followed by
+Q67709100#Q38945047	location
+Q2451409#Q41524670	present in work
+Q204493#Q56152103	has part(s)
+Q6415166#Q15	narrative location
+Q5445802#Q30	country
+Q1630726#Q48	continent
+Q1932182#Q48	continent
+Q76553001#Q145	place of publication
+Q5471510#Q361	conflict
+Q4786278#Q362	conflict
+Q856904#Q388	operating system$platform
+Q57318#Q515	subclass of
+Q791439#Q538	narrative location
+Q1862094#Q538	narrative location
+Q449361#Q586	location of formation
+Q373774#Q1384	narrative location
+Q3522995#Q1384	narrative location
+Q380578#Q1406	platform
+Q1729998#Q1406	platform
+Q1751789#Q1406	platform
+Q797678#Q1428	filming location
+Q507036#Q2277	time period
+Q1418#Q7397	product, material, or service produced or provided
+Q42809088#Q9592	religion or worldview
+Q4063639#Q11364	subject has role
+Q551154#Q11401	genre
+Q901362#Q14116	platform
+Q4881547#Q14116	platform
+Q28451903#Q14116	platform
+Q165137#Q14712	has fruit type
+Q3496861#Q16290	part of the series
+Q5609810#Q26777	mountain range
+Q16962493#Q48493	operating system$platform
+Q55674#Q62621	manufacturer
+Q62997#Q62621	manufacturer
+Q1928222#Q79872	programming paradigm
+Q495584#Q83276	member of$parent organization
+Q42267#Q132529	participant in
+Q44269#Q155019	domain of saint or deity
+Q768335#Q183387	record label
+Q56014#Q188740	has works in the collection
+Q956020#Q188740	has works in the collection
+Q29006703#Q189561	therapeutic area
+Q4308431#Q190795	operator
+Q1767973#Q202440	record label
+Q6743501#Q202440	record label
+Q7172#Q206386	currency
+Q5645765#Q211265	crosses
+Q410011#Q213511	significant drug interaction
+Q4840668#Q222929	narrative location
+Q7557432#Q222929	narrative location
+Q7604375#Q222929	narrative location
+Q909794#Q231694	record label
+Q702313#Q276535	allegiance
+Q5783#Q302556	described by source
+Q192950#Q302556	described by source
+Q3177080#Q311453	cast member
+Q7604375#Q313671	cast member
+Q21821246#Q333329	participant$general classification of race participants
+Q1735648#Q364342	producer
+Q1102231#Q384569	characters
+Q27118866#Q443540	contributor to the creative work or subject
+Q62066995#Q484427	performer
+Q639222#Q511482	family
+Q2560390#Q513877	followed by
+Q911847#Q606060	competition class
+Q3569769#Q606060	competition class
+Q1031716#Q624232	heritage designation
+Q4869025#Q624232	heritage designation
+Q5471547#Q624232	heritage designation
+Q7084977#Q624232	heritage designation
+Q7191769#Q624232	heritage designation
+Q7969688#Q624232	heritage designation
+Q7976812#Q624232	heritage designation
+Q13220#Q651641	linguistic typology
+Q13357#Q651641	linguistic typology
+Q5686#Q667661	movement
+Q102920#Q676899	participating team
+Q835666#Q695560	follows
+Q163646#Q785982	part of$parent organization
+Q17548046#Q798768	production company
+Q897787#Q835666	follows
+Q625794#Q858729	employer
+Q39048042#Q870889	fabrication method
+Q5431889#Q937267	contributor to the creative work or subject
+Q68444502#Q1028575	used by
+Q60774298#Q1044821	CPU
+Q305892#Q1076638	movement
+Q1025379#Q1138524	described by source
+Q64550522#Q1187721	operating system
+Q2439660#Q1325591	operator
+Q3135124#Q1361045	member of
+Q235063#Q1514480	educated at
+Q2189134#Q2088808	follows
+Q2449206#Q2308964	sibling
+Q2042914#Q2615303	follows
+Q1122047#Q2737435	distributed by
+Q3487395#Q3178411	follows
+Q3232629#Q3231770	follows
+Q1945313#Q3258605	original broadcaster
+Q6658720#Q3258605	original broadcaster
+Q200408#Q3314851	title of chess person
+Q1136071#Q3487187	followed by
+Q3601035#Q3550750	military branch
+Q5974436#Q4048881	has edition or translation
+Q575146#Q4504379	business division
+Q3488452#Q5106989	followed by
+Q1435633#Q5280643	sponsor
+Q11038927#Q5280643	sponsor
+Q379946#Q5429531	sibling
+Q7144754#Q5429820	followed by
+Q7731084#Q7268179	follows
+Q2044504#Q7427495	manufacturer$designed by
+Q7268179#Q7731084	followed by
+Q297221#Q7982829	relative
+Q21233583#Q21233473	cites work
+Q54161627#Q27663202	creator
+Q2370801#Q30263613	has subsidiary
+Q214262#Q48	continent
+Q470525#Q48	continent
+Q1157215#Q48	continent
+Q1430393#Q61	work location
+Q88419#Q64	work location
+Q19798744#Q65	filming location
+Q602689#Q97	located in or next to body of water
+Q1999825#Q97	located in or next to body of water
+Q312688#Q98	place of burial
+Q74712114#Q145	place of publication
+Q59181472#Q668	place of birth
+Q512755#Q727	location of creation
+Q12988844#Q1239	mouth of the watercourse
+Q440100#Q1384	residence
+Q3783427#Q1384	residence
+Q10374807#Q1384	headquarters location
+Q21098696#Q1384	narrative location
+Q2450#Q1406	operating system$platform
+Q1316866#Q1406	platform
+Q16267891#Q1406	platform
+Q16982737#Q1406	platform
+Q2467082#Q5043	religion or worldview
+Q1189157#Q5891	field of work
+Q1720#Q6655	located in time zone
+Q41358#Q6655	located in time zone
+Q229698#Q7397	product, material, or service produced or provided
+Q152517#Q8684	headquarters location
+Q6224645#Q9212	military branch
+Q18708321#Q9592	religion or worldview
+Q725779#Q11368	subclass of$influenced by$inspired by
+Q964923#Q15180	country for sport
+Q1750510#Q15180	country for sport
+Q1071307#Q19652	copyright status
+Q62870#Q21198	field of work
+Q258532#Q25224	currency
+Q151867#Q42267	participating team
+Q1145336#Q56898	input device
+Q1264#Q81066	position held
+Q849362#Q83276	member of$parent organization
+Q6776391#Q102427	nominated for
+Q645094#Q103360	award received$nominated for
+Q238#Q106010	public holiday
+Q186470#Q118551	drug or therapy used for treatment
+Q5913451#Q122882	enemy
+Q158140#Q158143	sibling
+Q6008527#Q163727	has part(s)
+Q746#Q170486	has part(s)
+Q439635#Q176883	participant in
+Q2155624#Q183387	record label
+Q129433#Q188740	collection$location
+Q278667#Q194316	scheduled service destination
+Q4596197#Q195334	location
+Q2319510#Q202440	record label
+Q755877#Q204493	part of
+Q60614778#Q209651	recorded at studio or venue
+Q5151370#Q216364	record label
+Q933636#Q216754	followed by
+Q1396395#Q217346	place of death$work location
+Q130729#Q223718	headquarters location
+Q12033548#Q234556	child
+Q3110#Q302556	described by source
+Q30914#Q302556	described by source
+Q8364850#Q305892	package management system
+Q458610#Q310197	father
+Q2950131#Q310197	father
+Q7306724#Q346685	majority opinion by
+Q12820#Q372483	contains the administrative territorial entity
+Q6892571#Q379946	sibling
+Q165399#Q425295	significant drug interaction
+Q1541847#Q434841	production company$distributed by
+Q28112384#Q443540	contributor to the creative work or subject
+Q7982829#Q453611	relative
+Q632254#Q516435	sibling
+Q11245#Q595448	architectural style
+Q598044#Q597149	follows
+Q756153#Q598756	this zoological name is coordinate with
+Q1634948#Q624232	heritage designation
+Q1939190#Q624232	heritage designation
+Q2609021#Q662550	part of
+Q70094#Q752119	title of chess person
+Q2818926#Q787652	member of sports team
+Q1087728#Q909794	followed by
+Q2578602#Q942495	follows
+Q3441905#Q1058477	follows
+Q366731#Q1072415	position held
+Q494713#Q1076638	movement
+Q1816589#Q1138524	described by source
+Q188712#Q1207735	capital
+Q3114287#Q1355678	chief executive officer$chairperson
+Q735314#Q1473065	producer
+Q629577#Q1758804	game mode
+Q214675#Q1776400	reward program
+Q424238#Q2034004	physically interacts with
+Q2696235#Q2142742	unmarried partner$enemy
+Q2556555#Q2305341	sibling
+Q7560072#Q2656047	screenwriter
+Q7716685#Q2656047	screenwriter
+Q2749142#Q2740476	followed by
+Q4264077#Q3087181	publisher
+Q523149#Q3305947	followed by
+Q3488828#Q3312529	follows
+Q644276#Q3476213	production company
+Q2708250#Q3476213	production company
+Q2088808#Q3592670	follows
+Q2207092#Q4390263	significant person
+Q6621583#Q4781446	follows
+Q122882#Q5913451	enemy
+Q12036362#Q7379022	followed by
+Q625731#Q7737284	present in work
+Q1187824#Q7737284	present in work
+Q314459#Q13218630	position held
+Q17481109#Q16888237	follows
+Q167635#Q17172850	instrument
+Q1187077#Q18043309	narrative location$takes place in fictional universe
+Q723578#Q18602542	employer
+Q6928111#Q22808999	space launch vehicle
+Q2915551#Q56255706	filming location
+Q1325683#Q48	continent
+Q13219094#Q61	work location
+Q3879177#Q65	headquarters location$location of formation
+Q6459725#Q65	headquarters location
+Q18153317#Q65	location of formation
+Q12351145#Q90	place of publication
+Q988707#Q97	located in or next to body of water
+Q2025575#Q362	conflict
+Q2192322#Q362	conflict
+Q50861#Q1384	narrative location
+Q4808286#Q1384	narrative location
+Q4985891#Q1384	narrative location
+Q19855163#Q1406	platform
+Q77879172#Q1406	platform
+Q451272#Q1428	filming location
+Q2358124#Q3142	color
+Q18677983#Q3194	contains the administrative territorial entity
+Q5752#Q5891	field of work
+Q370414#Q5891	main subject
+Q3104#Q6723	located in time zone
+Q2162698#Q7269	basic form of government
+Q1415501#Q7397	product, material, or service produced or provided
+Q6539240#Q9749	sibling
+Q4047343#Q10683	platform
+Q16982737#Q10683	platform
+Q45102157#Q11299	located in the administrative territorial entity
+Q846549#Q14116	platform
+Q4106631#Q15180	country for sport
+Q848742#Q37073	genre
+Q2822942#Q37073	genre
+Q6320#Q41964	part of
+Q6686#Q43193	product, material, or service produced or provided
+Q596590#Q49210	educated at
+Q69711#Q62621	manufacturer
+Q889656#Q122173	part of
+Q164134#Q132529	participant in
+Q417909#Q165399	significant drug interaction
+Q425295#Q165399	significant drug interaction
+Q565573#Q176061	readable file format$writable file format
+Q926127#Q183387	record label
+Q2564709#Q183387	record label
+Q345400#Q183412	record label
+Q496027#Q188740	has works in the collection
+Q3269591#Q188740	has works in the collection
+Q1231148#Q190795	operator
+Q462779#Q207337	member of sports team
+Q3329031#Q212699	record label
+Q1450954#Q216364	record label
+Q7111082#Q222929	narrative location
+Q7247600#Q222929	narrative location
+Q163816#Q228584	sibling
+Q4468440#Q235539	parent peak
+Q842481#Q293765	armament
+Q622257#Q297590	member of$parent organization
+Q83894#Q298913	discoverer or inventor
+Q70#Q302556	described by source
+Q240#Q302556	described by source
+Q244345#Q302556	described by source
+Q591296#Q302556	described by source
+Q39636#Q320018	has use
+Q6270441#Q384569	characters
+Q165399#Q417909	significant drug interaction
+Q686210#Q473725	writing system
+Q587407#Q484779	producer
+Q1144590#Q541569	production company$distributed by
+Q419974#Q606060	competition class
+Q289957#Q614575	child
+Q2056666#Q624232	heritage designation
+Q5117829#Q624232	heritage designation
+Q6303624#Q624232	heritage designation
+Q7085411#Q624232	heritage designation
+Q7580869#Q624232	heritage designation
+Q543277#Q642970	reward program
+Q3100376#Q651641	linguistic typology
+Q2090123#Q739552	publisher
+Q466232#Q752119	title of chess person
+Q607452#Q834003	member of the crew of
+Q1954#Q896765	operator
+Q28016380#Q1077862	performer
+Q68444502#Q1321143	used by
+Q3374785#Q1412872	connecting service
+Q1071706#Q1667757	archives at
+Q73226435#Q1979337	present in work
+Q948278#Q2257793	allegiance
+Q3599207#Q2257793	allegiance
+Q2578684#Q2444196	follows
+Q2660341#Q2499304	followed by
+Q3951786#Q2569085	reward program
+Q1230306#Q2723049	child
+Q20098316#Q2917784	spouse
+Q13630486#Q3258605	original broadcaster
+Q641370#Q3286784	child
+Q255142#Q3314851	title of chess person
+Q17548046#Q3486445	production company
+Q22906308#Q3486445	production company
+Q44903#Q4116923	mother
+Q73225187#Q4267401	present in work
+Q12036362#Q5038249	follows
+Q24663887#Q5300478	relative
+Q2451409#Q5457585	present in work
+Q7374571#Q7373751	part of
+Q160710#Q10997658	subclass of$different from
+Q5038249#Q12036362	followed by
+Q10390#Q13218630	position held
+Q472909#Q14864331	ESRB rating
+Q40773#Q16632420	spacecraft bus
+Q324726#Q17172850	instrument
+Q19520525#Q17305144	production company
+Q966710#Q18161050	follows
+Q2991162#Q28549981	has subsidiary
+Q6421043#Q54806999	present in work
+Q42600349#Q56255706	filming location
+Q1359998#Q97	located in or next to body of water
+Q3375901#Q97	named after
+Q7721204#Q145	country of origin
+Q2920164#Q148	country
+Q578993#Q220	work location
+Q5294185#Q362	conflict
+Q3002#Q525	parent astronomical body
+Q29068#Q1420	product, material, or service produced or provided
+Q2060726#Q1420	subclass of
+Q985235#Q1497	located in or next to body of water
+Q3816639#Q2370	influenced by
+Q1193472#Q4488	voice actor
+Q4041404#Q7397	product, material, or service produced or provided
+Q3446062#Q8683	part of
+Q21709935#Q8684	headquarters location
+Q12312#Q11696	position held
+Q1968331#Q14116	platform
+Q6270441#Q16296	cast member
+Q3237327#Q19652	copyright status
+Q1239497#Q19707	natural product of taxon
+Q1031#Q22670	influenced by
+Q6708869#Q34225	operating system
+Q5575687#Q38903	record label
+Q132529#Q47050	participating team
+Q2388752#Q48493	operating system$platform
+Q3760582#Q49218	place of death$work location
+Q1451094#Q59104	main subject
+Q16334358#Q79576	distributed by
+Q152230#Q101583	place of death
+Q164134#Q101751	participant in
+Q223299#Q102427	nominated for
+Q1412960#Q146055	family
+Q1453518#Q151121	airline hub
+Q1352284#Q168360	member of$parent organization
+Q949750#Q180987	has part(s) of the class
+Q506892#Q186652	named after
+Q123326#Q189464	GUI toolkit or framework
+Q2982903#Q189466	species kept
+Q221555#Q202440	record label
+Q1754986#Q202440	record label
+Q7749658#Q202440	record label
+Q56152103#Q204493	part of
+Q277577#Q207953	sibling
+Q5651235#Q208909	record label
+Q385437#Q209842	educated at
+Q68816614#Q211113	located in the administrative territorial entity
+Q349461#Q217427	sibling
+Q12036362#Q222929	narrative location
+Q7265274#Q231576	cast member
+Q9458#Q263779	spouse
+Q334220#Q302556	described by source
+Q8341389#Q310113	lyricist
+Q234388#Q319392	sibling
+Q54161627#Q372788	creator
+Q24273150#Q484165	producer
+Q1203#Q484641	genre
+Q1416835#Q493378	headquarters location
+Q4688987#Q493378	headquarters location
+Q3304313#Q523149	follows
+Q1447181#Q606060	competition class
+Q55163770#Q616755	characters
+Q6355288#Q624232	heritage designation
+Q7737284#Q625731	characters
+Q538133#Q678406	uses
+Q49103#Q720676	participant
+Q5359051#Q737531	partner in business or sport
+Q3999155#Q820999	follows
+Q839717#Q831035	followed by
+Q1009#Q842490	member of
+Q204181#Q868940	member of
+Q801228#Q896765	operator
+Q28130012#Q903054	approved by
+Q191715#Q907357	owner of
+Q2023#Q941023	located in time zone
+Q2361433#Q942495	followed by
+Q852402#Q1043096	political ideology
+Q1526804#Q1047366	record label
+Q1370586#Q1075161	family
+Q858082#Q1209761	has part(s)
+Q2460511#Q1325591	operator
+Q18574623#Q1363271	participant$winner$points classification$mountains classification
+Q797902#Q1474884	movement
+Q318320#Q1667757	archives at
+Q371031#Q1700428	father
+Q140944#Q1931429	connector
+Q2517382#Q2257793	part of$allegiance
+Q451890#Q2486974	terminus
+Q2506191#Q2506783	maintained by$owned by
+Q1507857#Q2569801	followed by
+Q2627902#Q2615410	followed by
+Q494748#Q2737435	distributed by
+Q3522379#Q2997813	affiliation
+Q445102#Q3314851	title of chess person
+Q27580037#Q3314851	title of chess person
+Q606202#Q3488452	present in work
+Q5111448#Q3999155	follows
+Q310956#Q4775035	educated at
+Q4929428#Q5194696	located in protected area
+Q23753831#Q5877874	spouse
+Q4048881#Q5974436	edition or translation of
+Q7993981#Q6741449	characters
+Q16744066#Q7062763	followed by
+Q16744047#Q7731084	follows
+Q3023228#Q7737284	present in work
+Q3160645#Q7737284	present in work
+Q59898149#Q17054505	part of
+Q19925623#Q17306112	lyricist
+Q156859#Q19361459	practiced by
+Q534458#Q21821246	participant in
+Q503433#Q15	continent
+Q849129#Q15	continent
+Q693579#Q16	country
+Q2008430#Q16	country
+Q6737173#Q16	country
+Q422765#Q18	continent
+Q1506746#Q46	narrative location
+Q2779010#Q46	narrative location
+Q93876#Q98	narrative location
+Q18350165#Q117	country of origin$narrative location
+Q641722#Q142	country
+Q759210#Q142	country
+Q503793#Q145	country of origin
+Q2583180#Q145	country of origin
+Q5001997#Q145	country of origin
+Q7762425#Q145	country of origin
+Q7766317#Q145	country of origin
+Q1587288#Q148	country
+Q25047697#Q239	located in the administrative territorial entity
+Q990636#Q408	country
+Q3326024#Q408	country
+Q6510816#Q408	country
+Q16374253#Q408	country
+Q57294437#Q408	country
+Q3512046#Q430	main subject
+Q233467#Q538	continent
+Q317912#Q584	located in or next to body of water
+Q15622908#Q778	operator
+Q54872264#Q797	located in the administrative territorial entity
+Q13509#Q807	work location
+Q5599902#Q1247	located in or next to body of water
+Q7588103#Q1247	located in or next to body of water
+Q23798621#Q1247	located in or next to body of water
+Q861523#Q2023	located in the administrative territorial entity
+Q57089#Q3033	work location
+Q3481081#Q5891	genre
+Q208270#Q6806	located in time zone
+Q538#Q7118	located in time zone
+Q49973947#Q7310	political ideology
+Q71744#Q10859	conflict
+Q184569#Q11768	narrative location
+Q220252#Q11768	country of citizenship$time period
+Q2718010#Q13646	owned by$operator
+Q60833546#Q13917	filming location
+Q3487183#Q13974	original broadcaster
+Q3487426#Q16311	characters
+Q3488474#Q16311	characters
+Q3488828#Q16311	characters
+Q132100#Q19546	position held
+Q12410385#Q49100	conflict
+Q109214#Q49451	genre
+Q190251#Q49451	genre
+Q192936#Q49451	genre
+Q206271#Q49451	genre
+Q207661#Q49451	genre
+Q210122#Q49451	genre
+Q3521230#Q52447	producer
+Q10374569#Q151701	operator
+Q128267#Q152771	present in work
+Q868851#Q165725	conflict
+Q306004#Q182933	platform
+Q552319#Q182933	platform
+Q7559720#Q230038	cast member
+Q60200417#Q269094	composer
+Q4525#Q271637	cast member
+Q11983#Q272629	platform
+Q181596#Q272629	platform
+Q640467#Q272629	platform
+Q1129541#Q272629	platform
+Q5964032#Q276990	part of the series
+Q1027165#Q330629	record label
+Q410061#Q407972	significant drug interaction
+Q486478#Q483938	record label
+Q622988#Q484641	genre
+Q318128#Q484847	industry
+Q218000#Q511731	production company
+Q3401368#Q523140	sibling
+Q3487187#Q616755	characters
+Q3487385#Q616755	characters
+Q3487426#Q616755	characters
+Q2816442#Q644943	allegiance
+Q2816765#Q644943	allegiance
+Q429788#Q654283	record label
+Q3286404#Q654283	record label
+Q1002980#Q838544	record label
+Q905076#Q851213	genre
+Q26807#Q941023	located in time zone
+Q56682979#Q957787	located in or next to body of water
+Q2007185#Q1047366	record label
+Q54177#Q1126261	contains the administrative territorial entity
+Q6196505#Q1140152	allegiance
+Q164646#Q1298934	genre
+Q2743297#Q1298934	genre
+Q947844#Q1507067	followed by
+Q1619389#Q1586470	producer
+Q17458337#Q1625970	said to be the same as
+Q384762#Q1644016	record label
+Q7134100#Q2297042	record label
+Q27889400#Q2719775	distributed by
+Q55163770#Q2737692	characters
+Q807973#Q2887556	drainage basin
+Q15654302#Q3354498	said to be the same as
+Q2829497#Q3537670	production company
+Q3714939#Q3714941	followed by
+Q12280610#Q3767041	relative
+Q58166#Q4885200	operating system
+Q3354498#Q15654302	said to be the same as
+Q832242#Q16290308	said to be the same as
+Q22274379#Q17590603	GUI toolkit or framework
+Q964745#Q19558910	heritage designation
+Q1427401#Q19558910	heritage designation
+Q6226112#Q22088567	sibling
+Q275435#Q15	continent
+Q620634#Q15	continent
+Q803634#Q15	continent
+Q853315#Q18	continent
+Q6477342#Q18	continent
+Q878964#Q43	narrative location
+Q20897325#Q48	narrative location
+Q3795787#Q79	narrative location
+Q10902#Q84	place of birth$residence
+Q763184#Q142	country of origin
+Q3764502#Q145	country of origin
+Q7187322#Q145	country of origin
+Q7718223#Q145	country of origin
+Q624656#Q214	country$location of formation
+Q498671#Q408	country$basin country
+Q2736406#Q408	country of origin
+Q7684545#Q408	country
+Q7691107#Q408	country
+Q14935898#Q408	country
+Q207756#Q538	continent
+Q850051#Q538	continent
+Q662242#Q980	place of burial
+Q159467#Q985	located in the administrative territorial entity
+Q84848#Q1297	work location
+Q1364539#Q5891	genre
+Q538#Q7105	located in time zone
+Q1950716#Q8093	distributed by
+Q211971#Q8361	movement
+Q324086#Q8740	conflict
+Q7172629#Q8740	conflict
+Q312696#Q9759	genre
+Q61585#Q10859	conflict
+Q216160#Q11030	field of work
+Q298631#Q11768	time period
+Q12630884#Q13615	indigenous to
+Q2622457#Q14647	developer
+Q247708#Q15804	league or competition
+Q520622#Q16311	characters
+Q3487385#Q16311	characters
+Q55163770#Q16341	characters
+Q54800783#Q16351	characters
+Q3568439#Q23436	place of birth$place of death$residence
+Q348831#Q34266	country$located in the administrative territorial entity
+Q33096#Q34433	publisher
+Q1411739#Q41298	product, material, or service produced or provided
+Q200872#Q49451	genre
+Q205458#Q49451	genre
+Q1324712#Q49451	genre
+Q210172#Q54860	record label
+Q65043099#Q81931	country
+Q47006758#Q125384	located in/on physical feature
+Q317894#Q130858	family
+Q24198399#Q133602	family
+Q16334439#Q151701	operator
+Q152260#Q153601	sibling
+Q224215#Q157217	family
+Q7636841#Q159183	located in or next to body of water
+Q3567539#Q162324	architectural style
+Q212324#Q182933	platform
+Q595758#Q182933	platform
+Q5113822#Q182933	platform
+Q958421#Q188712	country of citizenship$allegiance
+Q2015878#Q188712	country of citizenship$allegiance
+Q376692#Q190088	headquarters location
+Q207438#Q193355	genre
+Q312559#Q193355	genre
+Q428223#Q193355	genre
+Q4049613#Q202585	record label
+Q22905759#Q202585	record label
+Q92945#Q212805	field of work
+Q6149137#Q213791	sibling
+Q598332#Q214820	headquarters location
+Q1967172#Q234466	cast member
+Q2465692#Q234466	cast member
+Q4860559#Q236809	cast member
+Q11250#Q272629	platform
+Q13422835#Q272629	platform
+Q977090#Q411478	drug or therapy used for treatment
+Q4860559#Q435475	cast member
+Q7559720#Q435475	cast member
+Q7559720#Q452232	cast member
+Q846078#Q465283	operator
+Q4860559#Q508333	cast member
+Q46728#Q539808	linguistic typology
+Q55163770#Q606202	characters
+Q55163770#Q607489	characters
+Q520622#Q616755	characters
+Q3506698#Q616755	characters
+Q48#Q632994	located in time zone
+Q4341#Q632994	located in time zone
+Q7429023#Q654283	record label
+Q285553#Q660984	genre
+Q84642#Q698102	relative
+Q134916#Q722749	owned by
+Q6068452#Q738144	allegiance
+Q5966843#Q772494	record label
+Q18722273#Q822314	distributed by
+Q210593#Q845864	enemy
+Q1521787#Q898857	located in the administrative territorial entity
+Q61654745#Q1190319	cast member
+Q2615143#Q1210990	follows
+Q2634369#Q1249857	child
+Q319773#Q1298934	genre
+Q2198007#Q1419438	operator
+Q4728704#Q2297042	record label
+Q2981357#Q2567420	follows
+Q30203425#Q2793276	production company
+Q12515517#Q3177695	sibling
+Q16200216#Q3567870	from narrative universe
+Q207867#Q3840596	genre
+Q2534503#Q5277256	distributed by
+Q208190#Q9813916	has part(s)
+Q2469381#Q16853911	sibling
+Q16253888#Q16984664	production company
+Q19363472#Q19688807	followed by
+Q8073344#Q23898951	sibling
+Q615662#Q15	continent
+Q707934#Q18	continent
+Q777632#Q18	narrative location
+Q7175091#Q30	allegiance
+Q1753348#Q84	location of formation
+Q1979787#Q84	location
+Q1536361#Q145	country of origin
+Q2973616#Q408	country
+Q6478412#Q408	country$basin country
+Q21883960#Q408	country$basin country
+Q7008675#Q495	headquarters location
+Q1945432#Q538	continent
+Q455402#Q585	work location
+Q2310064#Q1247	located in or next to body of water
+Q6651815#Q1247	located in or next to body of water
+Q11997691#Q1247	mouth of the watercourse
+Q89384#Q1741	place of birth$work location
+Q29193#Q1799	work location
+Q543919#Q8921	constellation
+Q2063718#Q11220	operator
+Q239884#Q11768	time period
+Q1093113#Q14378	movement
+Q180553#Q15804	league or competition
+Q3487187#Q16311	characters
+Q55163770#Q16311	characters
+Q3487187#Q16351	characters
+Q3488828#Q16351	characters
+Q3506698#Q16351	characters
+Q7757264#Q16351	characters
+Q4749367#Q23556	residence
+Q18207192#Q34804	residence
+Q1163663#Q37068	movement
+Q429138#Q42497	located in the administrative territorial entity
+Q1095077#Q43327	record label
+Q6767308#Q43327	record label
+Q233067#Q44015	child
+Q245187#Q44430	producer
+Q698102#Q84642	relative
+Q389392#Q148247	based on
+Q24085#Q156598	educated at$employer
+Q15303608#Q158886	record label
+Q485453#Q170314	conflict
+Q862107#Q175117	located in or next to body of water
+Q189599#Q193355	genre
+Q2358124#Q211930	political ideology
+Q16156394#Q214346	production company
+Q2599057#Q221028	follows
+Q2674495#Q234466	cast member
+Q242769#Q249183	child
+Q7732182#Q264699	cast member
+Q154423#Q269412	sibling
+Q5113822#Q272629	platform
+Q15980209#Q272629	platform
+Q30134996#Q272629	platform
+Q2667397#Q312385	performer
+Q3110901#Q328424	sibling
+Q617010#Q378676	mother
+Q2404780#Q483938	record label
+Q718102#Q486761	time period
+Q3513637#Q539808	linguistic typology
+Q6202387#Q654283	record label
+Q191#Q663492	member of
+Q1878135#Q664167	record label
+Q264908#Q732728	child
+Q806252#Q806259	owned by$parent organization
+Q2512218#Q838289	followed by
+Q2652989#Q841299	has part(s)
+Q617066#Q891723	legal form
+Q1095958#Q909801	followed by
+Q1985896#Q938239	followed by
+Q1937560#Q940733	work location
+Q175735#Q941023	located in time zone
+Q1556007#Q941023	located in time zone
+Q221102#Q953040	distributed by
+Q129684#Q1047366	record label
+Q5712708#Q1146109	operator
+Q4974834#Q1153032	record label
+Q1191207#Q1415979	followed by
+Q607806#Q1465011	follows
+Q929618#Q1465915	followed by
+Q755171#Q1485801	production company
+Q959538#Q1574177	follows
+Q9022#Q2086913	located in time zone
+Q14408741#Q2154633	follows
+Q2587686#Q2464574	followed by
+Q2627902#Q2615150	follows
+Q2504367#Q2665895	followed by
+Q2350335#Q2704081	record label
+Q2664096#Q2984502	follows
+Q58815176#Q3285496	production company
+Q20972627#Q3297972	maintained by$owned by
+Q7805103#Q3493638	record label
+Q7765228#Q3739165	production company
+Q6349938#Q4182287	instance of$product, material, or service produced or provided
+Q39370#Q4652575	production company$distributed by
+Q826155#Q5223330	present in work
+Q1627300#Q5223784	member of
+Q20685872#Q6546094	followed by
+Q453666#Q7088390	sibling
+Q7991486#Q7730545	follows
+Q2565877#Q7759822	followed by
+Q3307708#Q10406147	sibling
+Q19321003#Q13583410	follows
+Q756460#Q14703482	producer
+Q39069621#Q16633091	relative
+Q18151017#Q16984664	production company
+Q16341#Q18043309	from narrative universe
+Q18161197#Q18165629	follows
+Q19688807#Q19363472	follows
+Q890118#Q19558910	heritage designation
+Q934052#Q20466202	owned by
+Q182104#Q22915435	child
+Q16979633#Q16	country
+Q124612#Q18	narrative location
+Q959723#Q21	country for sport
+Q5566556#Q46	narrative location
+Q6488#Q67	manufacturer$developer$designed by
+Q76948#Q145	employer
+Q319171#Q155	narrative location
+Q2361515#Q218	country
+Q4653948#Q312	distributed by
+Q520622#Q362	main subject
+Q1932828#Q395	field of work
+Q1520385#Q408	country$basin country
+Q6476618#Q408	country$basin country
+Q2887556#Q538	continent
+Q7968628#Q538	continent
+Q233282#Q1749	residence
+Q230302#Q9465	main subject
+Q380865#Q11030	field of work
+Q215051#Q11246	operating system
+Q2424593#Q14773	headquarters location
+Q3487169#Q16311	characters
+Q3488474#Q16351	characters
+Q5106989#Q16351	characters
+Q55163770#Q16351	characters
+Q2554178#Q21095	followed by
+Q12717#Q22639	contains the administrative territorial entity
+Q20426643#Q23733	present in work
+Q255779#Q43115	subclass of
+Q35932#Q44430	creator
+Q1393624#Q49053	owned by
+Q28415575#Q49117	educated at
+Q1808424#Q49273	work location
+Q432405#Q49451	genre
+Q4798096#Q78994	conflict
+Q148247#Q82664	conflict
+Q93370#Q94247	transport network
+Q566156#Q103148	located in or next to body of water
+Q1071936#Q108418	located in the administrative territorial entity
+Q331804#Q132311	genre
+Q153601#Q152260	sibling
+Q269412#Q154423	sibling
+Q1747296#Q168383	distributed by
+Q2661490#Q179235	main subject
+Q22915435#Q182104	mother
+Q285741#Q182933	platform
+Q360232#Q182933	platform
+Q606481#Q187364	producer
+Q215408#Q193355	genre
+Q787932#Q194355	family
+Q1465376#Q211930	political ideology
+Q7513919#Q212446	designed by
+Q5171573#Q217346	located in the administrative territorial entity
+Q3544187#Q234466	cast member
+Q35802#Q251259	influenced by
+Q58058#Q272629	platform
+Q1321517#Q272629	platform
+Q2299928#Q282472	product, material, or service produced or provided
+Q855705#Q298003	location
+Q22007007#Q324867	league or competition
+Q2468250#Q330629	record label
+Q56277442#Q369225	organizer
+Q1144399#Q384930	production company
+Q66463644#Q451075	performer
+Q13479268#Q452232	cast member
+Q1967172#Q453724	cast member
+Q2402314#Q453724	cast member
+Q380531#Q483352	genre
+Q293612#Q484181	field of work
+Q228899#Q484641	genre
+Q19618389#Q508212	sibling
+Q832554#Q512187	basic form of government
+Q1328962#Q575937	follows
+Q5257683#Q719156	father
+Q4658162#Q722470	followed by
+Q5003653#Q739416	manufacturer
+Q18491847#Q751067	approved by$used by
+Q1153647#Q796754	operator
+Q5332155#Q835412	military branch
+Q431439#Q838544	record label
+Q1533908#Q849372	followed by
+Q62167#Q921432	operator
+Q1795689#Q941023	located in time zone
+Q1064394#Q1030042	has part(s) of the class
+Q909801#Q1095958	follows
+Q2903368#Q1140241	educated at
+Q858241#Q1151157	follows
+Q591879#Q1676845	conflict
+Q1686877#Q1697466	distributed by
+Q820753#Q1785329	production company
+Q2128582#Q2086913	located in time zone
+Q20735239#Q2291111	child
+Q2355358#Q2353068	terminus
+Q3300727#Q2427192	family
+Q2499428#Q2499472	followed by
+Q221028#Q2599057	followed by
+Q1249857#Q2634369	mother
+Q17168217#Q3070866	distributed by
+Q10406147#Q3307708	sibling
+Q4419444#Q3308003	child
+Q56515112#Q3315416	maintained by$owned by
+Q18387836#Q3334902	production company
+Q3488866#Q3487409	follows
+Q3147354#Q3567870	from narrative universe
+Q3646306#Q3643306	followed by
+Q19573518#Q3716272	record label
+Q673904#Q4275753	screenwriter
+Q7933038#Q4778932	child
+Q718261#Q4923837	maintained by$owned by
+Q459398#Q5223268	production company
+Q546404#Q6036887	present in work
+Q316844#Q6608367	educated at
+Q3177695#Q12515517	sibling
+Q39379#Q21096327	parent organization
+Q1727751#Q16	country
+Q63969255#Q145	country of origin
+Q4855947#Q270	location of formation
+Q6907752#Q408	country
+Q502071#Q649	residence
+Q3938553#Q5930	present in work
+Q1188435#Q6346	headquarters location
+Q290378#Q8803	model item
+Q6019423#Q9021	named after
+Q215051#Q11233	operating system
+Q3704079#Q12544	narrative location
+Q3087729#Q14686	part of
+Q3487395#Q16351	characters
+Q3488866#Q16351	characters
+Q17016547#Q23556	headquarters location
+Q275500#Q34178	field of work
+Q7562509#Q41187	owned by$parent organization
+Q70767#Q49750	member of political party
+Q844966#Q59942	location of landing
+Q519110#Q93773	followed by
+Q876799#Q94247	transport network
+Q16168#Q95093	contains the administrative territorial entity
+Q231150#Q105278	family
+Q1671294#Q106085	subclass of
+Q7861180#Q153732	location
+Q41370#Q161953	present in work
+Q517297#Q170314	conflict
+Q697785#Q170314	conflict
+Q3267678#Q170314	conflict
+Q2033#Q182933	platform
+Q58058#Q182933	platform
+Q19281946#Q189571	participant in
+Q19089#Q191104	cast member
+Q29999#Q191384	member of
+Q264137#Q194419	founded by
+Q3340004#Q209860	platform
+Q4426540#Q211201	subclass of
+Q1780610#Q211930	political ideology
+Q1453518#Q212282	airline alliance
+Q2139300#Q234466	cast member
+Q531888#Q244475	field of work$dance style
+Q285741#Q272629	platform
+Q281901#Q288811	present in work
+Q952325#Q291438	cast member
+Q45165#Q330629	record label
+Q21622122#Q330629	record label
+Q1968558#Q333870	father
+Q1329701#Q435475	cast member
+Q2674495#Q453724	cast member
+Q2233514#Q460487	manufacturer
+Q1277343#Q463984	child
+Q865720#Q473513	sponsor
+Q1139520#Q483352	genre
+Q349897#Q486761	time period
+Q3340004#Q527464	platform
+Q17495897#Q528496	child
+Q2014770#Q559844	creator
+Q842428#Q578994	subclass of
+Q2846919#Q596391	package management system
+Q597149#Q598044	followed by
+Q426790#Q606202	characters
+Q3488452#Q606202	characters
+Q3089385#Q683308	followed by
+Q28052823#Q726128	cast member
+Q66422806#Q731721	performer
+Q1057147#Q753679	genre
+Q1078034#Q773875	developer
+Q730994#Q775107	follows
+Q1465760#Q910379	manufacturer
+Q7764112#Q957711	screenwriter
+Q2807451#Q1023457	headquarters location
+Q666144#Q1047366	record label
+Q27237604#Q1111300	present in work
+Q1058179#Q1140960	developer
+Q271362#Q1249648	child
+Q464951#Q1320494	cast member
+Q183532#Q1418789	residence
+Q1062574#Q1643932	product, material, or service produced or provided
+Q30160216#Q1646867	residence
+Q719965#Q2002043	educated at
+Q317865#Q2086913	located in time zone
+Q22575643#Q2190766	sibling
+Q1210734#Q2211650	main subject
+Q2336649#Q2336632	follows
+Q574659#Q2355950	item operated
+Q54258#Q2448480	contains the administrative territorial entity
+Q2597150#Q2597161	followed by
+Q3146424#Q2711490	followed by
+Q1179189#Q2822443	conferred by
+Q2567420#Q2981357	followed by
+Q328424#Q3110901	sibling
+Q5956793#Q3146765	record label
+Q401986#Q3341402	follows
+Q15958654#Q3567870	from narrative universe
+Q749629#Q3700394	distributed by
+Q917687#Q3765113	family
+Q6432971#Q3765113	family
+Q2365558#Q3857350	producer
+Q43399#Q4155679	part of
+Q55720#Q4165785	mother
+Q12515517#Q4201169	mother
+Q722470#Q4658162	follows
+Q865038#Q4966205	member of
+Q6048491#Q5429464	sibling
+Q3148591#Q5448985	production company
+Q83752#Q6970009	parent taxon
+Q796793#Q7239746	follows
+Q7431504#Q7847507	followed by
+Q7560072#Q7960404	followed by
+Q4201169#Q12515517	child
+Q44569965#Q18043309	from narrative universe
+Q16290308#Q18343247	said to be the same as
+Q17984356#Q18712599	participant
+Q2190766#Q22575643	sibling
+Q29915613#Q22815135	follows
+Q6779917#Q97	place of birth
+Q3093177#Q142	country$location of formation
+Q726544#Q145	country of origin
+Q458390#Q309	field of work
+Q73801#Q5284	founded by
+Q692811#Q6437	item operated
+Q842110#Q8853	constellation
+Q1550565#Q9465	main subject
+Q1160945#Q11030	industry
+Q242267#Q11768	time period
+Q33284#Q13650	indigenous to
+Q951291#Q14656	part of
+Q520622#Q16351	characters
+Q3499742#Q16351	characters
+Q2807451#Q25436	military branch
+Q11826#Q34178	field of work
+Q6529562#Q34640	located in or next to body of water
+Q2857218#Q37068	movement
+Q350915#Q40970	member of
+Q12410385#Q49077	conflict
+Q1995146#Q73801	developer
+Q834280#Q76560	subject has role
+Q2742518#Q122741	publisher$developer
+Q12470136#Q128195	followed by
+Q310536#Q130858	family
+Q17087716#Q131200	named after
+Q4928690#Q154958	distributed by
+Q205523#Q159778	performer
+Q973159#Q164565	designed by
+Q18086860#Q168383	production company
+Q4101902#Q170314	conflict
+Q876398#Q174710	educated at
+Q235275#Q178038	political ideology
+Q330910#Q179121	main subject
+Q7728114#Q179235	main subject
+Q1031976#Q179840	family
+Q6932430#Q189648	place of burial
+Q890225#Q201815	manufacturer$developer
+Q76513120#Q213710	record label
+Q3297670#Q218992	performer
+Q498806#Q219691	follows
+Q408784#Q223416	airline hub
+Q4689014#Q234466	cast member
+Q1956333#Q272629	platform
+Q8364850#Q272629	platform
+Q230865#Q388232	member of sports team
+Q22661436#Q388314	member of
+Q13440024#Q420843	manufacturer
+Q2139300#Q453724	cast member
+Q467320#Q471469	followed by
+Q387459#Q489815	parent organization
+Q1474484#Q492050	political ideology
+Q23883#Q496024	inflows
+Q16994643#Q539064	performer
+Q657504#Q583878	follows
+Q2014770#Q626178	original broadcaster
+Q4974834#Q654283	record label
+Q3072616#Q659417	follows
+Q926138#Q664167	record label
+Q526746#Q702135	manufacturer
+Q3273327#Q705543	part of
+Q4689014#Q713738	cast member
+Q18015679#Q723916	subclass of
+Q2060471#Q729878	followed by
+Q629577#Q753684	publisher
+Q1378121#Q781184	member of sports team
+Q2619510#Q838261	place of death
+Q2105475#Q849180	participant
+Q848103#Q858082	league or competition
+Q349281#Q909452	family
+Q186321#Q917830	place of burial
+Q1890458#Q921432	operator
+Q354544#Q940709	religion or worldview
+Q2983347#Q1087814	follows
+Q217190#Q1135676	sibling
+Q3899979#Q1193472	father
+Q3433665#Q1401605	movement
+Q7103920#Q1457764	original broadcaster
+Q755186#Q1486288	distributed by
+Q29959875#Q1577483	part of
+Q2816694#Q2023286	has part(s)
+Q18681531#Q2067216	has part(s)
+Q2876754#Q2071905	owned by$operator
+Q2567367#Q2348977	followed by
+Q161678#Q2415769	production company
+Q2597161#Q2597150	follows
+Q595442#Q2609021	followed by
+Q22583657#Q2680856	publisher$developer
+Q28864472#Q2822443	conferred by
+Q3088275#Q2833080	cast member
+Q68826054#Q3007561	located in the administrative territorial entity
+Q74528386#Q3445950	employer
+Q1329303#Q3489789	record label
+Q3308003#Q4419444	mother
+Q83570#Q4885200	operating system
+Q5490628#Q5350790	follows
+Q22088567#Q6226112	sibling
+Q82049#Q6423963	religion or worldview
+Q7630674#Q6693437	followed by
+Q7084332#Q6939712	followed by
+Q4802871#Q7333560	follows
+Q5977616#Q7716685	follows
+Q7065889#Q7719056	follows
+Q4778932#Q7933038	mother
+Q2045474#Q11835640	part of the series
+Q184216#Q12347561	child
+Q3615380#Q13471258	sibling
+Q15176899#Q13522376	operating system
+Q7062763#Q16744066	follows
+Q7007562#Q16952142	followed by
+Q1625970#Q17458337	said to be the same as
+Q508212#Q19618389	sibling
+Q2589982#Q19911695	parent taxon
+Q465051#Q23043295	father
+Q898171#Q36	country of origin$narrative location
+Q5598995#Q84	narrative location
+Q1195998#Q98	narrative location
+Q3285128#Q148	country of origin
+Q17068098#Q1156	narrative location
+Q66973155#Q1191	place of death
+Q244122#Q1471	located in or next to body of water
+Q2341741#Q1533	place of birth
+Q30337076#Q1757	headquarters location$location of formation
+Q1197#Q5923	contains the administrative territorial entity
+Q41964#Q6407	contains the administrative territorial entity
+Q30081713#Q8209	writing system
+Q689579#Q11246	operating system
+Q220320#Q11768	time period
+Q785361#Q15175	located in the administrative territorial entity
+Q3487426#Q16351	characters
+Q174029#Q19546	position held
+Q18043309#Q20909	fictional universe described in
+Q501661#Q28150	twinned administrative body
+Q888443#Q30988	work location
+Q16184#Q53125	contains the administrative territorial entity
+Q50631#Q128762	contains the administrative territorial entity
+Q233192#Q129857	child
+Q1866#Q165481	located in/on physical feature
+Q754687#Q170292	movement
+Q92764#Q171186	website account on
+Q442637#Q178512	industry$product, material, or service produced or provided
+Q21044888#Q181912	operator
+Q1187721#Q182933	platform
+Q18274950#Q183644	published in
+Q607658#Q212268	developer
+Q160422#Q212406	work location
+Q2214105#Q217475	stock exchange
+Q3536179#Q222595	military branch$allegiance
+Q386100#Q263324	director
+Q1349704#Q272629	platform
+Q3944788#Q304878	participant
+Q28052823#Q311068	cast member
+Q466088#Q330629	record label
+Q60643035#Q379222	owned by
+Q3487169#Q385831	characters
+Q5881867#Q434003	founded by
+Q1153647#Q465283	operator
+Q653713#Q488668	place of birth$place of death
+Q2350540#Q491121	maintained by$owned by
+Q131320#Q496072	contains the administrative territorial entity
+Q806680#Q496672	stock exchange
+Q11079561#Q496672	stock exchange
+Q727078#Q506250	owned by$located in the administrative territorial entity
+Q499371#Q511731	production company
+Q1187721#Q527464	platform
+Q1041876#Q534290	drainage basin
+Q295530#Q538849	family
+Q1247932#Q539808	linguistic typology
+Q4657804#Q557632	record label
+Q4249764#Q588960	production company
+Q142076#Q656150	part of$member of
+Q2304718#Q664167	record label
+Q1028714#Q703588	contributor to the creative work or subject
+Q812816#Q791615	developer
+Q889578#Q795324	manufacturer
+Q1254088#Q822314	distributed by
+Q2002038#Q844324	filming location
+Q847465#Q858065	platform
+Q734617#Q898217	follows
+Q44016#Q941023	located in time zone
+Q424379#Q941023	located in time zone
+Q3207275#Q945591	voice actor
+Q29999#Q1043527	member of
+Q197265#Q1049520	title of chess person
+Q17075849#Q1080587	spouse
+Q13471258#Q1109410	unmarried partner
+Q731181#Q1126715	mother
+Q21821246#Q1363271	participant
+Q2339349#Q1392321	record label
+Q725539#Q1485801	production company
+Q645342#Q1526804	follows
+Q2338767#Q1620163	followed by
+Q992978#Q2091436	family
+Q231259#Q2104471	record label
+Q1197791#Q2376730	followed by
+Q2661588#Q2400678	screenwriter
+Q16853911#Q2469381	sibling
+Q2976745#Q2593200	follows
+Q1326619#Q2623393	production company
+Q25121560#Q2639216	part of
+Q2665731#Q2742480	follows
+Q2747983#Q2744345	follows
+Q3488424#Q3487187	follows
+Q1137310#Q3540895	production company
+Q17014839#Q3765113	family
+Q118969#Q4775012	educated at
+Q8034927#Q4830453	main subject
+Q7748511#Q5227090	followed by
+Q269412#Q5352166	position held$noble title
+Q4782889#Q5428381	followed by
+Q927553#Q5696218	follows
+Q8028913#Q6608367	educated at
+Q677330#Q6669712	present in work
+Q7138956#Q7924717	owned by
+Q1837662#Q10444865	production company
+Q1529229#Q12301358	from narrative universe
+Q1373946#Q13522376	operating system
+Q17151367#Q17111576	follows
+Q834003#Q18043309	from narrative universe
+Q832242#Q18343247	said to be the same as
+Q7038578#Q19558910	heritage designation
+Q24261461#Q19862344	operating system
+Q7336977#Q29231846	owned by
+Q47005767#Q47086808	followed by
+Q2045645#Q17	country of origin
+Q2983218#Q29	country of origin$filming location
+Q2563013#Q51	continent
+Q449361#Q64	headquarters location
+Q4653948#Q95	distributed by
+Q1867197#Q145	country
+Q6664988#Q145	country$basin country
+Q6777980#Q668	country of origin
+Q18210077#Q668	country of origin
+Q1074886#Q788	located in or next to body of water
+Q21590062#Q7354	located in or next to body of water
+Q54933359#Q8676	conflict
+Q1519922#Q9794	genre
+Q191337#Q16412	member of political party
+Q170340#Q18817	conflict
+Q67876968#Q20716	brand
+Q4034964#Q21077	record label
+Q847550#Q27092	located in or next to body of water
+Q2290433#Q34575	depicts
+Q231694#Q38848	genre
+Q834280#Q42844	medical condition treated
+Q81722501#Q43274	participant
+Q67786#Q44687	military branch$member of$affiliation
+Q247116#Q46970	instance of$legal form
+Q14709445#Q49114	owned by
+Q123528#Q77130	student of
+Q404208#Q79999	father
+Q703413#Q115443	has part(s)
+Q1069384#Q122723	headquarters location
+Q7282568#Q128880	located in or next to body of water
+Q3497182#Q142913	family
+Q708124#Q151701	operator
+Q1475864#Q168360	organizer
+Q2001728#Q168383	production company$distributed by
+Q29825830#Q168383	distributed by
+Q131795#Q168444	father
+Q176253#Q179840	family
+Q743909#Q182933	platform
+Q66738105#Q191224	production company
+Q5423698#Q207770	sponsor
+Q188973#Q211723	genre
+Q1135676#Q217190	sibling
+Q293559#Q223587	place of death
+Q15617884#Q232646	relative
+Q496321#Q238456	ammunition
+Q635472#Q257614	followed by
+Q1463466#Q268046	cast member
+Q7236117#Q311197	majority opinion by
+Q1196157#Q318220	cast member
+Q7262093#Q330629	record label
+Q1533901#Q371400	production company
+Q3889676#Q384764	movement
+Q1102155#Q385338	gens
+Q3506683#Q385831	characters
+Q4641802#Q407064	part of
+Q54806999#Q426144	characters
+Q2950131#Q458610	sibling
+Q3788751#Q531599	executive producer
+Q5393917#Q557632	record label
+Q74528386#Q575618	educated at
+Q3044#Q590208	described by source
+Q15621498#Q596391	package management system
+Q299616#Q642301	family
+Q1526804#Q645342	followed by
+Q309331#Q647039	member of
+Q1378605#Q703588	director
+Q27068114#Q703588	contributor to the creative work or subject
+Q47462149#Q724018	creator
+Q635472#Q735347	follows
+Q6949810#Q818364	headquarters location
+Q459810#Q847142	located in time zone
+Q6607#Q855091	used by
+Q3340004#Q858065	platform
+Q4689014#Q860266	characters
+Q374136#Q909452	family
+Q2817822#Q1023457	location
+Q1119406#Q1049520	title of chess person
+Q4181620#Q1049520	title of chess person
+Q4049687#Q1053322	follows
+Q1200940#Q1196211	software engine
+Q7748281#Q1344736	record label
+Q6785898#Q1432076	child
+Q1525747#Q1598059	father
+Q948253#Q1645840	part of
+Q76725#Q1667757	has works in the collection
+Q640793#Q1770638	child
+Q2614321#Q1796078	sibling
+Q8178868#Q1953290	military branch
+Q11390744#Q2211650	main subject
+Q4275253#Q2227698	relative
+Q28052823#Q2313940	cast member
+Q187333#Q2359372	architectural style
+Q21095#Q2554178	follows
+Q185737#Q2631743	participant in
+Q971446#Q2914560	headquarters location
+Q2635966#Q3380905	political ideology
+Q523140#Q3401368	sibling
+Q470875#Q3519776	relative
+Q1635070#Q3675836	after a work by
+Q2215554#Q3964591	follows
+Q3036055#Q4708438	child
+Q28052823#Q5109344	cast member
+Q1947531#Q5455716	contains the administrative territorial entity
+Q487447#Q6263287	screenwriter
+Q2400982#Q7700070	maintained by$owned by
+Q1576279#Q7759776	followed by
+Q3523458#Q7785297	place of birth
+Q1247#Q11997691	inflows
+Q12201434#Q12201445	said to be the same as
+Q22984503#Q12523859	follows
+Q348819#Q14516389	followed by
+Q1453518#Q16984670	reward program
+Q17984058#Q17076072	distributed by
+Q14171368#Q24046102	characters
+Q50384572#Q50384545	sibling
+Q5234956#Q17	country of origin
+Q375136#Q30	country for sport
+Q215001#Q49	continent
+Q611962#Q49	continent
+Q1468689#Q49	continent
+Q2019662#Q49	continent
+Q4799733#Q49	continent
+Q5188324#Q49	continent
+Q5314679#Q49	continent
+Q7441791#Q49	continent
+Q21489755#Q51	continent
+Q3001560#Q60	narrative location
+Q4466#Q97	narrative location
+Q3819200#Q97	narrative location
+Q16386237#Q99	narrative location
+Q1740293#Q145	country
+Q4849338#Q145	country
+Q4968084#Q145	country
+Q5167054#Q145	country
+Q6395228#Q145	country
+Q6496961#Q145	country
+Q6669894#Q145	country
+Q7498006#Q145	country
+Q7621234#Q145	country
+Q682339#Q413	main subject
+Q12931360#Q668	country of origin
+Q615337#Q828	continent
+Q569998#Q1198	contains the administrative territorial entity
+Q46999340#Q1370	located in the administrative territorial entity
+Q18389602#Q1428	narrative location
+Q1737987#Q1741	narrative location$filming location
+Q76762#Q2079	work location
+Q206188#Q2283	developer
+Q874#Q7270	basic form of government
+Q20204906#Q7598	maintained by
+Q1060037#Q8079	platform
+Q10288#Q9259	heritage designation
+Q1343594#Q9448	league or competition
+Q440145#Q11211	member of
+Q2278263#Q11248	operating system
+Q215182#Q11366	genre
+Q364864#Q11366	genre
+Q712860#Q11366	genre
+Q4264306#Q15180	country$country of origin
+Q3488474#Q16345	cast member
+Q5275820#Q18628	record label
+Q629755#Q23229	located in the administrative territorial entity
+Q23306#Q30192	located in time zone
+Q249173#Q34493	product, material, or service produced or provided
+Q485651#Q37960	located in or next to body of water
+Q212070#Q38848	genre
+Q311050#Q38848	genre
+Q2579443#Q38848	genre
+Q683274#Q40415	movement
+Q152857#Q57123	characters
+Q2915498#Q93259	part of$located in/on physical feature
+Q16277703#Q108631	based on$said to be the same as
+Q806486#Q118850	located in or next to body of water
+Q2003486#Q131574	located in or next to body of water
+Q3182107#Q161885	allegiance
+Q1137945#Q166097	linguistic typology
+Q1018014#Q171510	located in or next to body of water
+Q4288281#Q177005	field of work
+Q327189#Q180114	country of citizenship$family
+Q18124733#Q182865	conflict
+Q1886116#Q183259	platform
+Q1058179#Q184198	item operated$platform
+Q945810#Q189592	located in the administrative territorial entity
+Q1171651#Q191224	production company
+Q1758851#Q193559	distributed by
+Q18851353#Q207542	operating system
+Q471046#Q244783	field of work
+Q730158#Q264137	record label
+Q767219#Q269678	time period
+Q288811#Q281901	characters
+Q3488866#Q318412	cast member
+Q1149837#Q455012	has part(s)
+Q28921895#Q490182	original broadcaster
+Q46094#Q492650	package management system
+Q473034#Q545449	conflict
+Q18349963#Q545449	conflict
+Q18155727#Q570910	production company
+Q2566592#Q572541	part of
+Q788056#Q615640	currency
+Q406785#Q651454	production company$distributed by
+Q170200#Q713750	place of publication
+Q18357711#Q739627	educated at
+Q10861953#Q796793	present in work
+Q14918638#Q843402	record label
+Q108143#Q847142	located in time zone
+Q2465692#Q860266	characters
+Q4944660#Q860266	characters
+Q7499937#Q860266	characters
+Q179645#Q909085	located in time zone
+Q17539077#Q913073	said to be the same as
+Q3093070#Q931597	from narrative universe
+Q652540#Q1094046	educated at
+Q215182#Q1190565	genre
+Q609073#Q1200368	record label
+Q15897419#Q1237447	said to be the same as
+Q7492808#Q1277954	operator
+Q16744066#Q1322354	characters
+Q5283594#Q1330417	record label
+Q29999#Q2085376	located in time zone
+Q3633897#Q2407366	production company
+Q1278637#Q3088127	distributed by
+Q4813173#Q3134980	located in time zone
+Q123326#Q3251801	operating system
+Q1147042#Q3251801	operating system
+Q1058539#Q5419397	distributed by
+Q385468#Q6981730	said to be the same as
+Q2553745#Q7988935	distributed by
+Q57034145#Q14828790	located in/on physical feature
+Q2009#Q16948924	public holiday
+Q23733#Q20426643	characters
+Q5373960#Q17	country of origin
+Q653434#Q38	work location
+Q2821569#Q49	continent
+Q5598614#Q49	continent
+Q1404920#Q51	continent
+Q15070553#Q60	narrative location
+Q463145#Q145	country
+Q544009#Q145	country
+Q839257#Q145	country
+Q1429038#Q145	country$basin country
+Q1867229#Q145	country$basin country
+Q2134138#Q145	allegiance
+Q3425619#Q145	country
+Q5040809#Q145	country
+Q5253689#Q145	country
+Q5998650#Q145	country
+Q6773332#Q145	country
+Q7527359#Q145	allegiance
+Q16987294#Q145	country
+Q19872443#Q145	country
+Q4022343#Q432	religion or worldview
+Q698293#Q980	headquarters location
+Q1757908#Q1439	narrative location
+Q1395422#Q2277	residence
+Q8678#Q2385	present in work
+Q76918#Q2966	work location
+Q84454#Q2966	work location
+Q22003111#Q3224	place of birth
+Q175117#Q5401	continent
+Q4439098#Q5611	located in or next to body of water
+Q1507032#Q6216	political ideology
+Q4085635#Q7243	characters
+Q6245482#Q8663	conflict
+Q3828226#Q9531	distributed by
+Q328786#Q9585	religion or worldview
+Q846349#Q9585	religion or worldview
+Q869944#Q10576	constellation
+Q202859#Q11366	genre
+Q364873#Q11366	genre
+Q381797#Q11366	genre
+Q714845#Q11366	genre
+Q520622#Q16345	cast member
+Q3487426#Q16345	cast member
+Q3488828#Q16345	cast member
+Q654334#Q21077	record label
+Q747557#Q21077	owned by
+Q4962147#Q21077	record label
+Q465904#Q22649	political ideology
+Q23076#Q29999	owned by
+Q331278#Q33203	religion or worldview
+Q293538#Q35484	place of birth$residence
+Q2698248#Q39561	headquarters location
+Q1570354#Q45670	place of birth$country of citizenship
+Q7108811#Q49112	educated at
+Q300706#Q129172	connecting service
+Q1542210#Q166097	linguistic typology
+Q50809266#Q178810	conflict
+Q567072#Q179200	production company
+Q343969#Q179544	family
+Q3126626#Q182865	conflict
+Q251128#Q190960	follows
+Q3250438#Q201712	political ideology
+Q19606873#Q206493	place of publication
+Q662218#Q210703	member of political party
+Q2476673#Q211106	located in the administrative territorial entity
+Q69898351#Q223202	contributor to the creative work or subject
+Q261082#Q231453	mother
+Q675228#Q238990	described by source
+Q3487183#Q254038	cast member
+Q706970#Q269678	time period
+Q333359#Q269732	place of birth$place of death
+Q510254#Q283639	member of
+Q5840086#Q312385	cast member
+Q1056069#Q337535	distributed by
+Q558194#Q355771	military branch
+Q2423436#Q372838	voice actor
+Q221468#Q484344	genre
+Q61677138#Q498569	present in work
+Q677191#Q544124	said to be the same as
+Q1102110#Q660377	characters
+Q25400113#Q726153	record label
+Q1229014#Q775287	sibling
+Q596214#Q788472	currency
+Q19201#Q877693	genre
+Q59644#Q931597	from narrative universe
+Q4963042#Q931597	from narrative universe
+Q6579845#Q1330208	stock exchange
+Q7371446#Q1369525	transport network
+Q2036942#Q1414298	political ideology
+Q3062814#Q1778905	enemy
+Q10428494#Q1785071	has part(s) of the class
+Q243113#Q1939373	sibling
+Q7847178#Q2902300	record label
+Q26400765#Q2902300	record label
+Q1247452#Q3088127	distributed by
+Q270887#Q3134980	located in time zone
+Q3231807#Q3231770	followed by
+Q12296185#Q3286784	sibling
+Q3522379#Q3520190	follows
+Q33#Q4173137	described by source
+Q2836665#Q4889668	sibling
+Q15630581#Q15729029	said to be the same as
+Q108631#Q16277703	said to be the same as
+Q913073#Q17539077	said to be the same as
+Q11027623#Q21061069	said to be the same as
+Q840410#Q21622213	platform
+Q26810500#Q24036383	followed by
+Q1190608#Q27924622	work location
+Q48845171#Q28401321	follows
+Q23572#Q28468107	characters
+Q1784617#Q145	country
+Q2200855#Q145	country
+Q5086879#Q145	country
+Q5692261#Q145	country
+Q7561977#Q145	country
+Q15224172#Q145	country
+Q15235804#Q145	country
+Q6708869#Q245	platform
+Q326858#Q365	headquarters location
+Q12178502#Q432	religion or worldview
+Q4173137#Q656	place of publication
+Q7070655#Q668	country of origin
+Q3802998#Q788	located in or next to body of water
+Q12986765#Q1186	located in the administrative territorial entity
+Q7957381#Q1391	located in the administrative territorial entity
+Q252097#Q1428	narrative location
+Q733577#Q1841	religion or worldview
+Q152549#Q2807	place of birth
+Q151714#Q3071	genre
+Q495167#Q7041	located in time zone
+Q547537#Q7414	record label
+Q3247706#Q7979	field of work
+Q5269245#Q9089	religion or worldview
+Q1886116#Q10677	platform
+Q3088420#Q10680	platform
+Q63969880#Q16552	located in the administrative territorial entity
+Q10965#Q23125	tributary
+Q29999#Q25989	located in time zone
+Q15039861#Q28252	production company
+Q461793#Q30805	located in the administrative territorial entity$named after
+Q2590997#Q32472	league or competition
+Q495483#Q37960	located in or next to body of water
+Q1050528#Q40901	characters
+Q7817215#Q49110	employer
+Q27293#Q81483	has part(s)
+Q237754#Q83969	family
+Q1164755#Q121816	follows
+Q152771#Q128267	characters
+Q158252#Q131412	relative
+Q168279#Q131574	located in or next to body of water
+Q27196933#Q136218	based on
+Q3736070#Q152239	mother
+Q2552890#Q170434	platform
+Q3522555#Q182865	conflict
+Q349223#Q183862	genre
+Q1666805#Q187712	founded by
+Q488994#Q187760	genre
+Q832685#Q189280	political ideology
+Q863042#Q190628	relative
+Q22338877#Q213665	genre
+Q1205962#Q217196	location
+Q44015#Q233067	mother
+Q3487395#Q254038	cast member
+Q3488474#Q254038	cast member
+Q7075484#Q311699	cast member
+Q3488828#Q318412	cast member
+Q2646219#Q331380	location of formation
+Q1249857#Q345420	sibling
+Q620277#Q389690	followed by
+Q6767848#Q485172	residence
+Q15980209#Q492650	update method
+Q3017162#Q578943	record label
+Q2609021#Q595442	follows
+Q608176#Q608195	followed by
+Q389690#Q620277	follows
+Q15627692#Q682748	production company
+Q78539#Q692131	member of political party
+Q98#Q708461	inflows
+Q15864#Q788472	currency
+Q27995710#Q808971	sibling
+Q633848#Q847142	located in time zone
+Q877536#Q858851	member of
+Q946607#Q858851	member of
+Q2674495#Q860266	characters
+Q628392#Q898198	followed by
+Q131203#Q898947	child
+Q193638#Q909085	located in time zone
+Q2265812#Q931597	from narrative universe
+Q2721134#Q931597	from narrative universe
+Q498434#Q991779	voice actor
+Q1902867#Q994776	movement
+Q108631#Q1050684	said to be the same as
+Q1380371#Q1149089	employer
+Q939762#Q1200368	record label
+Q1975383#Q1352872	sibling
+Q21152156#Q2035401	location
+Q842633#Q2095430	family
+Q3400430#Q2332079	follows
+Q1339523#Q2349281	main subject
+Q7687447#Q2352741	league or competition
+Q19795249#Q2626374	composer
+Q420292#Q2807996	developer
+Q1071199#Q2963114	follows
+Q1321517#Q3251801	subclass of
+Q2063791#Q3459982	followed by
+Q3488463#Q3487454	followed by
+Q3487454#Q3488463	follows
+Q20829312#Q3539040	developer
+Q3714941#Q3714939	follows
+Q152239#Q3736070	child
+Q5930#Q3938553	characters
+Q6226112#Q5363475	mother
+Q5363475#Q6226112	child
+Q5177009#Q7785215	follows
+Q2455084#Q11510350	followed by
+Q499807#Q15102435	family
+Q15897419#Q19816276	said to be the same as
+Q187923#Q27924622	residence
+Q498812#Q43382650	founded by$chief executive officer
+Q28401321#Q48845171	followed by
+Q46373386#Q58877964	followed by
+Q379222#Q60643035	has subsidiary$owner of
+Q7991486#Q73881696	characters
+Q917278#Q17	country of origin
+Q7156778#Q21	narrative location
+Q280741#Q48	location
+Q35372#Q145	country
+Q2262955#Q145	country
+Q4084923#Q145	allegiance
+Q4763351#Q145	country$basin country
+Q5305741#Q145	country
+Q8010733#Q145	allegiance
+Q17417537#Q262	operator
+Q3424301#Q668	country of origin
+Q3646310#Q668	country of origin
+Q5071224#Q668	country of origin
+Q336717#Q1085	headquarters location
+Q2086480#Q1345	residence
+Q324667#Q1684	located in or next to body of water
+Q36584#Q2191	indigenous to
+Q3492330#Q3130	headquarters location
+Q115630#Q3869	work location
+Q332358#Q4917	currency
+Q341915#Q5762	located in time zone
+Q605113#Q7056	located in time zone
+Q17372444#Q7240	manufacturer
+Q6199348#Q8663	conflict
+Q1123353#Q8680	participant
+Q506511#Q9259	heritage designation
+Q902329#Q9259	heritage designation
+Q4396600#Q15180	place of birth
+Q10308621#Q18628	record label
+Q24953389#Q21090	record label
+Q2697436#Q27593	performer
+Q28912455#Q33935	work location
+Q22096397#Q51685	residence
+Q30645592#Q51689	headquarters location
+Q14947002#Q58826	participant
+Q349167#Q71084	allegiance
+Q29999#Q131713	anthem
+Q21190139#Q135288	distributed by
+Q550343#Q156433	family
+Q995226#Q182865	conflict
+Q3126626#Q185729	conflict
+Q45373240#Q186125	location
+Q41226#Q191715	owned by
+Q42200#Q197893	contains the administrative territorial entity
+Q106193#Q211723	genre
+Q14370516#Q251144	composer$performer
+Q3488463#Q254038	cast member
+Q654458#Q269678	time period
+Q127548#Q291024	sibling
+Q3487187#Q318412	cast member
+Q7618926#Q325314	conflict
+Q236075#Q387539	record label
+Q155006#Q429788	follows
+Q2947967#Q457893	production company
+Q1358271#Q465449	distributed by
+Q460609#Q467771	followed by
+Q2696703#Q545449	conflict
+Q491252#Q598929	genre
+Q392631#Q617753	sibling
+Q223203#Q701923	military branch
+Q2613701#Q726153	record label
+Q748426#Q728314	follows
+Q2569801#Q798658	record label
+Q1048418#Q821275	airline hub
+Q461540#Q822314	production company
+Q695560#Q835666	followed by
+Q1954369#Q843402	record label
+Q2720471#Q860266	characters
+Q5696218#Q927553	followed by
+Q3977525#Q956756	parent organization
+Q2838293#Q962499	headquarters location
+Q4689014#Q1055776	characters
+Q785059#Q1102231	followed by
+Q2260732#Q1147104	performer
+Q121816#Q1164755	followed by
+Q1368474#Q1230306	mother
+Q343033#Q1343212	publisher
+Q15294742#Q1389604	legal form
+Q1151361#Q1404920	located in or next to body of water
+Q300391#Q1512370	followed by
+Q839331#Q2071905	distributed by
+Q233905#Q2095430	family
+Q708554#Q2095430	family
+Q279859#Q2379199	located in the administrative territorial entity
+Q2549369#Q2407366	production company
+Q1102110#Q2570236	characters
+Q1210990#Q2615143	followed by
+Q9291384#Q2707472	present in work
+Q17893055#Q2738010	cast member
+Q2744345#Q2747983	followed by
+Q4889668#Q2836665	sibling
+Q3042661#Q2887539	drainage basin
+Q3110536#Q3108257	followed by
+Q1193472#Q3899979	child
+Q17632958#Q4630355	follows
+Q1145420#Q4885200	platform
+Q56600071#Q5589303	member of
+Q15281551#Q6900882	record label
+Q7091790#Q7764119	followed by
+Q16972754#Q13479982	product, material, or service produced or provided
+Q14824272#Q14704210	follows
+Q1439952#Q15897419	said to be the same as
+Q15146380#Q16213294	executive producer
+Q18165629#Q18161197	followed by
+Q43024500#Q23796643	present in work
+Q1111300#Q27237604	characters
+Q641310#Q30090244	main subject
+Q55642298#Q31197934	production company
+Q61913556#Q50364330	operating system
+Q180916#Q54893842	present in work
+Q7604375#Q55347125	characters
+Q15361287#Q17	country of origin
+Q62593542#Q17	country of origin
+Q10656194#Q34	country of origin
+Q351793#Q38	country for sport
+Q7171667#Q49	continent
+Q16894228#Q84	named after
+Q2787064#Q145	country
+Q6693758#Q145	country$basin country
+Q2133691#Q213	country of origin$filming location
+Q5139014#Q692	after a work by
+Q719379#Q788	located in or next to body of water
+Q118965#Q1040	work location
+Q84345#Q1930	work location
+Q1266597#Q5762	located in time zone
+Q44272#Q7066	movement$religion or worldview
+Q16922766#Q8646	country$headquarters location
+Q14374#Q8675	constellation
+Q243757#Q9471	field of work
+Q953600#Q10512	owned by$operator$occupant
+Q23125#Q10965	mouth of the watercourse
+Q3297609#Q11248	operating system
+Q366777#Q11366	genre
+Q50111456#Q11768	place of birth
+Q229816#Q12860	father
+Q4131515#Q15180	allegiance
+Q3487395#Q16345	cast member
+Q3296096#Q18628	record label
+Q28468107#Q23572	present in work
+Q151340#Q29999	participant
+Q158256#Q34417	father
+Q1274177#Q34675	located in or next to body of water
+Q76709#Q35277	field of work
+Q14594758#Q37643	conflict
+Q4085635#Q43718	characters
+Q6313015#Q47284	creator
+Q618604#Q48525	applies to jurisdiction
+Q5110087#Q49123	educated at
+Q291024#Q127548	sibling
+Q165241#Q131045	mother
+Q2499127#Q131574	located in or next to body of water
+Q61389#Q131621	family
+Q19906377#Q135288	distributed by
+Q220845#Q176041	sibling
+Q158025#Q180568	country of citizenship$time period
+Q54893842#Q180916	characters
+Q11483798#Q181860	subclass of
+Q3616#Q188608	currency
+Q250064#Q191819	producer
+Q19973770#Q192350	subclass of
+Q1212768#Q192557	production company
+Q15647504#Q193370	headquarters location
+Q498390#Q201739	sibling
+Q187165#Q211723	genre
+Q176041#Q220845	sibling
+Q732728#Q264908	mother
+Q313990#Q313928	part of the series
+Q522508#Q316013	executive producer
+Q8011#Q335516	influenced by
+Q26740131#Q376692	manufacturer
+Q24960705#Q384004	creator
+Q232250#Q457893	production company
+Q4411159#Q466649	record label
+Q260813#Q467825	sibling
+Q219691#Q498806	followed by
+Q702135#Q526746	product, material, or service produced or provided
+Q1626541#Q541753	followed by
+Q522205#Q545449	conflict
+Q18790#Q570910	production company
+Q26318#Q575689	sibling
+Q205570#Q651333	organizer
+Q1152356#Q672803	described by source
+Q7849693#Q837030	transport network
+Q662021#Q849730	operator
+Q60291301#Q922567	characters
+Q1550214#Q989335	has part(s)
+Q1922754#Q1047516	platform
+Q1937537#Q1075485	record label
+Q180748#Q1079140	educated at
+Q12886333#Q1156642	production company$distributed by
+Q775287#Q1229014	sibling
+Q3930455#Q1330417	record label
+Q84441#Q1451250	position held
+Q2265812#Q1990905	present in work
+Q1555385#Q2076844	has part(s)
+Q2525768#Q2263502	followed by
+Q11510350#Q2455084	follows
+Q1214017#Q2499681	follows
+Q573157#Q2556187	child
+Q2337709#Q2633823	follows
+Q628972#Q2634067	producer
+Q2499304#Q2660341	follows
+Q2984502#Q2664096	followed by
+Q2996105#Q2665424	followed by
+Q27267295#Q2711171	contributor to the creative work or subject
+Q5251725#Q3487426	followed by
+Q3471929#Q3521366	followed by
+Q48495861#Q3632964	producer
+Q4021069#Q3699593	record label
+Q2527461#Q4797853	sibling
+Q1344993#Q6186805	sibling
+Q3235276#Q7860124	production company
+Q23572#Q15069990	cast member
+Q19834616#Q15961745	platform
+Q18575024#Q18574426	follows
+Q7550801#Q19861084	member of
+Q2291111#Q20735239	mother
+Q808971#Q27995710	sibling
+Q3181430#Q35	country$founded by$owned by
+Q4922844#Q97	narrative location
+Q18685728#Q165	depicts
+Q93894#Q1867	headquarters location
+Q54064#Q5762	located in time zone
+Q606169#Q7056	located in time zone
+Q1144991#Q8473	subclass of
+Q384813#Q9259	heritage designation
+Q32037314#Q9589	published in
+Q131265#Q11042	subclass of
+Q1115837#Q11936	characters
+Q2349550#Q13360	headquarters location$location of formation
+Q1342689#Q16563	place of birth
+Q378502#Q18808	place of burial
+Q671557#Q19716	located in or next to body of water
+Q1952648#Q21077	record label
+Q672515#Q21091	record label
+Q1755538#Q28252	production company
+Q4985891#Q34975	cast member
+Q184169#Q35277	field of work
+Q3844#Q41876	twinned administrative body
+Q57201#Q44687	member of
+Q273748#Q46130	located in the administrative territorial entity
+Q1361518#Q63734	platform
+Q6954036#Q94933	distributed by
+Q37100#Q129610	twinned administrative body
+Q5489948#Q147909	place of death
+Q77094#Q154494	participant in
+Q447117#Q166097	linguistic typology
+Q5065#Q171510	shares border with$located in or next to body of water
+Q148247#Q177456	subclass of
+Q129234#Q180568	time period
+Q1153321#Q183275	manufacturer
+Q4131576#Q191715	owned by
+Q275600#Q193727	educated at
+Q2061188#Q203059	record label
+Q511924#Q204040	located in or next to body of water
+Q1585666#Q206461	present in work
+Q17630802#Q207615	organizer
+Q23035820#Q209641	creator
+Q75174#Q233660	mother
+Q295120#Q241662	genre
+Q1939373#Q243113	sibling
+Q3134705#Q281418	this zoological name is coordinate with
+Q316489#Q283639	member of
+Q408725#Q298255	cast member
+Q540544#Q333886	educated at
+Q469784#Q338267	followed by
+Q2036443#Q387985	followed by
+Q7644145#Q434585	director
+Q8037362#Q452682	performer
+Q471469#Q467320	follows
+Q1192556#Q484892	part of
+Q1129541#Q492650	package management system
+Q572513#Q577600	followed by
+Q1465011#Q607806	followed by
+Q17109012#Q621592	distributed by
+Q84398#Q631205	member of political party
+Q24336369#Q631855	based on
+Q194726#Q713511	producer
+Q572590#Q722976	manufacturer
+Q602793#Q725690	followed by
+Q775107#Q730994	followed by
+Q50385664#Q775254	unmarried partner
+Q95158#Q785430	present in work
+Q10279737#Q800179	sibling
+Q1465829#Q822314	production company
+Q7681863#Q832685	member of political party
+Q2122661#Q860266	characters
+Q3650684#Q880314	record label
+Q1814981#Q903621	developer
+Q3039224#Q931597	from narrative universe
+Q941816#Q941245	followed by
+Q383541#Q1060750	uses
+Q1133204#Q1073854	composer
+Q909794#Q1087728	follows
+Q3507037#Q1189355	composer
+Q223374#Q1295611	producer$executive producer
+Q2760441#Q1330417	record label
+Q3782969#Q1330417	record label
+Q4738930#Q1330417	record label
+Q12679#Q1340608	contains the administrative territorial entity
+Q4421#Q1502633	model item
+Q575689#Q1816737	father
+Q513809#Q2056096	creator
+Q2571067#Q2118269	contributor to the creative work or subject
+Q30263613#Q2370801	parent organization
+Q190555#Q2580456	start point
+Q2369339#Q2630674	manufacturer
+Q4828056#Q2712069	characters
+Q4708438#Q3036055	father
+Q1049#Q3086706	emergency phone number
+Q3108257#Q3110536	follows
+Q2318277#Q3211591	follows
+Q27889400#Q3277355	producer
+Q3507037#Q3444444	followed by
+Q14370516#Q3879177	production company
+Q7525#Q4173137	described by source
+Q7857147#Q4486161	follows
+Q19573286#Q4750183	follows
+Q719156#Q5257683	child
+Q37876#Q6693225	residence
+Q800179#Q10279737	sibling
+Q7138956#Q10931299	operator
+Q73257167#Q11835640	present in work
+Q128195#Q12470136	follows
+Q6546094#Q20685872	follows
+Q19899443#Q20737645	family
+Q29197075#Q22947462	follows
+Q57422342#Q57422339	followed by
+Q57422339#Q57422342	follows
+Q1197712#Q21	narrative location
+Q7866380#Q61	headquarters location
+Q2837826#Q432	religion or worldview
+Q905302#Q749	named after
+Q18458203#Q3803	indigenous to
+Q4118614#Q5094	location
+Q272118#Q6186	political ideology
+Q7981939#Q6216	political ideology
+Q48278#Q6506	twinned administrative body
+Q855091#Q6607	uses
+Q509716#Q7056	located in time zone
+Q7060#Q7081	movement
+Q2606101#Q7867	health specialty
+Q1338913#Q8279	present in work
+Q305952#Q9585	religion or worldview
+Q1971776#Q9585	political ideology
+Q284890#Q11248	operating system
+Q834621#Q11366	genre
+Q227308#Q11368	operating system
+Q453512#Q15804	participant in
+Q7268179#Q15857	characters
+Q61869534#Q18498	parent taxon
+Q304030#Q28252	production company
+Q1161590#Q33143	conflict
+Q1887050#Q35794	educated at
+Q18199165#Q43449	author
+Q2652827#Q44687	member of
+Q739761#Q49053	manufacturer
+Q4165785#Q55720	child
+Q380443#Q76710	influenced by
+Q30645592#Q81799	industry
+Q158023#Q131520	nominated for
+Q942353#Q134661	named after
+Q176495#Q152661	located in or next to body of water
+Q158248#Q158252	child
+Q28769346#Q178561	depicts
+Q52289127#Q178837	original broadcaster
+Q84170#Q184189	located in or next to body of water
+Q326887#Q184814	movement
+Q291010#Q189458	movement
+Q28666067#Q190795	operator$organizer
+Q3620669#Q193048	cast member
+Q2058224#Q203059	record label
+Q2577524#Q203059	record label
+Q11831154#Q207337	participating team
+Q1473722#Q209065	participant
+Q288035#Q209868	platform
+Q170489#Q210593	characters
+Q15401451#Q219528	part of
+Q952340#Q229807	characters
+Q714884#Q259934	child
+Q467825#Q260813	sibling
+Q231453#Q261082	child
+Q836170#Q269678	time period
+Q1249648#Q271362	father
+Q738613#Q312480	spouse
+Q60200417#Q319693	lyricist
+Q5380310#Q329743	sibling
+Q15992359#Q337535	distributed by
+Q740940#Q379551	follows
+Q79999#Q404208	child
+Q4749729#Q430910	nominated for
+Q838527#Q461552	follows
+Q1063571#Q466649	record label
+Q2314702#Q547537	followed by
+Q3490194#Q594126	record label
+Q11688776#Q622435	present in work
+Q493807#Q651454	distributed by
+Q2665964#Q714884	mother
+Q3103954#Q732717	instance of$subclass of
+Q728314#Q748426	followed by
+Q144002#Q833040	operator
+Q3275575#Q837030	transport network
+Q6392142#Q837030	transport network
+Q51097283#Q843402	record label
+Q1967172#Q860266	characters
+Q130308#Q861262	contains the administrative territorial entity
+Q1574177#Q959538	followed by
+Q23796643#Q1063455	production company
+Q4628#Q1123613	electrical plug type
+Q320943#Q1124865	located in/on physical feature
+Q2376730#Q1197791	follows
+Q732728#Q1280678	sibling
+Q14926451#Q1343367	part of the series
+Q1788081#Q1400291	member of
+Q15790827#Q1470264	record label
+Q1771625#Q1506552	educated at
+Q541753#Q1626541	follows
+Q549449#Q2013526	owner of
+Q4635305#Q2037863	owned by
+Q3459982#Q2063791	follows
+Q547537#Q2314702	follows
+Q2633823#Q2337709	followed by
+Q1620163#Q2338767	follows
+Q2337271#Q2420330	residence
+Q4797853#Q2527461	sibling
+Q2335831#Q2552100	follows
+Q2593200#Q2976745	followed by
+Q281418#Q3134705	this zoological name is coordinate with
+Q2607923#Q3137415	followed by
+Q306101#Q3251801	operating system
+Q2395940#Q4390263	owned by
+Q7300960#Q5282901	followed by
+Q18165629#Q5596108	participant
+Q4785032#Q6266418	screenwriter
+Q820819#Q6883235	executive producer
+Q11714225#Q11835640	present in work
+Q723295#Q16207382	relative
+Q18390000#Q18348211	follows
+Q2615615#Q20752232	child
+Q17625893#Q21189892	followed by
+Q775254#Q50385664	unmarried partner
+Q7888611#Q2	work location
+Q483676#Q406	location of formation
+Q5244955#Q413	main subject
+Q6389562#Q753	product, material, or service produced or provided
+Q1133664#Q1841	religion or worldview
+Q181694#Q3258	located in the administrative territorial entity
+Q576371#Q8341	main subject
+Q318587#Q11366	genre
+Q782550#Q11366	genre
+Q1440760#Q11947	characters
+Q758852#Q18628	record label
+Q3832261#Q18954	present in work
+Q154815#Q21077	record label
+Q2938630#Q21091	record label
+Q48063#Q23088	contains the administrative territorial entity
+Q14944179#Q23124	narrative location
+Q370746#Q37660	located in or next to body of water
+Q188538#Q43600	characters
+Q2000659#Q45551	historical region
+Q1025106#Q47164	headquarters location$location of formation
+Q69166#Q50662	educated at
+Q15361287#Q56942	platform
+Q6840667#Q61071	used by
+Q80001#Q80111	followed by
+Q18002970#Q81589	family
+Q3648541#Q102507	main subject
+Q92619#Q131222	field of work
+Q1763559#Q134382	producer
+Q31#Q141720	member of
+Q804927#Q160302	educated at
+Q6022926#Q180960	parent taxon
+Q853594#Q190978	member of sports team
+Q338888#Q192152	subclass of
+Q627114#Q207103	architectural style
+Q30278266#Q215354	location
+Q22948744#Q217196	country$participant
+Q12860#Q229816	child
+Q1051167#Q235248	performer
+Q240113#Q241313	child
+Q314812#Q259703	spouse
+Q28084111#Q269792	employer
+Q1512370#Q300391	follows
+Q12722#Q325085	contains the administrative territorial entity
+Q1294789#Q391895	manufacturer
+Q3062632#Q427611	conferred by
+Q962442#Q430682	has works in the collection
+Q179876#Q431488	participant in
+Q113846#Q456741	significant person
+Q80976#Q505950	residence
+Q15483356#Q505994	producer
+Q380996#Q557387	production company
+Q577600#Q572513	follows
+Q2915121#Q594805	sibling
+Q9539#Q621277	readable file format
+Q22905745#Q621592	distributed by
+Q153440#Q646220	manufacturer
+Q481698#Q660770	owned by$operator
+Q62602675#Q739650	contributor to the creative work or subject
+Q457433#Q766818	child
+Q956923#Q816814	participant
+Q5094255#Q837030	transport network
+Q7765993#Q837676	voice actor
+Q1334011#Q843882	contains the administrative territorial entity
+Q2606256#Q860266	characters
+Q2597748#Q866629	followed by
+Q62124699#Q891732	production company
+Q596159#Q928410	followed by
+Q463385#Q940135	position held
+Q4689014#Q1101459	characters
+Q281617#Q1113541	record label
+Q345420#Q1249857	sibling
+Q7561480#Q1344736	record label
+Q428311#Q1352215	conflict
+Q2334056#Q1386659	trained by
+Q310161#Q1394262	employer
+Q225912#Q1427030	characters
+Q234131#Q1473065	spouse
+Q29380359#Q1571871	present in work
+Q1998151#Q2056096	composer
+Q4872527#Q2094886	location
+Q167374#Q2326925	production company
+Q28666067#Q2415633	space launch vehicle
+Q48739348#Q2427367	father
+Q866629#Q2597748	follows
+Q1427030#Q2713545	performer
+Q64590669#Q2858140	industry
+Q1050459#Q3251801	operating system
+Q656#Q4173137	described by source
+Q5743163#Q5053018	followed by
+Q531340#Q5529977	production company
+Q5281775#Q6499202	founded by
+Q2073960#Q6761976	mother
+Q16952142#Q7007562	follows
+Q2503246#Q7700070	maintained by$owned by
+Q5267117#Q7776238	follows
+Q819644#Q15139655	present in work
+Q313005#Q15715740	family
+Q31043671#Q15926885	follows
+Q3595441#Q16734076	child
+Q18574426#Q18575024	followed by
+Q473873#Q20800404	owned by
+Q21038687#Q21038684	based on
+Q23661269#Q22326445	follows
+Q71834523#Q30246735	present in work
+Q1046049#Q38125561	place of death
+Q26709835#Q39052590	followed by
+Q27889400#Q49117245	followed by
+Q59378646#Q59246989	follows
+Q3054276#Q63191953	tracklist
+Q2659593#Q64223531	described by source
+Q93201#Q506	has part(s)
+Q7132240#Q1486	residence
+Q580195#Q1741	headquarters location
+Q231765#Q7056	located in time zone
+Q1268605#Q7203	child$sibling
+Q76555#Q22722	position held
+Q501874#Q131520	nominated for
+Q157812#Q155594	family
+Q16463#Q159334	subclass of
+Q4985891#Q188784	main subject
+Q17091578#Q191715	owned by
+Q928652#Q201712	political ideology
+Q161678#Q296008	cast member
+Q259703#Q314812	spouse
+Q1193379#Q392147	part of the series$published in
+Q2604800#Q427611	conferred by
+Q7111082#Q602612	followed by
+Q175755#Q615640	currency
+Q2715662#Q696116	political ideology
+Q506250#Q727078	owner of
+Q1151157#Q858241	followed by
+Q744652#Q860266	characters
+Q1428966#Q1075802	followed by
+Q19888560#Q1662414	part of
+Q387985#Q2036443	follows
+Q2901086#Q2308372	position held
+Q1049480#Q2326925	production company
+Q594805#Q2915121	sibling
+Q5272818#Q16929563	sibling
+Q23796643#Q43024500	characters
+Q858415#Q47050	participating team
+Q215051#Q11222	operating system

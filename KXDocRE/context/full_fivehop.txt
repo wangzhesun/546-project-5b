@@ -1,0 +1,104 @@
+Q338041#Q37073	language of work or name#English#country#Canada#anthem#O Canada#lyricist#Justin Bieber#genre
+Q191782#Q217570	operating system#Microsoft Windows#developer#Microsoft#owner of#Windows Media Player#has edition or translation#Windows Media Player, version 12#readable file format
+Q4486161#Q7857147	takes place in fictional universe#Star Trek universe#fictional universe described in#Star Trek: Lower Decks#has part(s)#Star Trek: Lower Decks, season 4#has part(s)#Twovix#references work, tradition or theory
+Q918194#Q48493	instance of#video game#instance of#software category#is metaclass for#software#model item#Firefox#operating system
+Q2578684#Q2578626	part of the series#The Simpsons#characters#Apu Nahasapeemapetilon#sibling#Sanjay Nahasapeemapetilon#child#Pahusacheta Nahasapeemapetilon#present in work
+Q2665964#Q259934	sibling#Anna Maria Mussolini#father#Benito Mussolini#topic's main category#Category:Benito Mussolini#category's main topic#Benito Mussolini#child
+Q83978#Q1156334	production company#Nickelodeon Animation Studio#business division#Nickelodeon Digital#parent organization#Paramount Media Networks#has subsidiary#CMT#parent organization
+Q2298901#Q2632892	headquarters location#Moscow#located in the administrative territorial entity#Russia#executive body#Government of Russia#has subsidiary#Aeroflot#stock exchange
+Q28975#Q215030	writing language#English#named after#England#capital#London#different from#Greater London#contains the administrative territorial entity
+Q259934#Q2895943	sibling#Anna Maria Mussolini#father#Benito Mussolini#topic's main category#Category:Benito Mussolini#category's main topic#Benito Mussolini#child
+Q35160593#Q1473065	instance of#film#properties for this type#Kvikmyndir film ID#Wikidata property example#Reykjavík-Rotterdam#derivative work#Contraband#producer
+Q1576279#Q11401	country of origin#United States of America#diplomatic relation#Canada#anthem#O Canada#lyricist#Justin Bieber#genre
+Q194501#Q189464	programmed in#C#instance of#programming language#properties for this type#copyright license#Wikidata property example#Inkscape#GUI toolkit or framework
+Q128491#Q190585	language of work or name#English#country#Canada#anthem#O Canada#lyricist#Justin Bieber#record label
+Q159943#Q395	part of#mathematics#topic's main category#Category:Mathematics#category's main topic#mathematics#part of#formal science#has part(s)
+Q6296387#Q634019	director#Carlos Saldanha#notable work#Ice Age#has part(s)#Ice Age: Collision Course#followed by#Ice Age 6#production company
+Q2982737#Q245188	country#Argentina#described by source#Catholic Encyclopedia#place of publication#New York City#owner of#370 Jay Street#architectural style
+Q21189892#Q17625893	followed by#2017 WNBA draft#follows#2016 WNBA draft#followed by#2017 WNBA draft#follows#2016 WNBA draft#follows
+Q1765236#Q11399	place of publication#United Kingdom#contains the administrative territorial entity#England#different from#England#genre#progressive rock#subclass of
+Q3714946#Q3246876	followed by#2004 NFL Draft#followed by#2005 NFL Draft#follows#2004 NFL Draft#followed by#2005 NFL Draft#follows
+Q3246876#Q3714946	followed by#2005 NFL Draft#follows#2004 NFL Draft#follows#2003 NFL Draft#follows#2002 NFL Draft#followed by
+Q162829#Q14712	has fruit type#drupe#topic's main category#Category:Drupes#category's main topic#drupe#topic's main category#Category:Drupes#category's main topic
+Q508722#Q310637	mother#My Skarsgård#spouse#Stellan Skarsgård#spouse#My Skarsgård#child#Q10797402#Q1152150	character type#supervillain#instance of#stock character#Wikidata property#character type#Wikidata property example#Agamemno#from narrative universe
+Q470507#Q1375196	cast member#Morgan Freeman#nominated for#Academy Award for Best Actor#winner#Jean Dujardin#notable work#Little White Lies#production company
+Q967478#Q1473065	instance of#film#properties for this type#Kvikmyndir film ID#Wikidata property example#Reykjavík-Rotterdam#derivative work#Contraband#producer
+Q3041572#Q347111	creator#Genndy Tartakovsky#related category#Category:Films directed by Genndy Tartakovsky#category combines topics#Genndy Tartakovsky#related category#Category:Films directed by Genndy Tartakovsky#category combines topics
+Q1816737#Q575689	child#Kourtney Kardashian#sibling#Rob Kardashian#sibling#Kourtney Kardashian#notable work#The Kardashians#cast member
+Q698232#Q11297	official language#French#country#Morocco#shares border with#European Union#official observer status in organisation#United Nations General Assembly#headquarters location
+Q3272955#Q11399	language of work or name#English#influenced by#French#has tense#past imperfect#different from#Imperfect#genre
+Q2397570#Q11401	country of origin#United States of America#diplomatic relation#Canada#anthem#O Canada#lyricist#Justin Bieber#genre
+Q1816727#Q98	located in or next to body of water#Pacific Ocean#inflows#Columbia River#tributary#Goldstream River#mouth of the watercourse#Columbia River#mouth of the watercourse
+Q784760#Q3714946	followed by#2003 NFL Draft#follows#2002 NFL Draft#followed by#2003 NFL Draft#followed by#2004 NFL Draft#follows
+Q45041157#Q83276	sport#association football#uses#association football pitch#sport#association football#authority#FIFA#has subsidiary
+Q1057130#Q828386	uses#AMOS#used by#Neos#airline hub#Milan–Malpensa "Silvio Berlusconi" Airport#operator#Società Esercizi Aeroportuali SEA#headquarters location
+Q1060323#Q170420	instance of#video game#properties for this type#CERO rating#Wikidata property example#Super Mario Bros.#published in#Super Mario All-Stars#developer
+Q2329256#Q183412	performer#Iron Maiden#different from#Iron maiden#different from#Iron Maiden#has part(s)#Bruce Dickinson#record label
+Q1155668#Q1361045	country#Netherlands#capital#Amsterdam#member of#C40 Cities Climate Leadership Group#sponsor#VELUX#member of
+Q222929#Q7764112	present in work#Star Trek: Deep Space Nine#plot expanded in#Gamma Quadrant#part of#Star Trek Online#narrative location#Deep Space 9#present in work
+Q220105#Q2665964	member of political party#National Fascist Party#chairperson#Benito Mussolini#father#Alessandro Mussolini#child#Benito Mussolini#child
+Q1230306#Q1368474	child#Holika#father#Kashyapa#spouse#Diti#child#Holika#sibling
+Q831035#Q16743287	follows#One More Chance#followed by#Hold My Hand#followed by#Love Never Felt So Good#follows#Hold My Hand#followed by
+Q60002#Q59644	member of#X-Men#derivative work#X-Men Legends#based on#X-Men#has part(s)#Colossus#unmarried partner
+Q913179#Q1043096	country#Serbia#shares border with#Hungary#head of government#Viktor Orbán#movement#conservatism#has part(s)
+Q426144#Q54806999	from narrative universe#Star Trek universe#fictional universe described in#Day of Honor#main subject#Klingon#present in work#Q1316417#Q1474668	present in work#Star Trek: The Next Generation#based on#Star Trek: The Original Series#characters#James T. Kirk#residence#Tarsus IV#present in work
+Q460379#Q17305144	cast member#Michael Imperioli#notable role#Uriel#present in work#Lucifer#production company#Q1066094#Q839717	follows#One More Chance#follows#Butterflies#followed by#One More Chance#followed by#What More Can I Give#followed by
+Q2895943#Q2665964	father#Benito Mussolini#mother#Rosa Maltoni#spouse#Alessandro Mussolini#child#Benito Mussolini#child
+Q1002798#Q190585	language of work or name#English#country#Canada#anthem#O Canada#lyricist#Justin Bieber#record label
+Q1886096#Q1328962	followed by#Porsche 911 GT1#follows#Porsche 959#followed by#Porsche 911 GT1#topic's main category#Category:Porsche 911 GT1#category's main topic
+Q852014#Q66082243	part of#Elton John's albums in chronological order#has part(s)#Madman Across the Water#tracklist#Madman Across the Water#published in#Madman Across the Water#tracklist
+Q3289957#Q3305947	part of#In Through the Out Door#tracklist#Hot Dog#follows#Candy Store Rock#followed by#Hot Dog#follows
+Q632328#Q1473065	instance of#film#properties for this type#Kvikmyndir film ID#Wikidata property example#Reykjavík-Rotterdam#derivative work#Contraband#producer
+Q1432225#Q48	mouth of the watercourse#Jordan River#tributary#Dan River#continent#Asia#part of#Eurasia#has part(s)
+Q10706#Q925968	part of the series#The Simpsons#has part(s)#The Simpsons, season 4#has part(s)#Lisa's First Word#follows#Mr. Plow#composer
+Q259934#Q2665964	relative#Arnaldo Mussolini#mother#Rosa Maltoni#spouse#Alessandro Mussolini#child#Benito Mussolini#child
+Q698281#Q70972	country#Italy#country#Italy#country#Italy#shares border with#France#replaces
+Q372617#Q11399	language of work or name#English#influenced by#French#has tense#past imperfect#different from#Imperfect#genre
+Q1827853#Q2361433	followed by#Treehouse of Horror VI#part of#Treehouse of Horror#has part(s)#Treehouse of Horror V#characters#Kodos#present in work
+Q5554265#Q5554472	has part(s)#Nightmare of Eden III#followed by#Nightmare of Eden IV#part of#Nightmare of Eden#followed by#Q6058928#Q5891	place of publication#Paris#head of government#Anne Hidalgo#instance of#human#has characteristic#gender#studied in
+Q21095#Q11401	country of origin#United States of America#shares border with#Canada#anthem#O Canada#lyricist#Justin Bieber#genre
+Q2983914#Q111786	follows#Treehouse of Horror VIII#part of#Treehouse of Horror#has part(s)#Treehouse of Horror XXXI#characters#Kodos#present in work
+Q913421#Q17517	manufacturer#Nokia#different from#Nokia#different from#Nokia#product, material, or service produced or provided#smartphone#subclass of
+Q898198#Q628392	follows#Cow Days#season#South Park, season 2#topic's main template#Template:South Park (season 2)#template has topic#South Park, season 2#has part(s)
+Q2895943#Q259934	father#Benito Mussolini#mother#Rosa Maltoni#spouse#Alessandro Mussolini#child#Benito Mussolini#child
+Q775#Q524808	contains the administrative territorial entity#Arnhem#shares border with#Westervoort#contains settlement#Westervoort#contains settlement#Westervoort#contains settlement
+Q16970489#Q5849	country#Australia#shares border with#Indonesia#diplomatic relation#Fiji#head of government#Sitiveni Rabuka#sport
+Q7699307#Q7045118	part of the series#How I Met Your Mother#characters#Robin Scherbatsky#present in work#How I Met Your Mother#has part(s)#How I Met Your Mother, season 3#has part(s)
+Q16113955#Q1145814	country of citizenship#United States of America#country#United States of America#diplomatic relation#Montenegro#head of state#Jakov Milatović#educated at
+Q3312712#Q595448	country#United States of America#diplomatic relation#Japan#capital#Tokyo#headquarters location#Tokyo Metropolitan Government Building#architectural style
+Q14704210#Q14824272	followed by#UFC 168#followed by#UFC 169: Barao vs. Faber II#follows#UFC 168#follows#UFC 167#followed by
+Q830038#Q7764112	present in work#Envoys#characters#Beckett Mariner#present in work#Star Trek Online#narrative location#Deep Space 9#present in work
+Q152260#Q1753846	child#Prince Albert Victor, Duke of Clarence and Avondale#godparent#Leopold I of Belgium#sibling#Princess Sophie of Saxe-Coburg-Saalfeld#sibling#Leopold I of Belgium#family
+Q38685547#Q35332	instance of#film#properties for this type#director#Wikidata property example#Titanic#award received#MTV Movie Award for Best Male Performance#winner
+Q130088#Q1145814	instance of#human#properties for this type#lifestyle#Wikidata property example#Hugh Hefner#educated at#University of Illinois Urbana–Champaign#parent organization
+Q991#Q667661	occupation#translator#properties for this type#native language#Wikidata property example#Leo Tolstoy#influenced by#Stendhal#movement
+Q2598685#Q3211498	part of the series#The Simpsons#characters#Reverend Lovejoy#spouse#Helen Lovejoy#child#Jessica Lovejoy#first appearance
+Q2279015#Q159846	instance of#film#subclass of#audiovisual work#properties for this type#director#Wikidata property example#Titanic#production company
+Q1637720#Q5891	language of work or name#French#has grammatical mood#imperative#subclass of#grammatical category#subclass of#property#studied in
+Q1856518#Q25245117	owned by#Vodafone#chief executive officer#Nick Read#employer#Vodafone#has subsidiary#Vodacom#industry
+Q231150#Q982472	sibling#John Beaufort, 1st Earl of Somerset#sibling#Henry Beaufort#unmarried partner#Alice FitzAlan#child#Joan Beaufort#father
+Q54958795#Q48847707	followed by#UFC 228#follows#UFC 227#follows#UFC 226#followed by#UFC 227#follows
+Q381731#Q1473065	instance of#film#properties for this type#Kvikmyndir film ID#Wikidata property example#Reykjavík-Rotterdam#derivative work#Contraband#producer
+Q842306#Q703588	instance of#film#properties for this type#production designer#subproperty of#art director#Wikidata property example#Robin Hood#director
+Q280779#Q2659927	part of the series#The Simpsons#has part(s)#The Simpsons, season 6#has part(s)#Bart of Darkness#season#The Simpsons, season 6#has part(s)
+Q7737284#Q546404	media franchise#Star Trek#fandom#Trekkie#interested in#Star Trek: The Original Series#has spin-off#Star Trek: Deep Space Nine#characters
+Q752313#Q1473065	instance of#film#properties for this type#Kvikmyndir film ID#Wikidata property example#Reykjavík-Rotterdam#derivative work#Contraband#producer
+Q285543#Q259934	child#Romano Floriani Mussolini#relative#Benito Mussolini#mother#Rosa Maltoni#child#Benito Mussolini#child
+Q3303820#Q3305947	followed by#Candy Store Rock#followed by#Hot Dog#follows#Candy Store Rock#followed by#Hot Dog#follows
+Q27958298#Q1473065	instance of#film#properties for this type#Kvikmyndir film ID#Wikidata property example#Reykjavík-Rotterdam#derivative work#Contraband#producer
+Q1626047#Q2042914	part of the series#The Simpsons#has part(s)#The Simpsons, season 8#has part(s)#The Secret War of Lisa Simpson#follows#The Simpsons Spin-Off Showcase#followed by
+Q190960#Q251128	followed by#Chillin#follows#LoveGame#followed by#Chillin#follows#LoveGame#followed by
+Q5197162#Q388	instance of#free software#facet of#computer program#part of#software#properties for this type#programmed in#Wikidata property example
+Q453611#Q7982829	relative#Mike Love#relative#Wendy Wilson#relative#Kevin Love#relative#Q976827#Q70972	instance of#war#participant#state#properties for this type#head of state#Wikidata property example#France#replaces
+Q2089166#Q1325591	country#United States of America#member of#United Nations#headquarters location#New York City#owner of#42nd Street Shuttle#operator
+Q3999155#Q4733960	followed by#Burn#follows#Triumphant (Get 'Em)#followed by#Diced Pineapples#follows#Triumphant (Get 'Em)#followed by
+Q330332#Q1473065	instance of#film#properties for this type#Kvikmyndir film ID#Wikidata property example#Reykjavík-Rotterdam#derivative work#Contraband#producer
+Q518760#Q190795	location of landing#Kazakhstan#continent#Asia#part of#Earth#child astronomical body#International Space Station#operator
+Q4271023#Q15215794	part of#Commercial Resupply Services#vessel#Cygnus#has use#Commercial Resupply Services#has part(s)#SpaceX CRS-4#space launch vehicle
+Q154423#Q1753846	sibling#Prince Albert Victor, Duke of Clarence and Avondale#godparent#Leopold I of Belgium#unmarried partner#Karoline Bauer#unmarried partner#Leopold I of Belgium#family
+Q15519286#Q652649	operator#United States Air Force#described by source#US Air Force Air Power Directory#depicts#LGM-30 Minuteman#described by source#US Air Force Air Power Directory#depicts
+Q961862#Q2615578	season#The Simpsons, season 9#has part(s)#The City of New York vs. Homer Simpson#followed by#The Principal and the Pauper#season#The Simpsons, season 9#has part(s)
+Q42831#Q667661	instance of#human#properties for this type#Larousse ID#Wikidata property example#Honoré de Balzac#notable work#Eugénie Grandet#movement
+Q22237142#Q3761	instance of#human#model item#Leonardo da Vinci#residence#Rome#twinned administrative body#Washington, D.C.#twinned administrative body
+Q2665964#Q220105	sibling#Edda Mussolini#relative#Arnaldo Mussolini#father#Alessandro Mussolini#child#Benito Mussolini#relative
+Q17041243#Q5849	country#Australia#shares border with#Indonesia#diplomatic relation#Fiji#head of government#Sitiveni Rabuka#sport
